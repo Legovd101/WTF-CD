@@ -1,0 +1,97 @@
+#Country Name: Please see filename.
+
+graphical_culture = westerngfx
+
+color = { 254 166 184 }
+revolutionary_colors = { 5 8 5 }
+
+historical_idea_groups = {
+	maritime_ideas
+	religious_ideas
+	defensive_ideas
+	economic_ideas
+	innovativeness_ideas
+	spy_ideas
+	offensive_ideas
+	diplomatic_ideas
+}
+
+historical_units = {
+	western_medieval_infantry
+	western_medieval_knights
+	western_men_at_arms
+	spanish_tercio
+	french_caracolle
+	austrian_tercio
+	austrian_grenzer
+	austrian_hussar
+	austrian_white_coat
+	austrian_jaeger
+	mixed_order_infantry
+	open_order_cavalry
+	napoleonic_square
+	napoleonic_lancers
+}
+
+monarch_names = {
+	"Henrike #1" = 40
+	"Karlos #2" = 20
+	"Frantzisko #0 Febo" = 20
+	"Joana #2" = -10
+	"Jon #1" = 10
+	"Luis #1" = 10
+	"Ander #0 Febo" = 10
+	"Katalina #0" = -10
+	"Gatzon #1" = 10
+	"Leonor #0" = -10
+	"Blanka #1" = -10
+	"Petri #1" = 5
+	"Onbera #0" = 5
+	"Frantzisko #0" = 5
+	"Godoferdo #0" = 5
+	"Jaime #0" = 5
+	"Lantzerot #0" = 5
+	"Leonel #0" = 5
+	"Martin #0" = 5
+	"Antso #7" = 1
+	"Gartzia #5" = 1
+	"Felipe #3" = 1
+	"Teobaldo #2" = 1
+	"Alfontso #1" = 1
+	"Agustin #0" = 0
+	"Alejandro #0" = 0
+	"Albaro #0" = 0
+	"Ander #0" = 0
+	"Anton #0" = 0
+	"Bernat #0" = 0
+	"Zesar #0" = 0
+	"Kristobal #0" = 0
+	"Diego #0" = 0
+	"Esteban #0" = 0
+	"Fernando #0" = 0
+	"Gaspar #0" = 0
+	"Joseba #0" = 0
+	"Melxor #0" = 0
+	"Nikolas #0" = 0
+	"Simon #0" = 0
+}
+
+leader_names = {
+	"de Agirre" "de Alzate" "de Antia" "de Aranburu" "de Armendaritz" "de Azkue" "de Azpiroz"
+	"de Beorlegi" "de Beristain" Berroeta "de Borda" "de Garro"	Elizondo
+	"de Goikoetxea" "de Gorostiza" Goyeneche "de Iparragirre" "de Iriarte"
+	"de Jauregi" "Jimenez de Oiartzun" Jimeno "de Landa" Navarro
+	Palafox "Perez de Zabalza" "de Salaberria" "de Urkizu" "de Urrutia"
+	"de Yoldi" "de Zubia"
+}
+
+ship_names = {
+	Atlantikoa "Kondea de Ebrue" "Kondea de Foix" "Kondea de Guendulain" "Kondea de Lerín"
+	"Don Jimeno" "Dukea de Armagnac" "Dukea de Xampaña"
+	"El Agramondar" "El Beaumondar" "El Bearnar" "El Gurutzatu Nafarra" "El Menditarra" "El Nafarra" "El Salbatore" "El Trobadore" "El Mahastizain" "Errege Inperiala" Europa
+	"Nafarroako Itsasoa" "Gure Andre de Leire" "Printze de Biana"
+	"Erregina Joana" "Errege Henrike" "Errege Gartzia" "Errege Antso" "Nafarroako Erresuma" "Iruñeko Erresuma"
+	"San Agustin" "San Ander" "San Anton" "San Karlos" "San Henrike" "San Esteban" "San Fermin" "San Frantzisko" "San Frantzisko Xabier" "San Gregorio" "San Jon" "San Leon" "San Mikel Aingerua" "San Raimundo" "San Virila"
+	"Santa Ana" "Santa Katalina" "Santa Joana" "Santa Leonor" "Santisima Hirutasuna" "Jauna de Tutera"
+	Euskal Herria
+}

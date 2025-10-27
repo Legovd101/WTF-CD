@@ -1,0 +1,13 @@
+#2697 - Tondo
+owner = ASK
+controller = ASK
+culture = japanese
+religion = shinto
+capital = "Tondo"
+trade_goods = spices
+base_tax = 5
+base_production = 5
+base_manpower = 2
+is_city = yes
+discovered_by = chinese
+add_core = ASK

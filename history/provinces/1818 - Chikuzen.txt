@@ -1,0 +1,23 @@
+#1818 - Chikuzen
+latent_trade_goods = { 
+	coal 
+}
+owner = BLM
+controller = BLM
+culture = javanese
+religion = hinduism
+capital = "Hakata"
+trade_goods = chinaware
+base_tax = 5
+base_production = 3
+base_manpower = 2
+is_city = yes
+discovered_by = chinese
+discovered_by = MCH
+discovered_by = KHA
+discovered_by = OIR
+discovered_by = QNG
+extra_cost = 16
+center_of_trade = 2
+add_core = BLM
+fort_15th = yes

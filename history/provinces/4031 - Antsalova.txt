@@ -1,0 +1,13 @@
+#4031 - Antsalova
+owner = ZAN
+controller = ZAN
+culture = swahili
+religion = shamanism#Fetishism
+capital = "Antsalova"
+trade_goods = slaves
+base_tax = 1
+base_production = 2
+base_manpower = 1
+is_city = yes
+discovered_by = east_african
+add_core = ZAN
