@@ -1,7 +1,7 @@
 #214 - Aragón
 owner = GRE# Alfons V of Aragon
 controller = GRE
-culture = cappadocian_greek
+culture = emporian
 religion = catholic
 base_tax = 5
 base_production = 5

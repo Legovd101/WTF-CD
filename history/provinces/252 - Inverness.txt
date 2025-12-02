@@ -5,8 +5,8 @@
 # Inverness
 # 252 Inverness - 10/27/2025 2:47:41 AM 
 add_core = HSC
-owner = MND
-controller = MND
+owner = SCO
+controller = SCO
 base_tax = 2
 base_production = 2
 base_manpower = 3
@@ -19,4 +19,4 @@ discovered_by = western
 discovered_by = muslim
 discovered_by = ottoman
 discovered_by = eastern
-add_core = MND
+add_core = SCO

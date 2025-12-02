@@ -1,0 +1,5 @@
+religion = orthodox
+capital = 1764
+technology_group = eastern
+primary_culture = coralli
+government_rank = 1

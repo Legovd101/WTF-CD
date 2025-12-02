@@ -1,4 +1,7 @@
 #1229 - Berber
+owner = BEJ
+controller = BEJ
+add_core = BEJ
 culture = beja
 religion = sunni
 capital = "Berber"

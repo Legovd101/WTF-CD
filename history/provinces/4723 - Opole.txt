@@ -1,6 +1,6 @@
 owner = BOH
 controller = BOH
-culture = schlesian
+culture = bulgarian
 religion = catholic
 hre = yes
 base_tax = 3

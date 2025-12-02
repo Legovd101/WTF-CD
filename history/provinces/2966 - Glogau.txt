@@ -1,7 +1,7 @@
 #2966 - Glogau 
 owner = BOH
 controller = BOH
-culture = schlesian
+culture = saxon
 religion = catholic
 capital = "Glogau"
 trade_goods = iron

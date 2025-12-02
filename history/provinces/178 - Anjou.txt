@@ -1,9 +1,9 @@
 # 178 Anjou - Principal cities: Angers
-owner = MTZ
-controller = MTZ
+owner = TRV
+controller = TRV
 capital = "Angers"
 is_city = yes
-culture = cosmopolitan_french
+culture = esnetzar
 religion = catholic
 base_tax = 5
 base_production = 5
@@ -13,5 +13,6 @@ discovered_by = eastern
 discovered_by = western
 discovered_by = muslim
 discovered_by = ottoman
-add_core = MTZ
+add_core = TRV
+add_core = SNZ
 fort_15th = yes

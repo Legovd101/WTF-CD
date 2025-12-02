@@ -1,7 +1,7 @@
 #228 - Beira
 owner = GRE
 controller = GRE
-culture = cappadocian_greek
+culture = thalassian
 religion = catholic
 capital = "Viseu"
 trade_goods = wine

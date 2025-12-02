@@ -4,13 +4,13 @@
 ### Modified 10/27/2025 2:37:54 AM ###
 # Périgord
 # 194 Périgord - 10/27/2025 2:37:54 AM 
-owner = SNZ
-controller = SNZ
+owner = DRD
+controller = DRD
 base_tax = 3
 base_production = 3
 base_manpower = 3
 trade_goods = wine
-culture = esnetzar
+culture = lovorodian
 religion = catholic
 capital = "Bergerac"
 is_city = yes
@@ -18,4 +18,4 @@ discovered_by = eastern
 discovered_by = western
 discovered_by = muslim
 discovered_by = ottoman
-add_core = SNZ
+add_core = DRD

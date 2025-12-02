@@ -1,6 +1,6 @@
 # 193 Franche-Comté - Principal cities: Besançon
-owner = CLI
-controller = CLI
+owner = CRO
+controller = CRO
 capital = "Besançon"
 is_city = yes
 culture = slovene
@@ -14,5 +14,5 @@ discovered_by = eastern
 discovered_by = western
 discovered_by = muslim
 discovered_by = ottoman
-add_core = CLI
+add_core = CRO
 fort_15th = yes

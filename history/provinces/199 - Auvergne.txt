@@ -2,8 +2,8 @@
 latent_trade_goods = { 
 	coal 
 }
-owner = SER
-controller = SER
+owner = GJN
+controller = GJN
 capital = "Clermont"
 is_city = yes
 culture = serbian
@@ -17,4 +17,4 @@ discovered_by = eastern
 discovered_by = western
 discovered_by = muslim
 discovered_by = ottoman
-add_core = SER
+add_core = GJN

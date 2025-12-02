@@ -1,6 +1,6 @@
 # 4751 - Cilli
-owner = CRO
-controller = CRO
+owner = DAL
+controller = DAL
 culture = dalmatian
 religion = catholic
 base_tax = 3
@@ -19,4 +19,4 @@ discovered_by = CRI
 discovered_by = GOL
 discovered_by = AST
 discovered_by = QAS
-add_core = CRO
+add_core = DAL

@@ -1,0 +1,7 @@
+religion = catholic
+capital = 165
+technology_group = western
+primary_culture = helvetian
+government_rank = 1
+government = monarchy
+add_government_reform = feudalism_reform

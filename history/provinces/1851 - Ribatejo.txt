@@ -1,7 +1,7 @@
 #1851 - Coimbra
 owner = GRE
 controller = GRE
-culture = cappadocian_greek
+culture = thalassian
 religion = catholic
 capital = "Coimbra"
 trade_goods = grain

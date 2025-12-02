@@ -2,7 +2,7 @@
 #Oxfordshire+Bukinghamshire+Berkshire
 owner = POL
 controller = POL
-culture = polish
+culture = schlesian
 religion = catholic
 base_tax = 4
 base_production = 4
@@ -16,3 +16,4 @@ discovered_by = muslim
 discovered_by = ottoman
 discovered_by = eastern
 add_core = POL
+add_core = SIL

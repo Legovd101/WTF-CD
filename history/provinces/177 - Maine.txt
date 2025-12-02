@@ -1,9 +1,9 @@
 # 177 Maine - Principal cities: Le Mans, Laval
-owner = MTZ
-controller = MTZ
+owner = TRV
+controller = TRV
 capital = "Le Mans"
 is_city = yes
-culture = normand
+culture = severnian
 religion = catholic
 base_tax = 6
 base_production = 6
@@ -16,4 +16,4 @@ discovered_by = eastern
 discovered_by = western
 discovered_by = muslim
 discovered_by = ottoman
-add_core = MTZ
+add_core = TRV

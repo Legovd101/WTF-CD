@@ -1,8 +1,7 @@
 #1768 - Lienz
-owner = HAB
-controller = HAB
+owner = HLV
+controller = HLV
 add_core = TIR
-add_core = HAB
 culture = helvetian
 religion = catholic
 base_tax = 4
@@ -16,3 +15,4 @@ discovered_by = eastern
 discovered_by = western
 discovered_by = muslim
 discovered_by = ottoman
+add_core = HLV

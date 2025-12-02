@@ -1,7 +1,7 @@
 #219 - Toledo
 owner = GRE#Juan II of Castille
 controller = GRE
-culture = cappadocian_greek
+culture = linarian
 religion = catholic
 base_tax = 5
 base_production = 5

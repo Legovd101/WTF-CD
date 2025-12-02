@@ -1,7 +1,7 @@
 # - Anfa
 owner = GRE
 controller = GRE
-culture = moroccan
+culture = stelenian
 religion = sunni
 capital = "Anfa"
 trade_goods = grain

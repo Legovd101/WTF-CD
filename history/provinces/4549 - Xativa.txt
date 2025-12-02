@@ -2,7 +2,7 @@
 owner = GRE#Martí I of Aragon
 controller = GRE
 add_core = VAL
-culture = cappadocian_greek
+culture = hemeroskopine
 religion = catholic
 base_tax = 4
 base_production = 4

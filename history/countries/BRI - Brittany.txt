@@ -4,11 +4,9 @@ government_rank = 1
 primary_culture = breton
 religion = catholic
 technology_group = western
-capital = 172
-
-
-1345.9.16 = {
-	monarch = {
+capital = 169
+1345.9.16 = { 
+	monarch = { 
 		name = "Jean V"
 		dynasty = "de Dreux"
 		adm = 2
@@ -16,9 +14,8 @@ capital = 172
 		mil = 4
 	}
 }
-
-1361.7.3 = {
-	queen = {
+1361.7.3 = { 
+	queen = { 
 		country_of_origin = ENG
 		name = "Mary"
 		dynasty = "Lancaster"
@@ -30,9 +27,8 @@ capital = 172
 		mil = 2
 	}
 }
-
-1366.5.1 = {
-	queen = {
+1366.5.1 = { 
+	queen = { 
 		country_of_origin = ENG
 		name = "Joan"
 		dynasty = "Holland"
@@ -44,9 +40,8 @@ capital = 172
 		mil = 2
 	}
 }
-
-1386.9.11 = {
-	queen = {
+1386.9.11 = { 
+	queen = { 
 		country_of_origin = NAV
 		name = "Jeanne"
 		dynasty = "d'Évreux"
@@ -58,9 +53,8 @@ capital = 172
 		mil = 2
 	}
 }
-
-1389.12.24 = {
-	heir = {
+1389.12.24 = { 
+	heir = { 
 		name = "Jean"
 		monarch_name = "Jean VI"
 		dynasty = "de Dreux"
@@ -72,9 +66,8 @@ capital = 172
 		mil = 2
 	}
 }
-
-1399.11.1 = {
-	monarch = {
+1399.11.1 = { 
+	monarch = { 
 		name = "Jean VI"
 		dynasty = "de Dreux"
 		birth_date = 1389.12.24
@@ -82,7 +75,7 @@ capital = 172
 		dip = 2
 		mil = 2
 	}
-	queen = {
+	queen = { 
 		country_of_origin = FRA
 		name = "Jeanne"
 		dynasty = "de Valois"
@@ -94,9 +87,8 @@ capital = 172
 		mil = 2
 	}
 }
-
-1414.5.11 = {
-	heir = {
+1414.5.11 = { 
+	heir = { 
 		name = "François"
 		monarch_name = "François I"
 		dynasty = "de Dreux"
@@ -108,9 +100,8 @@ capital = 172
 		mil = 2
 	}
 }
-
-1442.8.29 = {
-	monarch = {
+1442.8.29 = { 
+	monarch = { 
 		name = "François I"
 		dynasty = "de Dreux"
 		birth_date = 1414.5.14
@@ -119,11 +110,10 @@ capital = 172
 		mil = 2
 	}
 	clear_scripted_personalities = yes
-	add_ruler_personality = charismatic_negotiator_personality 
+	add_ruler_personality = charismatic_negotiator_personality
 }
-
-1442.8.29 = {
-	heir = {
+1442.8.29 = { 
+	heir = { 
 		name = "Pierre"
 		monarch_name = "Pierre II"
 		dynasty = "de Dreux"
@@ -135,9 +125,8 @@ capital = 172
 		mil = 3
 	}
 }
-
-1442.10.30 = {
-	queen = {
+1442.10.30 = { 
+	queen = { 
 		country_of_origin = SCO
 		name = "Isabel"
 		dynasty = "Stuart"
@@ -149,8 +138,8 @@ capital = 172
 		mil = 2
 	}
 }
-1450.7.19 = {
-	monarch = {
+1450.7.19 = { 
+	monarch = { 
 		name = "Pierre II"
 		dynasty = "de Dreux"
 		birth_date = 1418.7.7
@@ -158,7 +147,7 @@ capital = 172
 		dip = 2
 		mil = 3
 	}
-	queen = {
+	queen = { 
 		country_of_origin = FRA
 		name = "Françoise"
 		dynasty = "d'Amboise"
@@ -170,9 +159,8 @@ capital = 172
 		mil = 2
 	}
 }
-
-1450.7.20 = {
-	heir = {
+1450.7.20 = { 
+	heir = { 
 		name = "Arthur"
 		monarch_name = "Arthur III"
 		dynasty = "de Dreux"
@@ -184,21 +172,19 @@ capital = 172
 		mil = 4
 	}
 }
-		
-1457.9.23 = {
-	monarch = {
+1457.9.23 = { 
+	monarch = { 
 		name = "Artur III"
 		dynasty = "de Dreux"
 		birth_date = 1393.8.24
 		adm = 3
 		dip = 2
 		mil = 4
-		leader = { name = "Arthur de Dreux"	type = general	fire = 4	shock = 4	manuever = 4	siege = 1 }
+		leader = { name = "Arthur de Dreux" type = general fire = 4 shock = 4 manuever = 4 siege = 1 }
 	}
 }
-
-1457.9.23 = {
-	heir = {
+1457.9.23 = { 
+	heir = { 
 		name = "François"
 		monarch_name = "François II"
 		dynasty = "de Dreux"
@@ -210,11 +196,10 @@ capital = 172
 		mil = 1
 	}
 	clear_scripted_personalities = yes
-	add_heir_personality = cruel_personality  
+	add_heir_personality = cruel_personality
 }
-
-1458.12.27 = {
-	monarch = {
+1458.12.27 = { 
+	monarch = { 
 		name = "François II"
 		dynasty = "de Dreux"
 		birth_date = 1433.6.23
@@ -223,11 +208,10 @@ capital = 172
 		mil = 1
 	}
 	clear_scripted_personalities = yes
-	add_ruler_personality = cruel_personality  
+	add_ruler_personality = cruel_personality
 }
-
-1477.1.25 = {
-	heir = {
+1477.1.25 = { 
+	heir = { 
 		name = "Anne"
 		monarch_name = "Anne I"
 		dynasty = "de Dreux"
@@ -240,9 +224,8 @@ capital = 172
 		female = yes
 	}
 }
-
-1488.9.10 = {
-	monarch = {
+1488.9.10 = { 
+	monarch = { 
 		name = "Anne I"
 		dynasty = "de Dreux"
 		birth_date = 1477.1.25
@@ -252,11 +235,10 @@ capital = 172
 		female = yes
 	}
 	clear_scripted_personalities = yes
-	add_ruler_personality = just_personality # Righteous would also be valid
+	add_ruler_personality = just_personality# Righteous would also be valid
 }
-
-1499.10.14 = {
-	heir = {
+1499.10.14 = { 
+	heir = { 
 		name = "Claude"
 		monarch_name = "Claude I"
 		dynasty = "de Valois"
@@ -269,9 +251,8 @@ capital = 172
 		female = yes
 	}
 }
-
-1514.1.10 = {
-	monarch = {
+1514.1.10 = { 
+	monarch = { 
 		name = "Claude I"
 		dynasty = "de Valois"
 		birth_date = 1499.10.14
@@ -281,9 +262,8 @@ capital = 172
 		female = yes
 	}
 }
-
-1518.2.28 = {
-	heir = {
+1518.2.28 = { 
+	heir = { 
 		name = "François"
 		monarch_name = "François III"
 		dynasty = "de Valois"
@@ -295,9 +275,8 @@ capital = 172
 		mil = 1
 	}
 }
-
-1524.7.21 = {
-	monarch = {
+1524.7.21 = { 
+	monarch = { 
 		name = "François III"
 		dynasty = "de Valois"
 		birth_date = 1518.2.28
@@ -306,8 +285,8 @@ capital = 172
 		mil = 1
 	}
 }
-
 1589.8.3 = { set_legacy_government = administrative_monarchy }
-
-1661.3.9 = { government = monarchy
-add_government_reform = autocracy_reform }
+1661.3.9 = { 
+	government = monarchy
+	add_government_reform = autocracy_reform
+}

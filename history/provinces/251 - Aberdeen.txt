@@ -4,8 +4,8 @@
 ### Modified 10/27/2025 2:47:41 AM ###
 # Aberdeen
 # 251 Aberdeen - 10/27/2025 2:47:41 AM 
-owner = MND
-controller = MND
+owner = SCO
+controller = SCO
 base_tax = 3
 base_production = 3
 base_manpower = 3
@@ -18,4 +18,4 @@ discovered_by = western
 discovered_by = muslim
 discovered_by = ottoman
 discovered_by = eastern
-add_core = MND
+add_core = SCO

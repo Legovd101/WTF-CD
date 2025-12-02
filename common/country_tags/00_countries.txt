@@ -1,20 +1,3 @@
-## WTF-CD
-
-# Vasconian 
-NDT = "countries/Andeite.txt"
-PRX = "countries/Perxe.txt"
-SNZ = "countries/Esnezuria.txt"
-MTZ = "countries/Amoitza.txt"
-BSK = "countries/Boruskal.txt"
-MND = "countries/Mandigha.txt"
-
-# Celtic
-CRL = "countries/Corallia.txt"
-GLT = "countries/Galatia.txt"
-HLV = "countries/Helvetia.txt"
-PNN = "countries/Pannonia.txt"
-TYL = "countries/Tylia.txt"
-
 # Special countries..
 REB = "countries/Rebels.txt"
 PIR = "countries/Pirates.txt"

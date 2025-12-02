@@ -2,7 +2,7 @@
 owner = GRE#Juan II of Castille
 controller = GRE
 add_core = LON
-culture = cappadocian_greek
+culture = linarian
 religion = catholic
 base_tax = 4
 base_production = 4

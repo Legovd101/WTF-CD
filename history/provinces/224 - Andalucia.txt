@@ -1,7 +1,7 @@
 #224 - Andalucía
 owner = GRE#Juan II of Castille
 controller = GRE
-culture = cappadocian_greek
+culture = napadonian
 religion = catholic
 base_tax = 6
 base_production = 6

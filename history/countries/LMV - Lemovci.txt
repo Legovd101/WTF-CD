@@ -1,0 +1,7 @@
+religion = catholic
+capital = 180
+technology_group = western
+primary_culture = serbian
+government = monarchy
+add_government_reform = feudalism_reform
+government_rank = 1

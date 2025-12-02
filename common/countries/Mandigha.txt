@@ -1,11 +1,8 @@
 #Country Name: Please see filename.
-
 graphical_culture = westerngfx
-
 color = { 154 244 153 }
 revolutionary_colors = { 5 8 5 }
-
-historical_idea_groups = {
+historical_idea_groups = { 
 	maritime_ideas
 	religious_ideas
 	defensive_ideas
@@ -15,8 +12,7 @@ historical_idea_groups = {
 	offensive_ideas
 	diplomatic_ideas
 }
-
-historical_units = {
+historical_units = { 
 	western_medieval_infantry
 	western_medieval_knights
 	western_men_at_arms
@@ -32,8 +28,7 @@ historical_units = {
 	napoleonic_square
 	napoleonic_lancers
 }
-
-monarch_names = {
+monarch_names = { 
 	"Henrike #1" = 40
 	"Karlos #2" = 20
 	"Frantzisko #0 Febo" = 20
@@ -75,23 +70,16 @@ monarch_names = {
 	"Nikolas #0" = 0
 	"Simon #0" = 0
 }
-
-leader_names = {
-	"de Agirre" "de Alzate" "de Antia" "de Aranburu" "de Armendaritz" "de Azkue" "de Azpiroz"
-	"de Beorlegi" "de Beristain" Berroeta "de Borda" "de Garro"	Elizondo
-	"de Goikoetxea" "de Gorostiza" Goyeneche "de Iparragirre" "de Iriarte"
-	"de Jauregi" "Jimenez de Oiartzun" Jimeno "de Landa" Navarro
-	Palafox "Perez de Zabalza" "de Salaberria" "de Urkizu" "de Urrutia"
-	"de Yoldi" "de Zubia"
+leader_names = { 
+	"de Agirre" "de Alzate" "de Antia" "de Aranburu" "de Armendaritz" "de Azkue" "de Azpiroz" "de Beorlegi" "de Beristain" Berroeta
+	"de Borda" "de Garro" Elizondo "de Goikoetxea" "de Gorostiza" Goyeneche "de Iparragirre" "de Iriarte" "de Jauregi" "Jimenez de Oiartzun"
+	Jimeno "de Landa" Navarro Palafox "Perez de Zabalza" "de Salaberria" "de Urkizu" "de Urrutia" "de Yoldi" "de Zubia"
 }
-
-ship_names = {
-	Atlantikoa "Kondea de Ebrue" "Kondea de Foix" "Kondea de Guendulain" "Kondea de Lerín"
-	"Don Jimeno" "Dukea de Armagnac" "Dukea de Xampaña"
-	"El Agramondar" "El Beaumondar" "El Bearnar" "El Gurutzatu Nafarra" "El Menditarra" "El Nafarra" "El Salbatore" "El Trobadore" "El Mahastizain" "Errege Inperiala" Europa
-	"Nafarroako Itsasoa" "Gure Andre de Leire" "Printze de Biana"
-	"Erregina Joana" "Errege Henrike" "Errege Gartzia" "Errege Antso" "Nafarroako Erresuma" "Iruñeko Erresuma"
-	"San Agustin" "San Ander" "San Anton" "San Karlos" "San Henrike" "San Esteban" "San Fermin" "San Frantzisko" "San Frantzisko Xabier" "San Gregorio" "San Jon" "San Leon" "San Mikel Aingerua" "San Raimundo" "San Virila"
-	"Santa Ana" "Santa Katalina" "Santa Joana" "Santa Leonor" "Santisima Hirutasuna" "Jauna de Tutera"
-	Euskal Herria
+ship_names = { 
+	Atlantikoa "Kondea de Ebrue" "Kondea de Foix" "Kondea de Guendulain" "Kondea de Lerín" "Don Jimeno" "Dukea de Armagnac" "Dukea de Xampaña" "El Agramondar" "El Beaumondar"
+	"El Bearnar" "El Gurutzatu Nafarra" "El Menditarra" "El Nafarra" "El Salbatore" "El Trobadore" "El Mahastizain" "Errege Inperiala" Europa "Nafarroako Itsasoa"
+	"Gure Andre de Leire" "Printze de Biana" "Erregina Joana" "Errege Henrike" "Errege Gartzia" "Errege Antso" "Nafarroako Erresuma" "Iruñeko Erresuma" "San Agustin" "San Ander"
+	"San Anton" "San Karlos" "San Henrike" "San Esteban" "San Fermin" "San Frantzisko" "San Frantzisko Xabier" "San Gregorio" "San Jon" "San Leon"
+	"San Mikel Aingerua" "San Raimundo" "San Virila" "Santa Ana" "Santa Katalina" "Santa Joana" "Santa Leonor" "Santisima Hirutasuna" "Jauna de Tutera" Euskal
+	Herria 
 }

@@ -1,7 +1,7 @@
 #227 - Estremadura
 owner = GRE
 controller = GRE
-culture = cappadocian_greek
+culture = thalassian
 religion = catholic
 capital = "Lisboa"
 trade_goods = fish

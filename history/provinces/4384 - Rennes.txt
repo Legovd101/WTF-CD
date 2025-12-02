@@ -1,9 +1,9 @@
 # 4384 Rennes
-owner = MTZ
-controller = MTZ
+owner = BRI
+controller = BRI
 capital = "Rennes"
 is_city = yes
-culture = amestar
+culture = breton
 religion = catholic
 base_tax = 4
 base_production = 4
@@ -13,4 +13,4 @@ discovered_by = eastern
 discovered_by = western
 discovered_by = muslim
 discovered_by = ottoman
-add_core = MTZ
+add_core = BRI

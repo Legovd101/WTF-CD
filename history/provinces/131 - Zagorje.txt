@@ -1,7 +1,7 @@
 #131 - Zagorje
-owner = CRO
-controller = CRO
-culture = croatian
+owner = DAL
+controller = DAL
+culture = dalmatian
 religion = catholic
 capital = "Zagreb"
 trade_goods = cloth
@@ -9,7 +9,7 @@ base_tax = 3
 base_production = 3
 base_manpower = 1
 is_city = yes
-add_core = CRO
+add_core = DAL
 discovered_by = KAZ
 discovered_by = CRI
 discovered_by = GOL

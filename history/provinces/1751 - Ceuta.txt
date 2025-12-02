@@ -1,7 +1,7 @@
 #1751 - Ceuta
 owner = GRE
 controller = GRE
-culture = cappadocian_greek
+culture = stelenian
 religion = sunni
 capital = "Cebta"
 trade_goods = fish

@@ -1,7 +1,7 @@
 #229 - Baixo Alentejo
 owner = GRE
 controller = GRE
-culture = cappadocian_greek
+culture = thalassian
 religion = catholic
 capital = "Beja"
 trade_goods = livestock

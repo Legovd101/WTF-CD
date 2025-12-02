@@ -1,7 +1,7 @@
 #334 - Tangiers
 owner = GRE
 controller = GRE
-culture = cappadocian_greek
+culture = stelenian
 religion = sunni
 capital = "Tangier"
 trade_goods = cloth

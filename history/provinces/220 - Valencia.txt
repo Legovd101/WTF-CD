@@ -2,7 +2,7 @@
 owner = GRE#Alfons V of Aragon
 controller = GRE
 add_core = VAL
-culture = cappadocian_greek
+culture = hemeroskopine
 religion = catholic
 base_tax = 6
 base_production = 5

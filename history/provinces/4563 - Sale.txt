@@ -1,7 +1,7 @@
 # - Sale
 owner = GRE
 controller = GRE
-culture = cappadocian_greek
+culture = stelenian
 religion = sunni
 capital = "Sale"
 trade_goods = grain

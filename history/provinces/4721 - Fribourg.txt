@@ -1,5 +1,5 @@
-owner = CLI
-controller = CLI
+owner = CRO
+controller = CRO
 culture = slovene
 religion = catholic
 capital = "Fribourg"
@@ -13,4 +13,4 @@ discovered_by = western
 discovered_by = eastern
 discovered_by = muslim
 discovered_by = ottoman
-add_core = CLI
+add_core = CRO

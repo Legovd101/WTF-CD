@@ -1,7 +1,7 @@
 #345 - Safi
 owner = GRE
 controller = GRE
-culture = moroccan
+culture = stelenian
 religion = sunni
 capital = "Safi"
 trade_goods = sugar

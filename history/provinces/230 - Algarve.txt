@@ -1,7 +1,7 @@
 #230 - Algarve
 owner = GRE
 controller = GRE
-culture = cappadocian_greek
+culture = thalassian
 religion = catholic
 capital = "Faro"
 trade_goods = salt

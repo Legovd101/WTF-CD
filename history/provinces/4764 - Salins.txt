@@ -1,6 +1,6 @@
 # 4764 - Salins. Principal cities: Salins, Lons-le-Saunier, Arlay, Pontarlier
-owner = CLI
-controller = CLI
+owner = CRO
+controller = CRO
 capital = "Salins"
 is_city = yes
 add_local_autonomy = 30# The counts of Chalon-Arlay were very dominant in the region
@@ -15,4 +15,4 @@ discovered_by = eastern
 discovered_by = western
 discovered_by = muslim
 discovered_by = ottoman
-add_core = CLI
+add_core = CRO

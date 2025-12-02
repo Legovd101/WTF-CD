@@ -1,7 +1,7 @@
 #264 - Breslau (Breslau+Brieg+Öls+Wartenberg+Wohlau/Steinau)
 owner = BOH
 controller = BOH
-culture = schlesian
+culture = bulgarian
 religion = catholic
 capital = "Breslau"
 trade_goods = cloth
