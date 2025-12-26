@@ -1,6 +1,6 @@
 #161 - Tîrgoviste
-owner = CHG
-controller = CHG
+owner = CRG
+controller = CRG
 culture = kirgiz
 religion = orthodox
 capital = "Tîrgoviste"
@@ -20,4 +20,4 @@ discovered_by = muslim
 discovered_by = ottoman
 extra_cost = 8
 center_of_trade = 1
-add_core = CHG
+add_core = CRG

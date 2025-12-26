@@ -2,16 +2,15 @@ government = monarchy
 add_government_reform = daimyo
 government_rank = 1
 primary_culture = togoku
-religion = shinto
-technology_group = chinese
-capital = 4189	# Sagami
-
-1490.1.1 = {
-	monarch = {
-		name = "Soun" # 1456 - 1519 
+religion = zoroastrian
+technology_group = ottoman
+capital = 319# Sagami
+1490.1.1 = { 
+	monarch = { 
+		name = "Soun"# 1456 - 1519 
 		dynasty = "Hojo"
 		birth_date = 1456.1.1
-#		death_date = 1519.9.8
+		#		death_date = 1519.9.8
 		adm = 5
 		dip = 4
 		mil = 5
@@ -21,9 +20,8 @@ capital = 4189	# Sagami
 	add_ruler_personality = midas_touched_personality
 	add_ruler_personality = tactical_genius_personality
 }
-
-1490.1.1 = {
-	heir = {
+1490.1.1 = { 
+	heir = { 
 		name = "Ujitsuna"
 		monarch_name = "Ujitsuna"
 		dynasty = "Hojo"
@@ -35,13 +33,12 @@ capital = 4189	# Sagami
 		mil = 4
 	}
 }
-	
 1519.9.18 = { 
-	monarch = {
+	monarch = { 
 		name = "Ujitsuna"
 		dynasty = "Hojo"
 		birth_date = 1487.1.1
-#		death_date = 1541.8.10
+		#		death_date = 1541.8.10
 		adm = 5
 		dip = 4
 		mil = 4
@@ -51,9 +48,8 @@ capital = 4189	# Sagami
 	add_ruler_personality = entrepreneur_personality
 	add_ruler_personality = just_personality
 }
-
-1519.9.18 = {
-	heir = {
+1519.9.18 = { 
+	heir = { 
 		name = "Ujiyasu"
 		monarch_name = "Ujiyasu"
 		dynasty = "Hojo"
@@ -65,13 +61,12 @@ capital = 4189	# Sagami
 		mil = 5
 	}
 }
-
 1541.4.15 = { 
-	monarch = {
+	monarch = { 
 		name = "Ujiyasu"
 		dynasty = "Hojo"
 		birth_date = 1515.1.1
-#		death_date = 1571.10.21
+		#		death_date = 1571.10.21
 		adm = 5
 		dip = 5
 		mil = 5
@@ -81,9 +76,8 @@ capital = 4189	# Sagami
 	add_ruler_personality = midas_touched_personality
 	add_ruler_personality = inspiring_leader_personality
 }
-
-1541.4.15 = {
-	heir = {
+1541.4.15 = { 
+	heir = { 
 		name = "Ujimasa"
 		monarch_name = "Ujimasa"
 		dynasty = "Hojo"
@@ -95,13 +89,12 @@ capital = 4189	# Sagami
 		mil = 3
 	}
 }
-
 1571.10.21 = { 
-	monarch = {
+	monarch = { 
 		name = "Ujimasa"
 		dynasty = "Hojo"
 		birth_date = 1538.1.1
-#		death_date = 1590.8.10
+		#		death_date = 1590.8.10
 		adm = 4
 		dip = 3
 		mil = 3
@@ -110,9 +103,8 @@ capital = 4189	# Sagami
 	add_ruler_personality = well_connected_personality
 	add_ruler_personality = lawgiver_personality
 }
-
-1571.10.21 = {
-	heir = {
+1571.10.21 = { 
+	heir = { 
 		name = "Ujinao"
 		monarch_name = "Ujinao"
 		dynasty = "Hojo"

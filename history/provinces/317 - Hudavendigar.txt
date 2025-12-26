@@ -1,8 +1,8 @@
 #317 - Bursa
-owner = GLT
-controller = GLT
-culture = greek
-religion = sunni
+owner = MRI
+controller = MRI
+culture = japanese
+religion = zoroastrian
 capital = "Bursa"
 trade_goods = silk
 base_tax = 5
@@ -16,4 +16,4 @@ discovered_by = ottoman
 discovered_by = nomad_group
 extra_cost = 16
 center_of_trade = 2
-add_core = GLT
+add_core = MRI

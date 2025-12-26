@@ -1,0 +1,97 @@
+#Country Name: Please see filename.
+graphical_culture = muslimgfx
+color = { 156 29 28 }
+revolutionary_colors = { 0 8 0 }
+historical_idea_groups = { 
+	religious_ideas
+	trade_ideas
+	quantity_ideas
+	offensive_ideas
+	expansion_ideas
+	economic_ideas
+	defensive_ideas
+	administrative_ideas
+}
+historical_units = { 
+	steppe_riders
+	steppe_lancers
+	steppe_mounted_raiders
+	steppe_cavalry
+	steppe_uhlans
+	steppe_raiders
+	steppe_footmen
+	steppe_musketeers
+	steppe_infantry
+	steppe_rifles
+	reformed_steppe_rifles
+}
+monarch_names = { 
+	"Ertis #0" = 20
+	"Turalbek #0" = 20
+	"Ayberk #0" = 20
+	"Yel-Timur #0" = 20
+	"Bogdanar #0" = 20
+	"Arstelin #1" = 20
+	"Süvian #0" = 20
+	"Börö #0" = 20
+	"Baytemir #0" = 20
+	"Kökdrian #0" = 20
+	"Buzan #0" = 20
+	"Yelorian #0" = 10
+	"Miharsun #0" = 20
+	"Asan #0" = 20
+	"Danisar #0" = 20
+	"Dulut #0" = 20
+	"Tumar #0" = 20
+	"Radu-Temir #0" = 20
+	"Dragbek #0" = 20
+	"Vladekar #0" = 20
+	"Svetmirza #0" = 20
+	"Töré #1" = 20
+	"Teobalek #0" = 20
+	"Alexandiar #0" = 20
+	"Petrogan #0" = 20
+	"Mircan #1" = 20
+	"Nicobalik #0" = 20
+	"Petar #0" = 20
+	"Gavriltemir #0" = 20
+	"Stepanar #0" = 20
+	"Alexanbai #1" = 20
+	"Mihalbek #0" = 20
+	"Nicolamir #0" = 20
+	"Nikolai #0" = 20
+	"Negizbek #0" = 20
+	"Kara Alp #0" = 10
+	"Kazgan #0" = 20
+	"Kazan #0" = 20
+	"Kuralay #0" = 10
+	"Sary #0" = 20
+	"Satuq #0" = 20
+	"Kök Alp #1" = 20
+	"Börübek #0" = 20
+	"Suyurgan #0" = 20
+	"Talik #0" = 20
+	"Tarmak #0" = 20
+	"Temir #0" = 20
+	"Tugur Temir #1" = 20
+	"Uluk #0" = 20
+	"Yashar #0" = 20
+	"Yesen Mongol #0" = 10
+	"Yesen Temir #0" = 20
+	"Yulduz #0" = 20
+	"Aychurek #0" = -1
+	"Janyl #0" = -1
+	"Kanysha #0" = -1
+	"Umai #0" = -1
+}
+leader_names = { 
+	Altanqai Boketei Tegusteni Qadancher Tolui-gene Bayardai Yekedai "Suren Chinua" "Altan Unegen" "Boke Qorchi"
+	"Arigh Erdene" "Bayan Vachir" "Delger Dash" 
+}
+ship_names = { 
+	"Alghu Khan" "Baraq Khan" Chagatai
+	Orghina
+	"Genghis Khan" "Mubarak Shah" "Yesünto'a" Qipchaq
+	"Jagatai Khan" "Amo Darya" "Syr Darya" "Ögedai Khan" Güyük "Möngke Khan" "Qubilai Khan" Duwa "Qazan Khan" "Tughlugh Timur"
+	Irtysh "Amir Husayn" "Timur i Leng" Samarqand
+}

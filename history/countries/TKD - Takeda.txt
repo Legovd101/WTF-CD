@@ -2,12 +2,11 @@ government = monarchy
 add_government_reform = daimyo
 government_rank = 1
 primary_culture = togoku
-religion = shinto
-technology_group = chinese
-capital = 1029	# Kai
-
+religion = zoroastrian
+technology_group = ottoman
+capital = 4307# Kai
 1330.1.1 = { 
-	monarch = {
+	monarch = { 
 		name = "Nobutake"
 		dynasty = "Takeda"
 		adm = 3
@@ -15,9 +14,8 @@ capital = 1029	# Kai
 		mil = 3
 	}
 }
-	
-1330.1.1 = {
-	heir = {
+1330.1.1 = { 
+	heir = { 
 		name = "Nobunari"
 		monarch_name = "Nobunari"
 		dynasty = "Toki"
@@ -29,9 +27,8 @@ capital = 1029	# Kai
 		mil = 3
 	}
 }
-
 1359.8.7 = { 
-	monarch = {
+	monarch = { 
 		name = "Nobunari"
 		dynasty = "Takeda"
 		adm = 3
@@ -39,9 +36,8 @@ capital = 1029	# Kai
 		mil = 3
 	}
 }
-	
-1359.8.7 = {
-	heir = {
+1359.8.7 = { 
+	heir = { 
 		name = "Nobuharu"
 		monarch_name = "Nobumitsu"
 		dynasty = "Takeda"
@@ -53,19 +49,17 @@ capital = 1029	# Kai
 		mil = 3
 	}
 }
-
 1394.1.1 = { 
-	monarch = {
-		name = "Nobuharu" #? before 1355 - 1413
+	monarch = { 
+		name = "Nobuharu"#? before 1355 - 1413
 		dynasty = "Takeda"
 		adm = 3
 		dip = 3
 		mil = 3
 	}
 }
-	
-1406.1.1 = {
-	heir = {
+1406.1.1 = { 
+	heir = { 
 		name = "Nobumitsu"
 		monarch_name = "Nobumitsu"
 		dynasty = "Takeda"
@@ -77,21 +71,19 @@ capital = 1029	# Kai
 		mil = 2
 	}
 }
-		
 1413.1.1 = { 
-	monarch = {
+	monarch = { 
 		name = "Nobumitsu"
 		dynasty = "Takeda"
 		birth_date = 1378.1.1
-#		death_date = 1417.2.22
+		#		death_date = 1417.2.22
 		adm = 2
 		dip = 2
 		mil = 2
 	}
 }
-	
-1413.1.1 = {
-	heir = {
+1413.1.1 = { 
+	heir = { 
 		name = "Nobushige"
 		monarch_name = "Nobushige"
 		dynasty = "Takeda"
@@ -103,13 +95,12 @@ capital = 1029	# Kai
 		mil = 3
 	}
 }
-	
 1417.2.22 = { 
-	monarch = {
+	monarch = { 
 		name = "Nobushige"
 		dynasty = "Takeda"
 		birth_date = 1386.1.1
-#		death_date = 1450.12.28
+		#		death_date = 1450.12.28
 		adm = 3
 		dip = 2
 		mil = 3
@@ -119,9 +110,8 @@ capital = 1029	# Kai
 	add_ruler_personality = careful_personality
 	add_ruler_personality = lawgiver_personality
 }
-	
-1430.1.1 = {
-	heir = {
+1430.1.1 = { 
+	heir = { 
 		name = "Nobumori"
 		monarch_name = "Nobumori"
 		dynasty = "Takeda"
@@ -133,21 +123,19 @@ capital = 1029	# Kai
 		mil = 2
 	}
 }
-	
 1450.12.28 = { 
-	monarch = {
+	monarch = { 
 		name = "Nobumori"
 		dynasty = "Takeda"
 		birth_date = 1430.1.1
-#		death_date = 1455.1.1
+		#		death_date = 1455.1.1
 		adm = 2
 		dip = 2
 		mil = 2
 	}
 }
-	
-1450.12.28 = {
-	heir = {
+1450.12.28 = { 
+	heir = { 
 		name = "Nobumasa"
 		monarch_name = "Nobumasa"
 		dynasty = "Takeda"
@@ -159,21 +147,19 @@ capital = 1029	# Kai
 		mil = 2
 	}
 }
-	
 1455.1.1 = { 
-	monarch = {
+	monarch = { 
 		name = "Nobumasa"
 		dynasty = "Takeda"
 		birth_date = 1447.1.1
-#		death_date = 1505.10.13
+		#		death_date = 1505.10.13
 		adm = 2
 		dip = 3
 		mil = 2
 	}
 }
-
-1471.1.1 = {
-	heir = {
+1471.1.1 = { 
+	heir = { 
 		name = "Nobutsuna"
 		monarch_name = "Nobutsuna"
 		dynasty = "Takeda"
@@ -185,21 +171,19 @@ capital = 1029	# Kai
 		mil = 2
 	}
 }
-
 1491.1.1 = { 
-	monarch = {
+	monarch = { 
 		name = "Nobutsuna"
 		dynasty = "Takeda"
 		birth_date = 1471.1.1
-#		death_date = 1507.3.27
+		#		death_date = 1507.3.27
 		adm = 2
 		dip = 2
 		mil = 2
 	}
 }
-	
-1494.2.11 = {
-	heir = {
+1494.2.11 = { 
+	heir = { 
 		name = "Nobutora"
 		monarch_name = "Nobutora"
 		dynasty = "Takeda"
@@ -211,23 +195,19 @@ capital = 1029	# Kai
 		mil = 4
 	}
 }
-
-
 1507.3.27 = { 
-	monarch = {
+	monarch = { 
 		name = "Nobutora"
 		dynasty = "Takeda"
 		birth_date = 1494.2.11
-#		death_date = 1574.3.27
+		#		death_date = 1574.3.27
 		adm = 4
 		dip = 3
 		mil = 4
 	}
 }
-
-	
-1521.12.1 = {
-	heir = {
+1521.12.1 = { 
+	heir = { 
 		name = "Harunobu"
 		monarch_name = "Harunobu"
 		dynasty = "Takeda"
@@ -239,21 +219,19 @@ capital = 1029	# Kai
 		mil = 5
 	}
 }
-	
 1541.6.1 = { 
-	monarch = {
+	monarch = { 
 		name = "Harunobu"
 		dynasty = "Takeda"
 		birth_date = 1521.12.1
-#		death_date = 1573.5.13
+		#		death_date = 1573.5.13
 		adm = 5
 		dip = 5
 		mil = 5
 	}
 }
-	
 1541.6.1 = { 
-	heir = {
+	heir = { 
 		name = "Yoshinobu"
 		monarch_name = "Yoshinobu"
 		dynasty = "Takeda"
@@ -265,9 +243,8 @@ capital = 1029	# Kai
 		mil = 3
 	}
 }
-
-1567.1.1 = {
-	heir = {
+1567.1.1 = { 
+	heir = { 
 		name = "Katsuyori"
 		monarch_name = "Katsuyori"
 		dynasty = "Takeda"
@@ -279,21 +256,19 @@ capital = 1029	# Kai
 		mil = 4
 	}
 }
-	
 1573.5.13 = { 
-	monarch = {
+	monarch = { 
 		name = "Katsuyori"
 		dynasty = "Takeda"
 		birth_date = 1546.12.1
-#		death_date = 1582.4.3
+		#		death_date = 1582.4.3
 		adm = 3
 		dip = 2
 		mil = 4
 	}
 }
-	
-1573.5.13 = {
-	heir = {
+1573.5.13 = { 
+	heir = { 
 		name = "Nobukatsu"
 		monarch_name = "Nobukatsu"
 		dynasty = "Takeda"

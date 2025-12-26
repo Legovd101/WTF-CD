@@ -12,3 +12,6 @@ native_hostileness = 6
 tribal_owner = CAD
 discovered_by = north_american
 is_city = no
+add_core = CAD
+owner = CAD
+controller = CAD

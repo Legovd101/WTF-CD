@@ -1,0 +1,14 @@
+government = monarchy
+primary_culture = kirgiz
+religion = orthodox
+technology_group = eastern
+capital = 160
+1429.1.1 = { 
+	monarch = { 
+		name = "Dragbek"
+		dynasty = "Kutareanu"
+		adm = 1
+		dip = 0
+		mil = 5
+	}
+}

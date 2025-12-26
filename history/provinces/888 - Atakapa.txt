@@ -11,3 +11,6 @@ native_ferocity = 2
 native_hostileness = 4
 discovered_by = north_american
 is_city = no
+add_core = LIP
+owner = LIP
+controller = LIP

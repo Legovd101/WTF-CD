@@ -2,7 +2,7 @@
 owner = CHE
 controller = CHE
 culture = cherokee
-religion = totemism
+religion = zecieri
 capital = "Kituwah"
 trade_goods = tobacco
 base_tax = 2

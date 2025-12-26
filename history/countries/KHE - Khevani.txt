@@ -1,0 +1,7 @@
+religion = zecieri
+capital = 2543
+primary_culture = pharnavi
+government_rank = 1
+government = republic
+add_government_reform = oligarchy_reform
+technology_group = kartveli

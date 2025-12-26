@@ -2,16 +2,15 @@ government = monarchy
 add_government_reform = daimyo
 government_rank = 1
 primary_culture = togoku
-religion = shinto
-technology_group = chinese
-capital = 1023	# Echizen
-
+religion = zoroastrian
+technology_group = ottoman
+capital = 4313# Echizen
 1330.1.1 = { 
-	monarch = {
-		name = "Takatsune" #1305 - 1367.8.9
+	monarch = { 
+		name = "Takatsune"#1305 - 1367.8.9
 		dynasty = "Shiba"
 		birth_date = 1305.1.1
-#		death_date = 1367.8.9
+		#		death_date = 1367.8.9
 		adm = 3
 		dip = 3
 		mil = 4
@@ -21,9 +20,8 @@ capital = 1023	# Echizen
 	add_ruler_personality = babbling_buffoon_personality
 	add_ruler_personality = loose_lips_personality
 }
-
-1350.1.1 = {
-	heir = {
+1350.1.1 = { 
+	heir = { 
 		name = "Yoshimasa"
 		monarch_name = "Yoshimasa"
 		dynasty = "Shiba"
@@ -34,14 +32,13 @@ capital = 1023	# Echizen
 		dip = 5
 		mil = 4
 	}
-}	
-	
+}
 1367.8.9 = { 
-	monarch = {
-		name = "Yoshimasa" #1350 - 1410.6.9
+	monarch = { 
+		name = "Yoshimasa"#1350 - 1410.6.9
 		dynasty = "Shiba"
 		birth_date = 1350.1.1
-#		death_date = 1410.6.9
+		#		death_date = 1410.6.9
 		adm = 4
 		dip = 5
 		mil = 4
@@ -51,9 +48,8 @@ capital = 1023	# Echizen
 	add_ruler_personality = strict_personality
 	add_ruler_personality = careful_personality
 }
-	
-1385.1.1 = {
-	heir = {
+1385.1.1 = { 
+	heir = { 
 		name = "Yoshishige"
 		monarch_name = "Yoshishige"
 		dynasty = "Shiba"
@@ -65,13 +61,12 @@ capital = 1023	# Echizen
 		mil = 3
 	}
 }
-
-1410.6.9 = {
-	monarch = {
-		name = "Yoshishige" 
+1410.6.9 = { 
+	monarch = { 
+		name = "Yoshishige"
 		dynasty = "Shiba"
 		birth_date = 1371.1.1
-#		death_date = 1418.9.10
+		#		death_date = 1418.9.10
 		adm = 3
 		dip = 3
 		mil = 3
@@ -79,9 +74,8 @@ capital = 1023	# Echizen
 	clear_scripted_personalities = yes
 	add_ruler_personality = calm_personality
 }
-
-1410.6.9 = {
-	heir = {
+1410.6.9 = { 
+	heir = { 
 		name = "Yoshiatsu"
 		monarch_name = "Yoshiatsu"
 		dynasty = "Shiba"
@@ -93,10 +87,9 @@ capital = 1023	# Echizen
 		mil = 2
 	}
 }
-
-1418.9.10 = {
-	monarch = {
-		name = "Yoshiatsu" 
+1418.9.10 = { 
+	monarch = { 
+		name = "Yoshiatsu"
 		dynasty = "Shiba"
 		birth_date = 1397.1.1
 		death_date = 1434.1.11
@@ -107,13 +100,12 @@ capital = 1023	# Echizen
 	clear_scripted_personalities = yes
 	add_ruler_personality = naive_personality
 }
-
-1434.1.11 = {
-	monarch = {
-		name = "Yoshisato" 
+1434.1.11 = { 
+	monarch = { 
+		name = "Yoshisato"
 		dynasty = "Shiba"
 		birth_date = 1410.1.1
-#		death_date = 1436.11.18
+		#		death_date = 1436.11.18
 		adm = 2
 		dip = 2
 		mil = 2
@@ -121,9 +113,8 @@ capital = 1023	# Echizen
 	clear_scripted_personalities = yes
 	add_ruler_personality = charismatic_negotiator_personality
 }
-
-1435.1.1 = {
-	heir = {
+1435.1.1 = { 
+	heir = { 
 		name = "Yoshitake"
 		monarch_name = "Yoshitake"
 		dynasty = "Shiba"
@@ -135,13 +126,12 @@ capital = 1023	# Echizen
 		mil = 2
 	}
 }
-
-1436.11.18 = {
-	monarch = {
-		name = "Yoshitake" 
+1436.11.18 = { 
+	monarch = { 
+		name = "Yoshitake"
 		dynasty = "Shiba"
 		birth_date = 1435.1.1
-#		death_date = 1452.10.13
+		#		death_date = 1452.10.13
 		adm = 2
 		dip = 2
 		mil = 2
@@ -150,13 +140,12 @@ capital = 1023	# Echizen
 	add_ruler_personality = babbling_buffoon_personality
 	add_ruler_personality = malevolent_personality
 }
-
-1452.10.13 = {
-	monarch = {
-		name = "Yoshitoshi" 
+1452.10.13 = { 
+	monarch = { 
+		name = "Yoshitoshi"
 		dynasty = "Shiba"
 		birth_date = 1435.1.1
-#		death_date = 1508.12.8
+		#		death_date = 1508.12.8
 		adm = 1
 		dip = 1
 		mil = 2
@@ -164,13 +153,12 @@ capital = 1023	# Echizen
 	clear_scripted_personalities = yes
 	add_ruler_personality = babbling_buffoon_personality
 }
-
-1461.1.1 = {
-	monarch = {
-		name = "Yoshikado" 
+1461.1.1 = { 
+	monarch = { 
+		name = "Yoshikado"
 		dynasty = "Shiba"
 		birth_date = 1445.1.1
-#		death_date = 1491.1.1
+		#		death_date = 1491.1.1
 		adm = 2
 		dip = 2
 		mil = 3
@@ -179,9 +167,8 @@ capital = 1023	# Echizen
 	add_ruler_personality = naive_personality
 	add_ruler_personality = malevolent_personality
 }
-
-1461.1.1 = {
-	heir = {
+1461.1.1 = { 
+	heir = { 
 		name = "Yoshihiro"
 		monarch_name = "Yoshihiro"
 		dynasty = "Shiba"
@@ -193,17 +180,15 @@ capital = 1023	# Echizen
 		mil = 3
 	}
 }
-
-1471.7.1 = {
-	capital = 1025 #Uzen # The Shiba clan actually turns (in game) into it's sub-branch Mogami
+1471.7.1 = { 
+	capital = 1025#Uzen # The Shiba clan actually turns (in game) into it's sub-branch Mogami
 }
-
-1471.7.1 = {
-	monarch = {
-		name = "Yoshiharu" 
+1471.7.1 = { 
+	monarch = { 
+		name = "Yoshiharu"
 		dynasty = "Mogami"
 		birth_date = 1405.1.1
-#		death_date = 1474.4.7
+		#		death_date = 1474.4.7
 		adm = 3
 		dip = 2
 		mil = 3
@@ -211,9 +196,8 @@ capital = 1023	# Echizen
 	clear_scripted_personalities = yes
 	add_ruler_personality = naive_personality
 }
-
-1471.7.1 = {
-	heir = {
+1471.7.1 = { 
+	heir = { 
 		name = "Yoshiaki"
 		monarch_name = "Yoshiaki"
 		dynasty = "Mogami"
@@ -225,13 +209,12 @@ capital = 1023	# Echizen
 		mil = 3
 	}
 }
-
-1474.4.7 = {
-	monarch = {
+1474.4.7 = { 
+	monarch = { 
 		name = "Yoshiaki"
 		dynasty = "Mogami"
 		birth_date = 1430.1.1
-#		death_date = 1480.4.6
+		#		death_date = 1480.4.6
 		adm = 3
 		dip = 3
 		mil = 3
@@ -239,13 +222,12 @@ capital = 1023	# Echizen
 	clear_scripted_personalities = yes
 	add_ruler_personality = babbling_buffoon_personality
 }
-
-1479.1.1 = {
-	monarch = {
-		name = "Mitsuuji" 
+1479.1.1 = { 
+	monarch = { 
+		name = "Mitsuuji"
 		dynasty = "Mogami"
 		birth_date = 1446.1.1
-#		death_date = 1494.8.14
+		#		death_date = 1494.8.14
 		adm = 4
 		dip = 3
 		mil = 3
@@ -253,9 +235,8 @@ capital = 1023	# Echizen
 	clear_scripted_personalities = yes
 	add_ruler_personality = craven_personality
 }
-
-1480.4.15 = {
-	heir = {
+1480.4.15 = { 
+	heir = { 
 		name = "Yoshiatsu"
 		monarch_name = "Yoshiatsu"
 		dynasty = "Mogami"
@@ -267,13 +248,12 @@ capital = 1023	# Echizen
 		mil = 4
 	}
 }
-
-1494.8.14 = {
-	monarch = {
-		name = "Yoshiatsu" 
+1494.8.14 = { 
+	monarch = { 
+		name = "Yoshiatsu"
 		dynasty = "Mogami"
 		birth_date = 1465.1.1
-#		death_date = 1504.10.16
+		#		death_date = 1504.10.16
 		adm = 3
 		dip = 3
 		mil = 4
@@ -282,9 +262,8 @@ capital = 1023	# Echizen
 	add_ruler_personality = martial_educator_personality
 	add_ruler_personality = well_connected_personality
 }
-
-1494.8.14 = {
-	heir = {
+1494.8.14 = { 
+	heir = { 
 		name = "Yoshisada"
 		monarch_name = "Yoshisada"
 		dynasty = "Mogami"
@@ -296,13 +275,12 @@ capital = 1023	# Echizen
 		mil = 2
 	}
 }
-
-1504.10.6 = {
-	monarch = {
-		name = "Yoshisada" 
+1504.10.6 = { 
+	monarch = { 
+		name = "Yoshisada"
 		dynasty = "Mogami"
 		birth_date = 1492.1.1
-#		death_date = 1520.2.20
+		#		death_date = 1520.2.20
 		adm = 2
 		dip = 2
 		mil = 2
@@ -311,9 +289,8 @@ capital = 1023	# Echizen
 	add_ruler_personality = craven_personality
 	add_ruler_personality = naive_personality
 }
-
-1520.2.20 = {
-	monarch = {
+1520.2.20 = { 
+	monarch = { 
 		name = "Kokujin Ikki"
 		adm = 1
 		mil = 3
@@ -321,9 +298,8 @@ capital = 1023	# Echizen
 		regent = yes
 	}
 }
-
-1521.1.1 = {
-	heir = {
+1521.1.1 = { 
+	heir = { 
 		name = "Yoshimori"
 		monarch_name = "Yoshimori"
 		dynasty = "Mogami"
@@ -335,13 +311,12 @@ capital = 1023	# Echizen
 		mil = 3
 	}
 }
-
-1522.1.1 = {
-	monarch = {
+1522.1.1 = { 
+	monarch = { 
 		name = "Yoshimori"
 		dynasty = "Mogami"
 		birth_date = 1521.1.1
-#		death_date = 1590.6.19
+		#		death_date = 1590.6.19
 		adm = 2
 		dip = 2
 		mil = 3
@@ -351,9 +326,8 @@ capital = 1023	# Echizen
 	add_ruler_personality = naive_personality
 	add_ruler_personality = lawgiver_personality
 }
-
-1546.2.1 = {
-	heir = {
+1546.2.1 = { 
+	heir = { 
 		name = "Yoshiaki"
 		monarch_name = "Yoshiaki"
 		dynasty = "Mogami"
@@ -365,13 +339,12 @@ capital = 1023	# Echizen
 		mil = 5
 	}
 }
-
-1570.1.1 = {
-	monarch = {
+1570.1.1 = { 
+	monarch = { 
 		name = "Yoshiaki"
 		dynasty = "Mogami"
 		birth_date = 1546.2.1
-#		death_date = 1614.2.26
+		#		death_date = 1614.2.26
 		adm = 6
 		dip = 5
 		mil = 5
@@ -381,9 +354,8 @@ capital = 1023	# Echizen
 	add_ruler_personality = intricate_web_weaver_personality
 	add_ruler_personality = bold_fighter_personality
 }
-
-1575.1.1 = {
-	heir = {
+1575.1.1 = { 
+	heir = { 
 		name = "Yoshiyasu"
 		monarch_name = "Yoshiyasu"
 		dynasty = "Mogami"
@@ -395,9 +367,8 @@ capital = 1023	# Echizen
 		mil = 3
 	}
 }
-
-1603.9.21 = {
-	heir = {
+1603.9.21 = { 
+	heir = { 
 		name = "Iechika"
 		monarch_name = "Iechika"
 		dynasty = "Mogami"
@@ -409,13 +380,12 @@ capital = 1023	# Echizen
 		mil = 3
 	}
 }
-
-1614.2.26 = {
-	monarch = {
+1614.2.26 = { 
+	monarch = { 
 		name = "Iechika"
 		dynasty = "Mogami"
 		birth_date = 1582.1.1
-#		death_date = 1617.4.11
+		#		death_date = 1617.4.11
 		adm = 3
 		dip = 3
 		mil = 3
@@ -423,9 +393,8 @@ capital = 1023	# Echizen
 	clear_scripted_personalities = yes
 	add_ruler_personality = righteous_personality
 }
-
-1614.2.26 = {
-	heir = {
+1614.2.26 = { 
+	heir = { 
 		name = "Yoshitoshi"
 		monarch_name = "Yoshitoshi"
 		dynasty = "Mogami"
@@ -437,13 +406,12 @@ capital = 1023	# Echizen
 		mil = 2
 	}
 }
-
-1617.4.11 = {
-	monarch = {
+1617.4.11 = { 
+	monarch = { 
 		name = "Yoshitoshi"
 		dynasty = "Mogami"
 		birth_date = 1605.1.1
-#		death_date = 1632.1.13
+		#		death_date = 1632.1.13
 		adm = 1
 		dip = 1
 		mil = 2

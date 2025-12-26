@@ -13,3 +13,6 @@ tribal_owner = KSK
 discovered_by = north_american
 tribal_owner = KSK
 is_city = no
+add_core = CAO
+owner = CAO
+controller = CAO

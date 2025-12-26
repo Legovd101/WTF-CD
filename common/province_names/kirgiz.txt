@@ -1,0 +1,40 @@
+# RULES
+# ai/ay/ae -> ay
+# -ia/-eia -> -ïye
+# -ion -> -en
+# -opolis -> -óplis
+# -kleia -> -kël
+# p/ph -> f/b
+# b -> v
+# y/u -> ï
+# ch -> k
+# ph -> f
+# o -> ü/ó
+# th -> t
+# Format: ID = { "Province" "Capital" } # Origin
+
+## BALKANS
+
+# Silistria
+4706 = { "Qostankala" "Qostankala" } # Constanta
+
+## CARPATHIA
+
+# Wallachia
+160 = { "Kragyurt" "Kragyurt" }
+161 = { "Torgosh" "Torgosh" } # Targoviste
+2998 = { "Buzukent" "Buzukent" } # Buzau
+4531 = { "Buqurash" "Buqurash" } # Bucharest
+4532 = { "Vilçakent" "Vilçakent" } # Valcea
+
+# Moldavia
+1756 = { "Balyk" "Balyk" }
+2405 = { "Kishnäk" "Kishnäk" }
+4530 = { "Basluq" "Basluq" }
+4529 = { "Yashkala" "Yashkala" } # Iasi
+268 = { "Suçavaq" "Suçavaq" } # Suceava
+
+## BULGARIA
+
+# Wallachia
+261 = { "Çarnasuq" "Çarnasuq" }

@@ -3,3 +3,5 @@ capital = 1764
 technology_group = eastern
 primary_culture = coralli
 government_rank = 1
+government = monarchy
+add_government_reform = feudalism_reform

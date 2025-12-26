@@ -1,7 +1,7 @@
 #327 - Adana
 owner = RAM
 controller = RAM
-culture = galatian
+culture = turkish
 religion = sunni
 capital = "Adana"
 trade_goods = cotton

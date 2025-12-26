@@ -14,3 +14,6 @@ extra_cost = 8
 center_of_trade = 1
 tribal_owner = CAO
 is_city = no
+add_core = CAO
+owner = CAO
+controller = CAO

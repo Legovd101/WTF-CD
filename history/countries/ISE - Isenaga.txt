@@ -1,0 +1,7 @@
+religion = zoroastrian
+capital = 3081
+technology_group = ottoman
+primary_culture = japanese
+government = monarchy
+add_government_reform = daimyo
+government_rank = 1

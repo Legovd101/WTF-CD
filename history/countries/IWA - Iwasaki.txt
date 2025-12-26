@@ -1,0 +1,17 @@
+religion = zoroastrian
+capital = 3108
+technology_group = ottoman
+primary_culture = japanese
+government = monarchy
+add_government_reform = shogunate
+government_rank = 2
+1444.1.1 = { 
+	monarch = { 
+		name = "Yorimasa"
+		dynasty = "Iwasaki"
+		birth_date = 1444.1.1
+		adm = 4
+		dip = 3
+		mil = 6
+	}
+}

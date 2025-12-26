@@ -12,3 +12,6 @@ native_hostileness = 6
 tribal_owner = WIC
 discovered_by = north_american
 is_city = no
+add_core = HNI
+owner = HNI
+controller = HNI

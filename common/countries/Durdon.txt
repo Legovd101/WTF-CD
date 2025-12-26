@@ -81,8 +81,7 @@ leader_names = {
 	Bojovic
 	Drascovic
 	Gingic
-	Hracovec Jovanovic Lazarevic Marcovic
-	Obilic Obrenovic Pertrovic Postek Putnik 
+	Hracovec Jovanovic Lazarevic Marcovic Obilic Obrenovic Pertrovic Postek Putnik 
 }
 ship_names = { 
 	Raska

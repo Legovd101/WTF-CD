@@ -1,0 +1,7 @@
+religion = zecieri
+capital = 4921
+primary_culture = svanari
+government = republic
+add_government_reform = oligarchy_reform
+government_rank = 1
+technology_group = kartveli

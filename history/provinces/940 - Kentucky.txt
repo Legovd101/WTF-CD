@@ -15,3 +15,6 @@ native_hostileness = 1
 tribal_owner = KSP
 discovered_by = north_american
 is_city = no
+add_core = OSA
+owner = OSA
+controller = OSA

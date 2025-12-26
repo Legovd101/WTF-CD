@@ -1,6 +1,6 @@
 #2697 - Tondo
-owner = ASK
-controller = ASK
+owner = MNA
+controller = MNA
 culture = japanese
 religion = shinto
 capital = "Tondo"
@@ -10,4 +10,4 @@ base_production = 5
 base_manpower = 2
 is_city = yes
 discovered_by = chinese
-add_core = ASK
+add_core = MNA

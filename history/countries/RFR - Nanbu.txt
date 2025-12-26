@@ -2,13 +2,12 @@ government = monarchy
 add_government_reform = daimyo
 government_rank = 1
 primary_culture = togoku
-religion = shinto
-technology_group = chinese
-capital = 4131 # Mutsu
-
-1430.1.1 = {
-	monarch = {
-		name = "Tokimasa" 
+religion = zoroastrian
+technology_group = ottoman
+capital = 2298# Mutsu
+1430.1.1 = { 
+	monarch = { 
+		name = "Tokimasa"
 		dynasty = "Nanbu"
 		birth_date = 1410.1.1
 		adm = 3
@@ -18,9 +17,8 @@ capital = 4131 # Mutsu
 	clear_scripted_personalities = yes
 	add_ruler_personality = industrious_personality
 }
-
-1430.1.1 = {
-	heir = {
+1430.1.1 = { 
+	heir = { 
 		name = "Michitsugu"
 		monarch_name = "Michitsugu"
 		dynasty = "Nanbu"
@@ -32,19 +30,17 @@ capital = 4131 # Mutsu
 		mil = 2
 	}
 }
-
-1473.4.2 = {
-	monarch = {
-		name = "Michitsugu" 
+1473.4.2 = { 
+	monarch = { 
+		name = "Michitsugu"
 		dynasty = "Nanbu"
 		adm = 2
 		dip = 2
 		mil = 2
 	}
 }
-
-1473.4.2 = {
-	heir = {
+1473.4.2 = { 
+	heir = { 
 		name = "Nobutoki"
 		monarch_name = "Nobutoki"
 		dynasty = "Nanbu"
@@ -56,9 +52,8 @@ capital = 4131 # Mutsu
 		mil = 2
 	}
 }
-
-1484.1.1 = {
-	monarch = {
+1484.1.1 = { 
+	monarch = { 
 		name = "Nobutoki"
 		dynasty = "Nanbu"
 		adm = 2
@@ -66,9 +61,8 @@ capital = 4131 # Mutsu
 		mil = 2
 	}
 }
-
-1484.1.1 = {
-	heir = {
+1484.1.1 = { 
+	heir = { 
 		name = "Nobuyoshi"
 		monarch_name = "Nobuyoshi"
 		dynasty = "Nanbu"
@@ -80,9 +74,8 @@ capital = 4131 # Mutsu
 		mil = 2
 	}
 }
-	
 1502.1.11 = { 
-	monarch = {
+	monarch = { 
 		name = "Nobuyoshi"
 		dynasty = "Nanbu"
 		adm = 2
@@ -90,9 +83,8 @@ capital = 4131 # Mutsu
 		mil = 2
 	}
 }
-
-1502.1.11 = {
-	heir = {
+1502.1.11 = { 
+	heir = { 
 		name = "Masayasu"
 		monarch_name = "Masayasu"
 		dynasty = "Nanbu"
@@ -104,9 +96,8 @@ capital = 4131 # Mutsu
 		mil = 3
 	}
 }
-	
 1503.6.18 = { 
-	monarch = {
+	monarch = { 
 		name = "Masayasu"
 		dynasty = "Nanbu"
 		adm = 3
@@ -114,9 +105,8 @@ capital = 4131 # Mutsu
 		mil = 3
 	}
 }
-
-1503.6.18 = {
-	heir = {
+1503.6.18 = { 
+	heir = { 
 		name = "Yasunobu"
 		monarch_name = "Yasunobu"
 		dynasty = "Nanbu"
@@ -128,9 +118,8 @@ capital = 4131 # Mutsu
 		mil = 3
 	}
 }
-
 1507.3.23 = { 
-	monarch = {
+	monarch = { 
 		name = "Yasunobu"
 		dynasty = "Nanbu"
 		adm = 4
@@ -138,9 +127,8 @@ capital = 4131 # Mutsu
 		mil = 3
 	}
 }
-
-1517.1.1 = {
-	heir = {
+1517.1.1 = { 
+	heir = { 
 		name = "Harumasa"
 		monarch_name = "Harumasa"
 		dynasty = "Nanbu"
@@ -152,9 +140,8 @@ capital = 4131 # Mutsu
 		mil = 5
 	}
 }
-
 1541.1.1 = { 
-	monarch = {
+	monarch = { 
 		name = "Harumasa"
 		dynasty = "Nanbu"
 		adm = 4
@@ -162,9 +149,8 @@ capital = 4131 # Mutsu
 		mil = 5
 	}
 }
-
-1570.1.1 = {
-	heir = {
+1570.1.1 = { 
+	heir = { 
 		name = "Harutsugu"
 		monarch_name = "Harutsugu"
 		dynasty = "Nanbu"
@@ -176,9 +162,8 @@ capital = 4131 # Mutsu
 		mil = 1
 	}
 }
-
 1582.1.27 = { 
-	monarch = {
+	monarch = { 
 		name = "Harutsugu"
 		dynasty = "Nanbu"
 		adm = 1
@@ -186,9 +171,8 @@ capital = 4131 # Mutsu
 		mil = 1
 	}
 }
-
-1546.4.1 = {
-	heir = {
+1546.4.1 = { 
+	heir = { 
 		name = "Nobunao"
 		monarch_name = "Nobunao"
 		dynasty = "Nanbu"
@@ -200,9 +184,8 @@ capital = 4131 # Mutsu
 		mil = 4
 	}
 }
-
 1582.2.16 = { 
-	monarch = {
+	monarch = { 
 		name = "Nobunao"
 		dynasty = "Nanbu"
 		adm = 5
@@ -210,9 +193,8 @@ capital = 4131 # Mutsu
 		mil = 4
 	}
 }
-
-1582.2.16 = {
-	heir = {
+1582.2.16 = { 
+	heir = { 
 		name = "Toshinao"
 		monarch_name = "Toshinao"
 		dynasty = "Nanbu"
@@ -224,9 +206,8 @@ capital = 4131 # Mutsu
 		mil = 3
 	}
 }
-
 1599.11.22 = { 
-	monarch = {
+	monarch = { 
 		name = "Toshinao"
 		dynasty = "Nanbu"
 		adm = 4
@@ -234,9 +215,8 @@ capital = 4131 # Mutsu
 		mil = 3
 	}
 }
-
-1606.4.16 = {
-	heir = {
+1606.4.16 = { 
+	heir = { 
 		name = "Shigenao"
 		monarch_name = "Shigenao"
 		dynasty = "Nanbu"
@@ -248,9 +228,8 @@ capital = 4131 # Mutsu
 		mil = 2
 	}
 }
-
 1632.10.1 = { 
-	monarch = {
+	monarch = { 
 		name = "Shigenao"
 		dynasty = "Nanbu"
 		adm = 3
@@ -258,9 +237,8 @@ capital = 4131 # Mutsu
 		mil = 2
 	}
 }
-
-1648.1.1 = {
-	heir = {
+1648.1.1 = { 
+	heir = { 
 		name = "Shigenobu"
 		monarch_name = "Shigenobu"
 		dynasty = "Nanbu"
@@ -272,9 +250,8 @@ capital = 4131 # Mutsu
 		mil = 2
 	}
 }
-
 1664.10.30 = { 
-	monarch = {
+	monarch = { 
 		name = "Shigenobu"
 		dynasty = "Nanbu"
 		adm = 4
@@ -282,9 +259,8 @@ capital = 4131 # Mutsu
 		mil = 2
 	}
 }
-
-1664.10.30 = {
-	heir = {
+1664.10.30 = { 
+	heir = { 
 		name = "Yukinobu"
 		monarch_name = "Yukinobu"
 		dynasty = "Nanbu"
@@ -296,9 +272,8 @@ capital = 4131 # Mutsu
 		mil = 3
 	}
 }
-
 1702.7.12 = { 
-	monarch = {
+	monarch = { 
 		name = "Yukinobu"
 		dynasty = "Nanbu"
 		adm = 1
@@ -306,9 +281,8 @@ capital = 4131 # Mutsu
 		mil = 3
 	}
 }
-
-1702.7.12 = {
-	heir = {
+1702.7.12 = { 
+	heir = { 
 		name = "Nobuoki"
 		monarch_name = "Nobuoki"
 		dynasty = "Nanbu"
@@ -320,9 +294,8 @@ capital = 4131 # Mutsu
 		mil = 1
 	}
 }
-
 1702.11.29 = { 
-	monarch = {
+	monarch = { 
 		name = "Nobuoki"
 		dynasty = "Nanbu"
 		adm = 2
@@ -330,9 +303,8 @@ capital = 4131 # Mutsu
 		mil = 1
 	}
 }
-
-1702.11.29 = {
-	heir = {
+1702.11.29 = { 
+	heir = { 
 		name = "Toshimoto"
 		monarch_name = "Toshimoto"
 		dynasty = "Nanbu"
@@ -344,9 +316,8 @@ capital = 4131 # Mutsu
 		mil = 1
 	}
 }
-
 1707.12.31 = { 
-	monarch = {
+	monarch = { 
 		name = "Toshimoto"
 		dynasty = "Nanbu"
 		adm = 2
@@ -354,9 +325,8 @@ capital = 4131 # Mutsu
 		mil = 1
 	}
 }
-
-1708.6.14 = {
-	heir = {
+1708.6.14 = { 
+	heir = { 
 		name = "Toshimi"
 		monarch_name = "Toshimi"
 		dynasty = "Nanbu"
@@ -368,9 +338,8 @@ capital = 4131 # Mutsu
 		mil = 1
 	}
 }
-
 1725.7.13 = { 
-	monarch = {
+	monarch = { 
 		name = "Toshimi"
 		dynasty = "Nanbu"
 		adm = 1
@@ -378,9 +347,8 @@ capital = 4131 # Mutsu
 		mil = 1
 	}
 }
-
-1725.7.13 = {
-	heir = {
+1725.7.13 = { 
+	heir = { 
 		name = "Toshikatsu"
 		monarch_name = "Toshikatsu"
 		dynasty = "Nanbu"
@@ -392,9 +360,8 @@ capital = 4131 # Mutsu
 		mil = 1
 	}
 }
-
 1752.5.11 = { 
-	monarch = {
+	monarch = { 
 		name = "Toshikatsu"
 		dynasty = "Nanbu"
 		adm = 1
@@ -402,9 +369,8 @@ capital = 4131 # Mutsu
 		mil = 1
 	}
 }
-
-1752.5.11 = {
-	heir = {
+1752.5.11 = { 
+	heir = { 
 		name = "Toshimasa"
 		monarch_name = "Toshimasa"
 		dynasty = "Nanbu"
@@ -416,9 +382,8 @@ capital = 4131 # Mutsu
 		mil = 1
 	}
 }
-
 1780.1.1 = { 
-	monarch = {
+	monarch = { 
 		name = "Toshimasa"
 		dynasty = "Nanbu"
 		adm = 1
@@ -426,9 +391,8 @@ capital = 4131 # Mutsu
 		mil = 1
 	}
 }
-
-1782.11.4 = {
-	heir = {
+1782.11.4 = { 
+	heir = { 
 		name = "Toshitaka"
 		monarch_name = "Toshitaka"
 		dynasty = "Nanbu"
@@ -440,9 +404,8 @@ capital = 4131 # Mutsu
 		mil = 2
 	}
 }
-
 1784.6.22 = { 
-	monarch = {
+	monarch = { 
 		name = "Toshitaka"
 		dynasty = "Nanbu"
 		adm = 2
@@ -450,9 +413,8 @@ capital = 4131 # Mutsu
 		mil = 2
 	}
 }
-
-1808.1.16 = {
-	heir = {
+1808.1.16 = { 
+	heir = { 
 		name = "Toshimochi"
 		monarch_name = "Toshimochi"
 		dynasty = "Nanbu"
@@ -464,9 +426,8 @@ capital = 4131 # Mutsu
 		mil = 1
 	}
 }
-
 1820.7.12 = { 
-	monarch = {
+	monarch = { 
 		name = "Toshimochi"
 		dynasty = "Nanbu"
 		adm = 1
@@ -474,9 +435,8 @@ capital = 4131 # Mutsu
 		mil = 1
 	}
 }
-
-1820.7.12 = {
-	heir = {
+1820.7.12 = { 
+	heir = { 
 		name = "Toshimochi"
 		monarch_name = "Toshimochi"
 		dynasty = "Nanbu"

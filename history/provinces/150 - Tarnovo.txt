@@ -1,7 +1,7 @@
 #150 - Bulgaria
-owner = GLT
-controller = GLT
-culture = greek
+owner = BUL
+controller = BUL
+culture = bulgarian
 religion = orthodox
 capital = "Nikopol"
 trade_goods = grain
@@ -17,4 +17,3 @@ discovered_by = ottoman
 discovered_by = nomad_group
 #Country breaks
 #1402.1.1 = { revolt = { type = pretender_rebels size = 0 } controller = REB } # Interregnum
-add_core = GLT

@@ -2,12 +2,11 @@ government = monarchy
 add_government_reform = daimyo
 government_rank = 1
 primary_culture = togoku
-religion = shinto
-technology_group = chinese
-capital = 4360	# Mikawa
-	
+religion = zoroastrian
+technology_group = ottoman
+capital = 3101# Mikawa
 1440.6.14 = { 
-	monarch = {
+	monarch = { 
 		name = "Nobumitsu"
 		dynasty = "Matsudaira"
 		birth_date = 1404.1.1
@@ -19,9 +18,8 @@ capital = 4360	# Mikawa
 	clear_scripted_personalities = yes
 	add_ruler_personality = tactical_genius_personality
 }
-
-1440.6.14 = {
-	heir = {
+1440.6.14 = { 
+	heir = { 
 		name = "Chikatada"
 		monarch_name = "Chikatada"
 		dynasty = "Matsudaira"
@@ -33,9 +31,8 @@ capital = 4360	# Mikawa
 		mil = 3
 	}
 }
-
 1488.8.29 = { 
-	monarch = {
+	monarch = { 
 		name = "Chikatada"
 		dynasty = "Matsudaira"
 		birth_date = 1431.1.1
@@ -45,9 +42,8 @@ capital = 4360	# Mikawa
 		mil = 3
 	}
 }
-
-1488.8.29 = {
-	heir = {
+1488.8.29 = { 
+	heir = { 
 		name = "Nagachika"
 		monarch_name = "Nagachika"
 		dynasty = "Matsudaira"
@@ -59,9 +55,8 @@ capital = 4360	# Mikawa
 		mil = 4
 	}
 }
-
 1501.9.22 = { 
-	monarch = {
+	monarch = { 
 		name = "Nagachika"
 		dynasty = "Matsudaira"
 		adm = 4
@@ -69,9 +64,8 @@ capital = 4360	# Mikawa
 		mil = 4
 	}
 }
-
-1501.9.22 = {
-	heir = {
+1501.9.22 = { 
+	heir = { 
 		name = "Nobutada"
 		monarch_name = "Nobutada"
 		dynasty = "Matsudaira"
@@ -83,9 +77,8 @@ capital = 4360	# Mikawa
 		mil = 3
 	}
 }
-
 1503.1.1 = { 
-	monarch = {
+	monarch = { 
 		name = "Nobutada"
 		dynasty = "Matsudaira"
 		adm = 3
@@ -93,9 +86,8 @@ capital = 4360	# Mikawa
 		mil = 3
 	}
 }
-
-1511.9.28 = {
-	heir = {
+1511.9.28 = { 
+	heir = { 
 		name = "Kiyoyasu"
 		monarch_name = "Kiyoyasu"
 		dynasty = "Matsudaira"
@@ -107,9 +99,8 @@ capital = 4360	# Mikawa
 		mil = 5
 	}
 }
-
 1523.1.1 = { 
-	monarch = {
+	monarch = { 
 		name = "Kiyoyasu"
 		dynasty = "Matsudaira"
 		adm = 4
@@ -117,9 +108,8 @@ capital = 4360	# Mikawa
 		mil = 5
 	}
 }
-
-1526.6.9 = {
-	heir = {
+1526.6.9 = { 
+	heir = { 
 		name = "Hirotada"
 		monarch_name = "Hirotada"
 		dynasty = "Matsudaira"
@@ -131,9 +121,8 @@ capital = 4360	# Mikawa
 		mil = 2
 	}
 }
-
 1535.12.29 = { 
-	monarch = {
+	monarch = { 
 		name = "Hirotada"
 		dynasty = "Matsudaira"
 		adm = 2
@@ -141,9 +130,8 @@ capital = 4360	# Mikawa
 		mil = 2
 	}
 }
-
-1543.1.31 = {
-	heir = {
+1543.1.31 = { 
+	heir = { 
 		name = "Ieyasu"
 		monarch_name = "Ieyasu"
 		dynasty = "Tokugawa"
@@ -155,9 +143,8 @@ capital = 4360	# Mikawa
 		mil = 5
 	}
 }
-
 1549.4.3 = { 
-	monarch = {
+	monarch = { 
 		name = "Ieyasu"
 		dynasty = "Tokugawa"
 		adm = 6
@@ -165,9 +152,8 @@ capital = 4360	# Mikawa
 		mil = 5
 	}
 }
-
-1559.4.13 = {
-	heir = {
+1559.4.13 = { 
+	heir = { 
 		name = "Nobuyasu"
 		monarch_name = "Nobuyasu"
 		dynasty = "Tokugawa"
@@ -179,9 +165,8 @@ capital = 4360	# Mikawa
 		mil = 4
 	}
 }
-
-1579.5.2 = {
-	heir = {
+1579.5.2 = { 
+	heir = { 
 		name = "Hidetada"
 		monarch_name = "Hidetada"
 		dynasty = "Tokugawa"
@@ -193,30 +178,26 @@ capital = 4360	# Mikawa
 		mil = 2
 	}
 }
-
-1590.8.10   = { capital = 1028 } # Musashi (Edo)
-
-1600.10.21 = {
-	capital = 1020 # for gov requirement
+1590.8.10 = { capital = 1028 } # Musashi (Edo)
+1600.10.21 = { 
+	capital = 1020# for gov requirement
 	government = monarchy
 	add_government_reform = shogunate
 	government_rank = 2
 }
-
 1616.5.22 = { 
-	monarch = {
+	monarch = { 
 		name = "Hidetada"
 		dynasty = "Tokugawa"
 		birth_date = 1579.5.2
-#		death_date = 1632.3.14
+		#		death_date = 1632.3.14
 		adm = 5
 		dip = 4
 		mil = 2
 	}
 }
-	
-1616.5.22 = {
-	heir = {
+1616.5.22 = { 
+	heir = { 
 		name = "Iemitsu"
 		monarch_name = "Iemitsu"
 		dynasty = "Tokugawa"
@@ -228,21 +209,19 @@ capital = 4360	# Mikawa
 		mil = 3
 	}
 }
-
 1632.3.14 = { 
-	monarch = {
+	monarch = { 
 		name = "Iemitsu"
 		dynasty = "Tokugawa"
 		birth_date = 1604.8.12
-#		death_date = 1651.6.8
+		#		death_date = 1651.6.8
 		adm = 4
 		dip = 3
 		mil = 3
 	}
 }
-	
-1641.9.7 = {
-	heir = {
+1641.9.7 = { 
+	heir = { 
 		name = "Ietsuna"
 		monarch_name = "Ietsuna"
 		dynasty = "Tokugawa"
@@ -254,21 +233,19 @@ capital = 4360	# Mikawa
 		mil = 2
 	}
 }
-
 1651.6.8 = { 
-	monarch = {
+	monarch = { 
 		name = "Ietsuna"
 		dynasty = "Tokugawa"
 		birth_date = 1641.9.7
-#		death_date = 1680.6.4
+		#		death_date = 1680.6.4
 		adm = 3
 		dip = 3
 		mil = 2
 	}
 }
-
-1680.5.1 = {
-	heir = {
+1680.5.1 = { 
+	heir = { 
 		name = "Tsunayoshi"
 		monarch_name = "Tsunayoshi"
 		dynasty = "Tokugawa"
@@ -280,21 +257,19 @@ capital = 4360	# Mikawa
 		mil = 3
 	}
 }
-
 1680.6.4 = { 
-	monarch = {
+	monarch = { 
 		name = "Tsunayoshi"
 		dynasty = "Tokugawa"
 		birth_date = 1646.2.23
-#		death_date = 1709.2.9
+		#		death_date = 1709.2.9
 		adm = 4
 		dip = 3
 		mil = 2
 	}
 }
-	
-1704.12.31 = {
-	heir = {
+1704.12.31 = { 
+	heir = { 
 		name = "Ienobu"
 		monarch_name = "Ienobu"
 		dynasty = "Tokugawa"
@@ -306,21 +281,19 @@ capital = 4360	# Mikawa
 		mil = 2
 	}
 }
-
 1709.2.9 = { 
-	monarch = {
+	monarch = { 
 		name = "Ienobu"
 		dynasty = "Tokugawa"
 		birth_date = 1662.6.11
-#		death_date = 1712.11.12
+		#		death_date = 1712.11.12
 		adm = 4
 		dip = 3
 		mil = 2
 	}
 }
-	
-1709.8.8 = {
-	heir = {
+1709.8.8 = { 
+	heir = { 
 		name = "Ietsugu"
 		monarch_name = "Ietsugu"
 		dynasty = "Tokugawa"
@@ -332,33 +305,30 @@ capital = 4360	# Mikawa
 		mil = 2
 	}
 }
-
 1712.11.12 = { 
-	monarch = {
+	monarch = { 
 		name = "Ietsugu"
 		dynasty = "Tokugawa"
 		birth_date = 1709.8.8
-#		death_date = 1716.6.19
+		#		death_date = 1716.6.19
 		adm = 3
 		dip = 3
 		mil = 2
 	}
 }
-	
 1716.6.19 = { 
-	monarch = {
+	monarch = { 
 		name = "Yoshimune"
 		dynasty = "Tokugawa"
 		birth_date = 1684.11.17
-#		death_date = 1751.7.12
+		#		death_date = 1751.7.12
 		adm = 4
 		dip = 3
 		mil = 3
 	}
 }
-	
-1716.6.19 = {
-	heir = {
+1716.6.19 = { 
+	heir = { 
 		name = "Ieshige"
 		monarch_name = "Ieshige"
 		dynasty = "Tokugawa"
@@ -370,21 +340,19 @@ capital = 4360	# Mikawa
 		mil = 2
 	}
 }
-
 1751.7.12 = { 
-	monarch = {
+	monarch = { 
 		name = "Ieshige"
 		dynasty = "Tokugawa"
 		birth_date = 1712.7.28
-#		death_date = 1761.7.13
+		#		death_date = 1761.7.13
 		adm = 2
 		dip = 2
 		mil = 2
 	}
 }
-	
-1751.7.12 = {
-	heir = {
+1751.7.12 = { 
+	heir = { 
 		name = "Ieharu"
 		monarch_name = "Ieharu"
 		dynasty = "Tokugawa"
@@ -396,21 +364,19 @@ capital = 4360	# Mikawa
 		mil = 2
 	}
 }
-
 1760.5.3 = { 
-	monarch = {
+	monarch = { 
 		name = "Ieharu"
 		dynasty = "Tokugawa"
 		birth_date = 1737.6.20
-#		death_date = 1786.9.17
+		#		death_date = 1786.9.17
 		adm = 2
 		dip = 2
 		mil = 2
 	}
 }
-	
-1781.5.1 = {
-	heir = {
+1781.5.1 = { 
+	heir = { 
 		name = "Ienari"
 		monarch_name = "Ienari"
 		dynasty = "Tokugawa"
@@ -422,21 +388,19 @@ capital = 4360	# Mikawa
 		mil = 2
 	}
 }
-
 1786.9.17 = { 
-	monarch = {
+	monarch = { 
 		name = "Ienari"
 		dynasty = "Tokugawa"
 		birth_date = 1773.11.18
-#		death_date = 1841.2.27
+		#		death_date = 1841.2.27
 		adm = 2
 		dip = 2
 		mil = 2
 	}
 }
-	
-1793.6.22 = {
-	heir = {
+1793.6.22 = { 
+	heir = { 
 		name = "Ieyoshi"
 		monarch_name = "Ieyoshi"
 		dynasty = "Tokugawa"
@@ -448,21 +412,19 @@ capital = 4360	# Mikawa
 		mil = 2
 	}
 }
-
 1841.2.27 = { 
-	monarch = {
+	monarch = { 
 		name = "Ieyoshi"
 		dynasty = "Tokugawa"
 		birth_date = 1793.6.22
-#		death_date = 1853.7.27
+		#		death_date = 1853.7.27
 		adm = 2
 		dip = 2
 		mil = 2
 	}
 }
-	
-1841.2.27 = {
-	heir = {
+1841.2.27 = { 
+	heir = { 
 		name = "Ieyoshi"
 		monarch_name = "Ieyoshi"
 		dynasty = "Tokugawa"
@@ -474,25 +436,23 @@ capital = 4360	# Mikawa
 		mil = 2
 	}
 }
-
 1853.7.27 = { 
-	monarch = {
+	monarch = { 
 		name = "Ieyoshi"
 		dynasty = "Tokugawa"
 		birth_date = 1824.5.6
-#		death_date = 1858.8.14
+		#		death_date = 1858.8.14
 		adm = 2
 		dip = 2
 		mil = 2
 	}
 }
-	
 1858.8.14 = { 
-	monarch = {
+	monarch = { 
 		name = "Ieshige"
 		dynasty = "Tokugawa"
 		birth_date = 1846.7.17
-#		death_date = 1866.8.29
+		#		death_date = 1866.8.29
 		adm = 2
 		dip = 2
 		mil = 2

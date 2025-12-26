@@ -1,7 +1,7 @@
 #4176 - Branicevo
-owner = GLT
-controller = GLT
-culture = tylian
+owner = BUL
+controller = BUL
+culture = bulgarian
 religion = orthodox
 capital = "Kruševac"
 trade_goods = livestock
@@ -18,4 +18,4 @@ discovered_by = western
 discovered_by = eastern
 discovered_by = muslim
 discovered_by = ottoman
-add_core = GLT
+add_core = BUL

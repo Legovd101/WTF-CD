@@ -1,5 +1,5 @@
 # No previous file for Coiracoentanon
-culture = illini
+culture = kiowa
 religion = totemism
 capital = "Coiracoentanon"
 trade_goods = unknown
@@ -12,3 +12,6 @@ native_hostileness = 6
 tribal_owner = CAO
 discovered_by = north_american
 is_city = no
+add_core = KIO
+owner = KIO
+controller = KIO

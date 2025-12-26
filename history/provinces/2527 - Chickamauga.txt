@@ -1,9 +1,8 @@
 # No previous file for Chickamauga
-owner = SAT
-controller = SAT
-add_core = SAT
-culture = creek
-religion = totemism
+owner = SVA
+controller = SVA
+culture = svanari
+religion = zecieri
 capital = "Atali"
 trade_goods = fur
 base_tax = 1
@@ -13,4 +12,5 @@ native_size = 5
 native_ferocity = 1
 native_hostileness = 2
 discovered_by = north_american
-is_city = no
+is_city = yes
+add_core = SVA

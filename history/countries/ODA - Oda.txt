@@ -2,12 +2,11 @@ government = monarchy
 add_government_reform = daimyo
 government_rank = 1
 primary_culture = togoku
-religion = shinto
-technology_group = chinese
-capital = 1030	# Owari
-
-1440.1.1 = {
-	monarch = {
+religion = zoroastrian
+technology_group = ottoman
+capital = 3107# Owari
+1440.1.1 = { 
+	monarch = { 
 		name = "Hisanaga"
 		dynasty = "Oda"
 		birth_date = 1420.1.1
@@ -20,12 +19,11 @@ capital = 1030	# Owari
 	add_ruler_personality = lawgiver_personality
 	add_ruler_personality = zealot_personality
 }
-
-1452.1.1 = {
-	heir = {
+1452.1.1 = { 
+	heir = { 
 		name = "Toshisada"
 		monarch_name = "Toshisada"
-		dynasty = "Oda"		
+		dynasty = "Oda"
 		birth_date = 1452.1.1
 		death_date = 1495.7.26
 		claim = 90
@@ -34,9 +32,8 @@ capital = 1030	# Owari
 		mil = 4
 	}
 }
-
-1465.1.1 = {
-	monarch = {
+1465.1.1 = { 
+	monarch = { 
 		name = "Toshisada"
 		dynasty = "Oda"
 		birth_date = 1452.1.1
@@ -49,9 +46,8 @@ capital = 1030	# Owari
 	add_ruler_personality = zealot_personality
 	add_ruler_personality = lawgiver_personality
 }
-
-1495.7.26 = {
-	monarch = {
+1495.7.26 = { 
+	monarch = { 
 		name = "Tosada"
 		dynasty = "Oda"
 		birth_date = 1470.1.1
@@ -61,9 +57,8 @@ capital = 1030	# Owari
 	}
 	clear_scripted_personalities = yes
 }
-
-1495.9.1 = {
-	monarch = {
+1495.9.1 = { 
+	monarch = { 
 		name = "Tomura"
 		dynasty = "Oda"
 		birth_date = 1475.1.1
@@ -74,9 +69,8 @@ capital = 1030	# Owari
 	clear_scripted_personalities = yes
 	add_ruler_personality = kind_hearted_personality
 }
-
-1503.1.1 = {
-	monarch = {
+1503.1.1 = { 
+	monarch = { 
 		name = "Tatsusada"
 		dynasty = "Oda"
 		birth_date = 1486.1.1
@@ -88,9 +82,8 @@ capital = 1030	# Owari
 	add_ruler_personality = loose_lips_personality
 	add_ruler_personality = babbling_buffoon_personality
 }
-
-1513.6.8 = {
-	monarch = {
+1513.6.8 = { 
+	monarch = { 
 		name = "Tatsukatsu"
 		dynasty = "Oda"
 		birth_date = 1490.1.1
@@ -102,13 +95,12 @@ capital = 1030	# Owari
 	add_ruler_personality = malevolent_personality
 	add_ruler_personality = naive_personality
 }
-
-1520.1.1 = {
-	monarch = {
+1520.1.1 = { 
+	monarch = { 
 		name = "Nobusada"
 		dynasty = "Oda"
 		birth_date = 1490.1.1
-#		death_date = 1538.1.1
+		#		death_date = 1538.1.1
 		adm = 3
 		dip = 3
 		mil = 3
@@ -116,9 +108,8 @@ capital = 1030	# Owari
 	clear_scripted_personalities = yes
 	add_ruler_personality = midas_touched_personality
 }
-
-1520.1.1 = {
-	heir = {
+1520.1.1 = { 
+	heir = { 
 		name = "Nobuhide"
 		monarch_name = "Nobuhide"
 		dynasty = "Oda"
@@ -130,13 +121,12 @@ capital = 1030	# Owari
 		mil = 4
 	}
 }
-
 1527.1.1 = { 
-	monarch = {
+	monarch = { 
 		name = "Nobuhide"
 		dynasty = "Oda"
 		birth_date = 1511.1.1
-#		death_date = 1551.4.8
+		#		death_date = 1551.4.8
 		adm = 4
 		dip = 3
 		mil = 4
@@ -146,9 +136,8 @@ capital = 1030	# Owari
 	add_ruler_personality = free_thinker_personality
 	add_ruler_personality = midas_touched_personality
 }
-
-1534.6.23 = {
-	heir = {
+1534.6.23 = { 
+	heir = { 
 		name = "Nobunaga"
 		monarch_name = "Nobunaga"
 		dynasty = "Oda"
@@ -160,13 +149,12 @@ capital = 1030	# Owari
 		mil = 6
 	}
 }
-	
 1552.4.8 = { 
-	monarch = {
+	monarch = { 
 		name = "Nobunaga"
 		dynasty = "Oda"
 		birth_date = 1534.6.23
-#		death_date = 1582.6.21
+		#		death_date = 1582.6.21
 		adm = 6
 		dip = 5
 		mil = 6
@@ -176,9 +164,8 @@ capital = 1030	# Owari
 	add_ruler_personality = tolerant_personality
 	add_ruler_personality = midas_touched_personality
 }
-
-1557.1.1 = {
-	heir = {
+1557.1.1 = { 
+	heir = { 
 		name = "Nobutada"
 		monarch_name = "Nobutada"
 		dynasty = "Oda"
@@ -190,26 +177,22 @@ capital = 1030	# Owari
 		mil = 4
 	}
 }
-	
-1567.1.1 = {
-	capital = 1835 # Nobunaga moved the capital to Gifu in Mino
+1567.1.1 = { 
+	capital = 1835# Nobunaga moved the capital to Gifu in Mino
 }
-
-1573.7.3 = {
-	capital = 1020 # for gov requirement
+1573.7.3 = { 
+	capital = 1020# for gov requirement
 	government = monarchy
 	add_government_reform = shogunate
 	government_rank = 2
 }
-
 # Oda Nobunaga was assasinated and Toyotomi Hideyoshi rised as Oda successor
-
-1582.6.21 = {
-	monarch = {
+1582.6.21 = { 
+	monarch = { 
 		name = "Hideyoshi"
 		dynasty = "Toyotomi"
 		birth_date = 1537.3.17
-#		death_date = 1598.9.18
+		#		death_date = 1598.9.18
 		adm = 5
 		dip = 6
 		mil = 5
@@ -219,9 +202,8 @@ capital = 1030	# Owari
 	add_ruler_personality = cruel_personality
 	add_ruler_personality = infertile_personality
 }
-
-1591.11.1 = {
-	heir = {
+1591.11.1 = { 
+	heir = { 
 		name = "Hidetsugu"
 		monarch_name = "Hidetsugu"
 		dynasty = "Toyotomi"
@@ -233,9 +215,8 @@ capital = 1030	# Owari
 		mil = 4
 	}
 }
-
-1593.8.29 = {
-	heir = {
+1593.8.29 = { 
+	heir = { 
 		name = "Hideyori"
 		monarch_name = "Hideyori"
 		dynasty = "Toyotomi"
@@ -247,9 +228,8 @@ capital = 1030	# Owari
 		mil = 4
 	}
 }
-
-1598.9.18 = {
-	monarch = {
+1598.9.18 = { 
+	monarch = { 
 		name = "Hideyori"
 		dynasty = "Toyotomi"
 		birth_date = 1593.8.29
@@ -261,9 +241,8 @@ capital = 1030	# Owari
 	add_ruler_personality = inspiring_leader_personality
 	add_ruler_personality = naive_personality
 }
-
-1600.10.21 = {
-	capital = 1021 # Hideyoshi moved the capital to Osaka in Settsu
+1600.10.21 = { 
+	capital = 1021# Hideyoshi moved the capital to Osaka in Settsu
 	government = monarchy
 	add_government_reform = daimyo
 	government_rank = 1

@@ -21,3 +21,28 @@ LMV = "countries/Lemovci.txt"
 DRD = "countries/Durdon.txt"
 GJN = "countries/Gajinovo.txt"
 SVN = "countries/Severnija.txt"
+
+# Kartveli
+SVA = "countries/Svanari.txt"
+MTK = "countries/Mtskani.txt"
+KHE = "countries/Khevani.txt"
+DLM = "countries/Dalmuri.txt"
+MTU = "countries/Mtskhuri.txt"
+AMZ = "countries/Armazoba.txt"
+LMR = "countries/Lamariauri.txt"
+GLM = "countries/Gelmuri.txt"
+ZKV = "countries/Zekvani.txt"
+PHR = "countries/Pharnava.txt"
+BTR = "countries/Batara.txt"
+NRK = "countries/Narikhevi.txt"
+KRG = "countries/Khargisad.txt"
+SVL = "countries/Svelarchi.txt"
+ARV = "countries/Arvani.txt"
+
+# Hokun
+IWA = "countries/Iwasaki.txt"
+ISE = "countries/Isenaga.txt"
+HOK = "countries/Hokun.txt"
+
+# Chirgisia
+CRG = "countries/Chirgisia.txt"

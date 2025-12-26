@@ -1,17 +1,17 @@
 government = monarchy
-add_government_reform = shogunate
+add_government_reform = daimyo
 primary_culture = japanese
 add_accepted_culture = togoku
-religion = shinto
-technology_group = chinese
-capital = 1020	# Yamashiro
-
-1325.1.1 = {
-	monarch = {
+religion = zoroastrian
+technology_group = ottoman
+capital = 3103# Yamashiro
+government_rank = 1
+1325.1.1 = { 
+	monarch = { 
 		name = "Takauji"
 		dynasty = "Ashikaga"
 		birth_date = 1305.8.18
-#		death_date = 1358.6.7
+		#		death_date = 1358.6.7
 		adm = 4
 		dip = 5
 		mil = 4
@@ -21,9 +21,8 @@ capital = 1020	# Yamashiro
 	add_ruler_personality = inspiring_leader_personality
 	add_ruler_personality = well_connected_personality
 }
-
-1330.7.4 = {
-	heir = {
+1330.7.4 = { 
+	heir = { 
 		name = "Yoshiakira"
 		monarch_name = "Yoshiakira"
 		dynasty = "Ashikaga"
@@ -35,13 +34,12 @@ capital = 1020	# Yamashiro
 		mil = 2
 	}
 }
-
-1358.6.7 = {
-	monarch = {
+1358.6.7 = { 
+	monarch = { 
 		name = "Yoshiakira"
 		dynasty = "Ashikaga"
 		birth_date = 1330.7.4
-#		death_date = 1367.12.28
+		#		death_date = 1367.12.28
 		adm = 2
 		dip = 3
 		mil = 2
@@ -49,9 +47,8 @@ capital = 1020	# Yamashiro
 	clear_scripted_personalities = yes
 	add_ruler_personality = righteous_personality
 }
-
-1358.9.25 = {
-	heir = {
+1358.9.25 = { 
+	heir = { 
 		name = "Yoshimitsu"
 		monarch_name = "Yoshimitsu"
 		dynasty = "Ashikaga"
@@ -63,13 +60,12 @@ capital = 1020	# Yamashiro
 		mil = 4
 	}
 }
-
-1367.12.28 = {
-	monarch = {
+1367.12.28 = { 
+	monarch = { 
 		name = "Yoshimitsu"
 		dynasty = "Ashikaga"
 		birth_date = 1358.9.25
-#		death_date = 1408.5.31
+		#		death_date = 1408.5.31
 		adm = 4
 		dip = 6
 		mil = 4
@@ -79,9 +75,8 @@ capital = 1020	# Yamashiro
 	add_ruler_personality = silver_tongue_personality
 	add_ruler_personality = entrepreneur_personality
 }
-
-1386.3.12 = {
-	heir = {
+1386.3.12 = { 
+	heir = { 
 		name = "Yoshimochi"
 		monarch_name = "Yoshimochi"
 		dynasty = "Ashikaga"
@@ -93,13 +88,12 @@ capital = 1020	# Yamashiro
 		mil = 3
 	}
 }
-
-1408.5.31 = {
-	monarch = {
+1408.5.31 = { 
+	monarch = { 
 		name = "Yoshimochi"
 		dynasty = "Ashikaga"
 		birth_date = 1386.3.12
-#		death_date = 1428.2.3
+		#		death_date = 1428.2.3
 		adm = 4
 		dip = 3
 		mil = 3
@@ -108,9 +102,8 @@ capital = 1020	# Yamashiro
 	add_ruler_personality = careful_personality
 	add_ruler_personality = strict_personality
 }
-	
-1408.5.31 = {
-	heir = {
+1408.5.31 = { 
+	heir = { 
 		name = "Yoshikazu"
 		monarch_name = "Yoshikazu"
 		dynasty = "Ashikaga"
@@ -122,13 +115,12 @@ capital = 1020	# Yamashiro
 		mil = 1
 	}
 }
-
-1423.4.28 = {
-	monarch = {
+1423.4.28 = { 
+	monarch = { 
 		name = "Yoshikazu"
 		dynasty = "Ashikaga"
 		birth_date = 1407.8.27
-#		death_date = 1425.3.17
+		#		death_date = 1425.3.17
 		adm = 3
 		dip = 3
 		mil = 3
@@ -136,13 +128,13 @@ capital = 1020	# Yamashiro
 	clear_scripted_personalities = yes
 	add_ruler_personality = malevolent_personality
 }
+1425.3.17 = {  # Short reign after the death of Yoshikazu
 
-1425.3.17 = { # Short reign after the death of Yoshikazu
-	monarch = {
+	monarch = { 
 		name = "Yoshimochi"
 		dynasty = "Ashikaga"
 		birth_date = 1386.3.12
-#		death_date = 1428.2.3
+		#		death_date = 1428.2.3
 		adm = 4
 		dip = 3
 		mil = 3
@@ -151,9 +143,8 @@ capital = 1020	# Yamashiro
 	add_ruler_personality = careful_personality
 	add_ruler_personality = strict_personality
 }
-
-1425.3.17 = {
-	heir = {
+1425.3.17 = { 
+	heir = { 
 		name = "Yoshinori"
 		monarch_name = "Yoshinori"
 		dynasty = "Ashikaga"
@@ -165,13 +156,12 @@ capital = 1020	# Yamashiro
 		mil = 4
 	}
 }
-
-1428.2.3 = {
-	monarch = {
+1428.2.3 = { 
+	monarch = { 
 		name = "Yoshinori"
 		dynasty = "Ashikaga"
 		birth_date = 1394.7.11
-#		death_date = 1441.7.12
+		#		death_date = 1441.7.12
 		adm = 4
 		dip = 2
 		mil = 4
@@ -180,9 +170,8 @@ capital = 1020	# Yamashiro
 	add_ruler_personality = cruel_personality
 	add_ruler_personality = loose_lips_personality
 }
-	
-1434.3.19 = {
-	heir = {
+1434.3.19 = { 
+	heir = { 
 		name = "Yoshikatsu"
 		monarch_name = "Yoshikatsu"
 		dynasty = "Ashikaga"
@@ -194,13 +183,12 @@ capital = 1020	# Yamashiro
 		mil = 1
 	}
 }
-
-1441.7.12 = {
-	monarch = {
+1441.7.12 = { 
+	monarch = { 
 		name = "Yoshikatsu"
 		dynasty = "Ashikaga"
 		birth_date = 1434.3.19
-#		death_date = 1443.8.16
+		#		death_date = 1443.8.16
 		adm = 2
 		dip = 3
 		mil = 1
@@ -208,16 +196,15 @@ capital = 1020	# Yamashiro
 	clear_scripted_personalities = yes
 	add_ruler_personality = malevolent_personality
 }
-
-1443.8.16 = {
-	monarch = {
+1443.8.16 = { 
+	monarch = { 
 		name = "(Bakufu)"
 		regent = yes
 		adm = 1
 		dip = 1
 		mil = 1
 	}
-	heir = {
+	heir = { 
 		name = "Yoshimasa"
 		monarch_name = "Yoshimasa I"
 		dynasty = "Ashikaga"
@@ -232,9 +219,8 @@ capital = 1020	# Yamashiro
 	add_ruler_personality = naive_personality
 	add_ruler_personality = malevolent_personality
 }
-
-1464.1.1 = {
-	heir = {
+1464.1.1 = { 
+	heir = { 
 		name = "Yoshimi"
 		monarch_name = "Yoshimi"
 		dynasty = "Ashikaga"
@@ -246,9 +232,8 @@ capital = 1020	# Yamashiro
 		mil = 1
 	}
 }
-
-1465.12.11 = {
-	heir = {
+1465.12.11 = { 
+	heir = { 
 		name = "Yoshihisa"
 		monarch_name = "Yoshihisa"
 		dynasty = "Ashikaga"
@@ -260,13 +245,12 @@ capital = 1020	# Yamashiro
 		mil = 2
 	}
 }
-
-1474.1.7 = {
-	monarch = {
+1474.1.7 = { 
+	monarch = { 
 		name = "Yoshihisa"
 		dynasty = "Ashikaga"
 		birth_date = 1465.12.11
-#		death_date = 1489.4.26
+		#		death_date = 1489.4.26
 		adm = 1
 		dip = 1
 		mil = 2
@@ -275,13 +259,13 @@ capital = 1020	# Yamashiro
 	add_ruler_personality = drunkard_personality
 	add_ruler_personality = malevolent_personality
 }
+1489.4.26 = {  # Short reign after the death of Yoshihisa
 
-1489.4.26 = { # Short reign after the death of Yoshihisa
-	monarch = {
+	monarch = { 
 		name = "Yoshimasa"
 		dynasty = "Ashikaga"
 		birth_date = 1436.1.20
-#		death_date = 1490.1.27
+		#		death_date = 1490.1.27
 		adm = 2
 		dip = 3
 		mil = 1
@@ -291,9 +275,8 @@ capital = 1020	# Yamashiro
 	add_ruler_personality = naive_personality
 	add_ruler_personality = malevolent_personality
 }
-
-1489.4.26 = {
-	heir = {
+1489.4.26 = { 
+	heir = { 
 		name = "Yoshitane"
 		monarch_name = "Yoshitane"
 		dynasty = "Ashikaga"
@@ -305,13 +288,12 @@ capital = 1020	# Yamashiro
 		mil = 1
 	}
 }
-
-1490.1.1 = {
-	monarch = {
-		name = "Yoshitane" # 1st reign
+1490.1.1 = { 
+	monarch = { 
+		name = "Yoshitane"# 1st reign
 		dynasty = "Ashikaga"
 		birth_date = 1466.9.9
-#		death_date = 1523.5.23
+		#		death_date = 1523.5.23
 		adm = 2
 		dip = 1
 		mil = 1
@@ -320,13 +302,12 @@ capital = 1020	# Yamashiro
 	add_ruler_personality = malevolent_personality
 	add_ruler_personality = naive_personality
 }
-	
-1495.1.23 = {
-	monarch = {
+1495.1.23 = { 
+	monarch = { 
 		name = "Yoshizumi"
 		dynasty = "Ashikaga"
 		birth_date = 1481.1.15
-#		death_date = 1511.9.6
+		#		death_date = 1511.9.6
 		adm = 1
 		dip = 1
 		mil = 1
@@ -334,13 +315,12 @@ capital = 1020	# Yamashiro
 	clear_scripted_personalities = yes
 	add_ruler_personality = craven_personality
 }
-	
-1508.7.1 = {
-	monarch = {
-		name = "Yoshitane" # 2nd reign
+1508.7.1 = { 
+	monarch = { 
+		name = "Yoshitane"# 2nd reign
 		dynasty = "Ashikaga"
 		birth_date = 1466.9.9
-#		death_date = 1523.5.23
+		#		death_date = 1523.5.23
 		adm = 2
 		dip = 1
 		mil = 1
@@ -349,13 +329,12 @@ capital = 1020	# Yamashiro
 	add_ruler_personality = malevolent_personality
 	add_ruler_personality = naive_personality
 }
-	
-1521.12.25 = {
-	monarch = {
+1521.12.25 = { 
+	monarch = { 
 		name = "Yoshiharu"
 		dynasty = "Ashikaga"
 		birth_date = 1511.4.2
-#		death_date = 1550.5.20
+		#		death_date = 1550.5.20
 		adm = 2
 		dip = 3
 		mil = 1
@@ -365,9 +344,8 @@ capital = 1020	# Yamashiro
 	add_ruler_personality = well_connected_personality
 	add_ruler_personality = malevolent_personality
 }
-	
-1536.3.31 = {
-	heir = {
+1536.3.31 = { 
+	heir = { 
 		name = "Yoshiteru"
 		monarch_name = "Yoshiteru"
 		dynasty = "Ashikaga"
@@ -379,13 +357,12 @@ capital = 1020	# Yamashiro
 		mil = 3
 	}
 }
-
-1546.12.1 = {
-	monarch = {
+1546.12.1 = { 
+	monarch = { 
 		name = "Yoshiteru"
 		dynasty = "Ashikaga"
 		birth_date = 1536.3.31
-#		death_date = 1565.6.17
+		#		death_date = 1565.6.17
 		adm = 4
 		dip = 4
 		mil = 3
@@ -394,13 +371,12 @@ capital = 1020	# Yamashiro
 	add_ruler_personality = martial_educator_personality
 	add_ruler_personality = malevolent_personality
 }
-
-1565.6.17 = {
-	monarch = {
+1565.6.17 = { 
+	monarch = { 
 		name = "Yoshihide"
 		dynasty = "Ashikaga"
 		birth_date = 1538.1.1
-#		death_date = 1568.10.1
+		#		death_date = 1568.10.1
 		adm = 1
 		dip = 1
 		mil = 1
@@ -408,13 +384,12 @@ capital = 1020	# Yamashiro
 	clear_scripted_personalities = yes
 	add_ruler_personality = malevolent_personality
 }
-	
-1568.9.1 = {
-	monarch = {
+1568.9.1 = { 
+	monarch = { 
 		name = "Yoshiaki"
 		dynasty = "Ashikaga"
 		birth_date = 1537.12.15
-#		death_date = 1597.10.9
+		#		death_date = 1597.10.9
 		adm = 2
 		dip = 3
 		mil = 1
@@ -423,8 +398,8 @@ capital = 1020	# Yamashiro
 	add_ruler_personality = silver_tongue_personality
 	add_ruler_personality = malevolent_personality
 }
-
-1573.7.3 = {
+1573.7.3 = { 
 	government = monarchy
 	add_government_reform = daimyo
 }
+government_rank = 1

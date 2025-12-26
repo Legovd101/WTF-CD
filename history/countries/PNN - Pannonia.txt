@@ -8,3 +8,6 @@ religion = catholic
 # Specific Effects #
 technology_group = eastern
 government_rank = 1
+capital = 4240
+government = monarchy
+add_government_reform = feudalism_reform

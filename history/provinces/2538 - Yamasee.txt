@@ -1,10 +1,9 @@
 # No previous file for Yamasee
-owner = ALT
-controller = ALT
-add_core = ALT
+owner = MTK
+controller = MTK
 is_city = yes
-culture = yamasee
-religion = totemism
+culture = svanari
+religion = zecieri
 capital = "Yamasee"
 trade_goods = cotton
 base_tax = 1
@@ -14,3 +13,4 @@ native_size = 5
 native_ferocity = 1
 native_hostileness = 2
 discovered_by = north_american
+add_core = MTK

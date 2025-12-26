@@ -1,0 +1,7 @@
+religion = zecieri
+capital = 2530
+primary_culture = lamari
+government = monarchy
+add_government_reform = feudalism_reform
+government_rank = 1
+technology_group = kartveli
