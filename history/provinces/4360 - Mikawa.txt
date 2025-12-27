@@ -1,6 +1,6 @@
 #4360 - Mikawa
-owner = BLM
-controller = BLM
+owner = LMP
+controller = LMP
 culture = togoku
 religion = hinduism
 capital = "Okazaki"
@@ -15,4 +15,4 @@ discovered_by = KHA
 discovered_by = OIR
 discovered_by = QNG
 discovered_by = ANU
-add_core = BLM
+add_core = LMP

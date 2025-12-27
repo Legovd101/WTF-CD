@@ -1,6 +1,6 @@
 #1018 - Izumo
-owner = BLM
-controller = BLM
+owner = LMP
+controller = LMP
 culture = japanese
 religion = shinto
 capital = "Matsue"
@@ -14,5 +14,5 @@ discovered_by = MCH
 discovered_by = KHA
 discovered_by = OIR
 discovered_by = QNG
-add_core = BLM
+add_core = LMP
 fort_15th = yes

@@ -1,7 +1,7 @@
 # 2979 - Novara
 owner = MLO
 controller = MLO
-culture = hungarian
+culture = piedmontese
 religion = catholic
 hre = yes
 base_tax = 3

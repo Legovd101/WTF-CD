@@ -1,7 +1,7 @@
 # 4728 - Pavia
 owner = MLO
 controller = MLO
-culture = hungarian
+culture = zsenok
 religion = catholic
 hre = yes
 base_tax = 6

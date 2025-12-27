@@ -2,8 +2,8 @@
 latent_trade_goods = { 
 	coal 
 }
-owner = BLM
-controller = BLM
+owner = LMP
+controller = LMP
 culture = javanese
 religion = hinduism
 capital = "Hakata"
@@ -19,5 +19,5 @@ discovered_by = OIR
 discovered_by = QNG
 extra_cost = 16
 center_of_trade = 2
-add_core = BLM
+add_core = LMP
 fort_15th = yes

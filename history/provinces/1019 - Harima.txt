@@ -1,6 +1,6 @@
 #1019 - Harima
-owner = BLM
-controller = BLM
+owner = LMP
+controller = LMP
 culture = javanese
 religion = shinto
 capital = "Himeji"
@@ -16,4 +16,4 @@ discovered_by = MCH
 discovered_by = KHA
 discovered_by = OIR
 discovered_by = QNG
-add_core = BLM
+add_core = LMP

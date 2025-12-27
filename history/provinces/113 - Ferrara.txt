@@ -1,6 +1,6 @@
 #113 - Ferrara
-owner = FER
-controller = FER
+owner = RMN
+controller = RMN
 culture = romagnan
 religion = catholic
 hre = yes
@@ -10,7 +10,7 @@ trade_goods = salt
 base_manpower = 2
 capital = "Ferrara"
 is_city = yes
-add_core = FER
+add_core = RMN
 discovered_by = western
 discovered_by = eastern
 discovered_by = muslim

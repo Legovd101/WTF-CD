@@ -1,6 +1,6 @@
 #114 - Romagna
-owner = FER # Ravenna was seized by Venice in 1441
-controller = FER
+owner = RMN # Ravenna was seized by Venice in 1441
+controller = RMN
 culture = romagnan
 religion = catholic
 base_tax = 4
@@ -14,5 +14,5 @@ discovered_by = western
 discovered_by = eastern
 discovered_by = muslim
 discovered_by = ottoman
-add_core = FER
+add_core = RMN
 hre = yes

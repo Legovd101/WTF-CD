@@ -1,6 +1,6 @@
 #1839 - Suruga
-owner = BLM
-controller = BLM
+owner = LMP
+controller = LMP
 culture = togoku
 religion = hinduism
 capital = "Sunpu"
@@ -14,4 +14,4 @@ discovered_by = MCH
 discovered_by = KHA
 discovered_by = OIR
 discovered_by = QNG
-add_core = BLM
+add_core = LMP

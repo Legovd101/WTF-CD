@@ -36,5 +36,5 @@
 
 ## BULGARIA
 
-# Wallachia
+# Halicz
 261 = { "Çarnasuq" "Çarnasuq" }

@@ -1,7 +1,7 @@
 # 4730 - Bologna
-owner = FER
-controller = FER
-culture = hungarian
+owner = RMN
+controller = RMN
+culture = romanyak
 religion = catholic
 base_tax = 5
 base_production = 4
@@ -13,4 +13,4 @@ discovered_by = western
 discovered_by = eastern
 discovered_by = muslim
 discovered_by = ottoman
-add_core = FER
+add_core = RMN

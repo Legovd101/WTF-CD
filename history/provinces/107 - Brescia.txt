@@ -1,7 +1,7 @@
 #107 - Brescia
 owner = MLO# From 1426
 controller = MLO
-culture = hungarian
+culture = romanyak
 religion = catholic
 hre = yes
 base_tax = 5

@@ -1,7 +1,7 @@
 #2981 - Montferrat
 owner = MLO
 controller = MLO
-culture = hungarian
+culture = zsenok
 religion = catholic
 hre = yes
 base_tax = 5

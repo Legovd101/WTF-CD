@@ -1,6 +1,6 @@
 #4183 - Iwami
-owner = BLM
-controller = BLM
+owner = LMP
+controller = LMP
 culture = javanese
 religion = hinduism
 capital = "Hamada"
@@ -14,4 +14,4 @@ discovered_by = MCH
 discovered_by = KHA
 discovered_by = OIR
 discovered_by = QNG
-add_core = BLM
+add_core = LMP

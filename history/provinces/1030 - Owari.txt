@@ -1,6 +1,6 @@
 #1030 - Owari
-owner = BLM
-controller = BLM
+owner = LMP
+controller = LMP
 culture = togoku
 religion = shinto
 capital = "Kiyosu"
@@ -16,4 +16,4 @@ discovered_by = KHA
 discovered_by = OIR
 discovered_by = QNG
 discovered_by = ANU
-add_core = BLM
+add_core = LMP

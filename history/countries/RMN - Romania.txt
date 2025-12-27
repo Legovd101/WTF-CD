@@ -1,6 +1,7 @@
 government = monarchy
 add_government_reform = feudalism_reform
-primary_culture = romanian
-religion = orthodox
+primary_culture = romanyak
+religion = catholic
 technology_group = eastern
-capital = 161	# Tîrgoviste
+capital = 114# Ferrara
+government_rank = 1

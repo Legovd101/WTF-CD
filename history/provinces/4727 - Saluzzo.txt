@@ -1,7 +1,7 @@
 #4727 - Saluzzo
 owner = MLO
 controller = MLO
-culture = hungarian
+culture = piedmontese
 religion = catholic
 hre = yes
 base_tax = 3

@@ -46,3 +46,6 @@ HOK = "countries/Hokun.txt"
 
 # Chirgisia
 CRG = "countries/Chirgisia.txt"
+
+# Limaopait
+LMP = "countries/Limaopait.txt"

@@ -1,7 +1,7 @@
 #104 - Milano
 owner = MLO
 controller = MLO
-culture = hungarian
+culture = romanyak
 religion = catholic
 hre = yes
 base_tax = 8

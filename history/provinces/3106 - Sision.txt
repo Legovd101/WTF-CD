@@ -4,7 +4,6 @@
 ### Modified 11/4/2025 4:20:27 AM ###
 # Sision
 # 3106 Sision - 11/4/2025 4:20:27 AM 
-add_core = NTI
 owner = RAM
 controller = RAM
 base_tax = 2
@@ -18,8 +17,6 @@ capital = "Sision"
 hre = yes
 is_city = yes
 discovered_by = western
-discovered_by = latin
-discovered_by = viking
 discovered_by = eastern
 discovered_by = muslim
 discovered_by = ottoman
