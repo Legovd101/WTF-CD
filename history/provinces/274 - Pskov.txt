@@ -1,7 +1,7 @@
 #274 - Pskov
-owner = ENG
-controller = ENG
-culture = anglosaxon
+owner = NDG
+controller = NDG
+culture = northdaugrian
 religion = orthodox
 base_tax = 5
 base_production = 5
@@ -18,5 +18,5 @@ discovered_by = western
 discovered_by = eastern
 extra_cost = 8
 center_of_trade = 1
-add_core = ENG
+add_core = NDG
 fort_15th = yes

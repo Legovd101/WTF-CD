@@ -3,4 +3,5 @@ add_government_reform = steppe_horde
 primary_culture = mishary
 religion = sunni
 technology_group = nomad_group
-capital = 303	# Saratov
+capital = 1944# Saratov
+government_rank = 1

@@ -1,7 +1,7 @@
 #4256 - Solvychegodsk
-owner = ENG
-controller = ENG
-culture = anglosaxon
+owner = PRM
+controller = PRM
+culture = uralic
 religion = orthodox
 base_tax = 1
 base_production = 1
@@ -17,4 +17,4 @@ discovered_by = AST
 discovered_by = QAS
 discovered_by = eastern
 discovered_by = western
-add_core = ENG
+add_core = PRM

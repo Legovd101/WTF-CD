@@ -1,7 +1,7 @@
 #4259 - Velsk
-owner = ENG
-controller = ENG
-culture = anglosaxon
+owner = MEE
+controller = MEE
+culture = mering
 religion = orthodox
 base_tax = 1
 base_production = 1
@@ -13,4 +13,4 @@ add_core = MOS
 discovered_by = eastern
 discovered_by = western
 discovered_by = nomad_group
-add_core = ENG
+add_core = MEE

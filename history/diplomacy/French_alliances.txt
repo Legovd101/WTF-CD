@@ -1,46 +1,81 @@
 ## Restored French vassals 1.30 ##
 ## Turned the vassals into appanages 1.35 ##
-# France-Orleans
 dependency = {
 	subject_type = appanage
-	first = FRA
-	second = ORL
+	first = SER
+	second = TRV
 	start_date = 1444.1.1
 	end_date = 1532.8.3
 }
 
-# France-Armagnac
 dependency = {
 	subject_type = appanage
-	first = FRA
+	first = SER
+	second = LMV
+	start_date = 1444.1.1
+	end_date = 1532.8.3
+}
+
+dependency = {
+	subject_type = appanage
+	first = SER
+	second = GUY
+	start_date = 1444.1.1
+	end_date = 1532.8.3
+}
+
+dependency = {
+	subject_type = appanage
+	first = SER
+	second = DRD
+	start_date = 1444.1.1
+	end_date = 1532.8.3
+}
+
+dependency = {
+	subject_type = appanage
+	first = SER
 	second = AMG
 	start_date = 1444.1.1
 	end_date = 1532.8.3
 }
 
-# France-Auvergne
 dependency = {
 	subject_type = appanage
-	first = FRA
-	second = AUV
+	first = SER
+	second = LOR
 	start_date = 1444.1.1
 	end_date = 1532.8.3
 }
 
-# France-Foix
 dependency = {
 	subject_type = appanage
-	first = FRA
-	second = FOI
+	first = SER
+	second = GJN
 	start_date = 1444.1.1
 	end_date = 1532.8.3
 }
 
-# France-Bourbon
 dependency = {
 	subject_type = appanage
-	first = FRA
-	second = BOU
+	first = SER
+	second = CRO
+	start_date = 1444.1.1
+	end_date = 1532.8.3
+}
+
+dependency = {
+	subject_type = appanage
+	first = SER
+	second = BRI
+	start_date = 1444.1.1
+	end_date = 1532.8.3
+}
+
+dependency = {
+	subject_type = appanage
+	first = SVN
+	second = BOS
 	start_date = 1444.1.1
 	end_date = 1532.8.3
 }

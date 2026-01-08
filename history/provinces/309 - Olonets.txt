@@ -1,6 +1,6 @@
 #309 - Olonets
-owner = ENG
-controller = ENG
+owner = NDG
+controller = NDG
 culture = karelian
 religion = orthodox
 base_tax = 3
@@ -18,4 +18,4 @@ discovered_by = QAS
 discovered_by = eastern
 discovered_by = western
 discovered_by = nomad_group
-add_core = ENG
+add_core = NDG

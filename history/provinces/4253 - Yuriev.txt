@@ -1,7 +1,7 @@
 #4253 - Pereyaslavl-Zalesskiy & Yuriev-Polskiy
-owner = ENG
-controller = ENG
-culture = anglosaxon
+owner = FLD
+controller = FLD
+culture = flodish
 religion = orthodox
 base_tax = 3
 base_production = 3
@@ -16,4 +16,4 @@ discovered_by = western
 discovered_by = nomad_group
 extra_cost = 8
 center_of_trade = 1
-add_core = ENG
+add_core = FLD

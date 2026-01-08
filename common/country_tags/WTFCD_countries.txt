@@ -49,3 +49,17 @@ CRG = "countries/Chirgisia.txt"
 
 # Limaopait
 LMP = "countries/Limaopait.txt"
+
+# Englalonde
+NDG = "countries/Northdaugria.txt"
+SSX = "countries/Sussex.txt"
+WSX = "countries/Wessex.txt"
+ESX = "countries/Essex.txt"
+FLD = "countries/Flodsley.txt"
+MRC = "countries/Mercia.txt"
+MEE = "countries/Mere.txt"
+DRC = "countries/Drecan.txt"
+ANG = "countries/Anglia.txt"
+SMU = "countries/Sum.txt"
+
+# Roman Empire

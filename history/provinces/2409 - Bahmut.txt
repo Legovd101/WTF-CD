@@ -1,7 +1,7 @@
 #2409 - Bahmut
-owner = GOL
-controller = GOL
-culture = mishary
+owner = ESX
+controller = ESX
+culture = east_saxon
 religion = sunni
 base_tax = 2
 base_production = 2
@@ -9,9 +9,9 @@ trade_goods = iron
 base_manpower = 1
 capital = "Bahmut"
 is_city = yes
-add_core = GOL
 discovered_by = western
 discovered_by = eastern
 discovered_by = muslim
 discovered_by = ottoman
 discovered_by = nomad_group
+add_core = ESX

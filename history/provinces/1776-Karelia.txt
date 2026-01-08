@@ -1,6 +1,6 @@
 #East Karelia
-owner = ENG
-controller = ENG
+owner = NDG
+controller = NDG
 capital = "Kem"
 culture = karelian
 religion = orthodox
@@ -13,4 +13,4 @@ base_manpower = 1
 discovered_by = western
 discovered_by = eastern
 add_local_autonomy = 25
-add_core = ENG
+add_core = NDG

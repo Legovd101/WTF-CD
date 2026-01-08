@@ -1,7 +1,7 @@
 #Ostrov
-owner = ENG
-controller = ENG
-culture = anglosaxon
+owner = NDG
+controller = NDG
+culture = northdaugrian
 religion = orthodox
 base_tax = 2
 base_production = 2
@@ -16,4 +16,4 @@ discovered_by = AST
 discovered_by = QAS
 discovered_by = western
 discovered_by = eastern
-add_core = ENG
+add_core = NDG

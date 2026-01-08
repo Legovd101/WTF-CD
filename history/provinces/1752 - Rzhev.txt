@@ -1,7 +1,7 @@
 #1752 - Rzhev
-owner = ENG
-controller = ENG
-culture = anglosaxon
+owner = MRC
+controller = MRC
+culture = mercian
 religion = orthodox
 base_tax = 5
 base_production = 5
@@ -13,4 +13,4 @@ add_core = TVE
 discovered_by = eastern
 discovered_by = western
 discovered_by = nomad_group
-add_core = ENG
+add_core = MRC

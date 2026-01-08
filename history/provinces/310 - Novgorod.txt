@@ -1,7 +1,7 @@
 # 310 - Novgorod
-owner = ENG
-controller = ENG
-culture = anglosaxon
+owner = NDG
+controller = NDG
+culture = northdaugrian
 religion = orthodox
 base_tax = 7
 base_production = 7
@@ -14,5 +14,5 @@ discovered_by = western
 discovered_by = nomad_group
 extra_cost = 16
 center_of_trade = 2
-add_core = ENG
+add_core = NDG
 fort_15th = yes

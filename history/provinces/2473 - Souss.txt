@@ -1,8 +1,8 @@
 # - Susa
 owner = KNI
 controller = KNI
-culture = tunisian
-religion = sunni
+culture = vandal
+religion = catholic
 capital = "Susa"
 trade_goods = sugar
 base_tax = 5

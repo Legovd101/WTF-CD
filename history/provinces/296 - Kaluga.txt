@@ -1,7 +1,7 @@
 #296 - Kaluga
-owner = ENG
-controller = ENG
-culture = anglosaxon
+owner = MRC
+controller = MRC
+culture = mercian
 religion = orthodox
 base_tax = 3
 base_production = 3
@@ -14,4 +14,4 @@ discovered_by = western
 discovered_by = GOL
 discovered_by = KAZ
 discovered_by = nomad_group
-add_core = ENG
+add_core = MRC

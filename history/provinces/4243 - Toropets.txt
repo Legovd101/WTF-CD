@@ -1,7 +1,7 @@
 #4243 - Toropets
-owner = ENG
-controller = ENG
-culture = anglosaxon
+owner = MRC
+controller = MRC
+culture = mercian
 religion = orthodox
 base_tax = 2
 base_production = 2
@@ -14,4 +14,4 @@ add_core = PLT
 discovered_by = western
 discovered_by = eastern
 discovered_by = nomad_group
-add_core = ENG
+add_core = MRC

@@ -1,0 +1,7 @@
+religion = orthodox
+capital = 4259
+technology_group = eastern
+primary_culture = mering
+government = tribal
+add_government_reform = steppe_horde
+government_rank = 1

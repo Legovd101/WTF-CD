@@ -1,7 +1,7 @@
 #4244 - Trubchevsk (Trubchevsk+Starodub+Pochep)
-owner = ENG
-controller = ENG
-culture = anglosaxon
+owner = WSX
+controller = WSX
+culture = west_saxon
 religion = orthodox
 base_tax = 2
 base_production = 2
@@ -14,4 +14,4 @@ add_core = SMO
 discovered_by = western
 discovered_by = eastern
 discovered_by = nomad_group
-add_core = ENG
+add_core = WSX

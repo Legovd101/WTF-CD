@@ -1,0 +1,88 @@
+#Country Name: Please see filename.
+graphical_culture = easterngfx
+color = { 0 171 171 }
+revolutionary_colors = { 2 0 10 }
+preferred_religion = anglican
+historical_idea_groups = { 
+	administrative_ideas
+	exploration_ideas
+	quality_ideas
+	maritime_ideas
+	economic_ideas
+	expansion_ideas
+	trade_ideas
+	naval_ideas
+}
+historical_units = { 
+	western_medieval_infantry
+	chevauchee
+	western_longbow
+	gaelic_mercenary
+	gaelic_free_shooter
+	french_caracolle
+	irish_charge
+	anglofrench_line
+	french_dragoon
+	british_redcoat
+	british_hussar
+	british_square
+	mixed_order_infantry
+	open_order_cavalry
+	napoleonic_square
+	napoleonic_lancers
+}
+monarch_names = { 
+	"Æthelberht #0" = 60
+	"Offa #4" = 40
+	"Edwin #2" = 20
+	"Oswald #2" = 20
+	"Penda #0" = 10
+	"Cenwalh #1" = 5
+	"Æthelbald #0" = 5
+	"Ceawlin #0" = 5
+	"Cuthred #0" = 0
+	"Sigeberht #0" = 0
+	"Æthelred #0" = 0
+	"Oswiu #0" = 0
+	"Peada #0" = 0
+	"Wulfhere #0" = 0
+	"Ecgfrith #0" = 0
+	"Beorhtric #0" = 0
+	"Cynewulf #0" = 0
+	"Ælfred #0" = 0
+	"Æthelstan #0" = 0
+	"Eadwig #0" = 0
+	"Eadred #0" = 0
+	"Eanfrith #0" = 0
+	"Hereweald #0" = 0
+	"Beornwulf #0" = 0
+	"Æthelric #0" = 0
+	"Wihtræd #0" = 0
+	"Æthelheard #0" = 0
+	"Coenred #0" = 0
+	"Osric #0" = 0
+	"Sigered #0" = 0
+	"Ealdwulf #0" = 0
+	"Ælfwine #0" = 0
+	"Beorhtwulf #0" = 0
+	"Cynethryth #0" = -10
+	"Æthelflæd #0" = -10
+	"Eadgifu #0" = -1
+	"Ælfflæd #0" = -1
+	"Hild #0" = -1
+	"Leofrun #0" = -1
+	"Wynflæd #0" = -1
+}
+leader_names = { 
+	"Æthelberht" "Offa" "Edwin" "Oswald" "Penda" "Cenwalh" "Ceawlin" "Æthelbald" "Oswiu" "Wulfhere"
+	"Ecgfrith" "Beorhtric" "Cynewulf" "Ælfred" "Æthelstan" 
+}
+ship_names = { 
+	"Woden" "Thunor" "Tiw" "Frig" "Eostre" "Ingwine" "Scyld" "Beowulf" "Scef" "Hengest"
+	"Horsa" "Offa" "Æthelberht" "Oswald" "Edwin" "Penda" "Cuthred" "Cynewulf" "Ælfred" "Æthelstan"
+	"Heorot" "Wessex" "Mercia" "Northumbria" "Kent" "East Anglia" "Englaland" "Middelangeard" "Sæmann" 
+}
+army_names = { 
+	"Fyrd Engla" "Here Engla" "Fyrd Miercna" "Here Miercna" "Fyrd Norðanhymbra" "Here Norðanhymbra" "Fyrd Westseaxna" "Here Eastengla" "Fyrd Cantwara" "Here Bernicna"
+	"Cyninges Here" "Fyrd $PROVINCE$" 
+}

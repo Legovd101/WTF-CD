@@ -1,6 +1,6 @@
 #273 - Latgalia / Inflanty Duchy
-owner = ENG
-controller = ENG
+owner = LIV
+controller = LIV
 add_core = LTG
 culture = latvian
 religion = catholic
@@ -17,5 +17,5 @@ discovered_by = AST
 discovered_by = QAS
 discovered_by = western
 discovered_by = eastern
-add_core = ENG
+add_core = LIV
 fort_15th = yes

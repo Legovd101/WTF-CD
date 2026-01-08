@@ -1,6 +1,6 @@
 #4242 - Ula
-owner = ENG
-controller = ENG
+owner = SMU
+controller = SMU
 culture = finnish
 religion = orthodox
 base_tax = 2
@@ -14,4 +14,4 @@ add_core = PLT
 discovered_by = western
 discovered_by = eastern
 discovered_by = nomad_group
-add_core = ENG
+add_core = SMU
