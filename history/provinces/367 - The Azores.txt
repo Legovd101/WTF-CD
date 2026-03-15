@@ -1,5 +1,5 @@
 #367 - The Azores
-culture = berber
+culture = mauri
 religion = animism
 capital = "The Azores"
 trade_goods = fish

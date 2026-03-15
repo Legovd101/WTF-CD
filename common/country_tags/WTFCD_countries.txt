@@ -62,4 +62,12 @@ DRC = "countries/Drecan.txt"
 ANG = "countries/Anglia.txt"
 SMU = "countries/Sum.txt"
 
-# Roman Empire
+# Angusia
+NGU = "countries/Angusia.txt"
+
+# Vandalia
+VAN = "countries/Vandalia.txt"
+RIK = "countries/Rikania.txt"
+PTR = "countries/Petrai.txt"
+NTI = "countries/Antiocia.txt"
+EDS = "countries/Edessa.txt"

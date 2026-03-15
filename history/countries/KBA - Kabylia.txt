@@ -1,16 +1,15 @@
 government = tribal
 add_government_reform = tribal_kingdom
 government_rank = 1
-primary_culture = berber
-religion = sunni
-technology_group = muslim
-capital = 339	# Kabylia
-fixed_capital = 339 # Cannot move capital away from this province & no power cost to move to it
+primary_culture = numidian
+religion = alexandrian
+technology_group = western
+capital = 339# Kabylia
+fixed_capital = 339# Cannot move capital away from this province & no power cost to move to it
 religious_school = maliki_school
-
 #Sultans of Ait Abbas and Hafsid Emirs of Bejaia
-1440.1.1 = {
-	monarch = {
+1440.1.1 = { 
+	monarch = { 
 		name = "Abderrahmane"
 		dynasty = "Mokrani"
 		adm = 2
@@ -18,9 +17,8 @@ religious_school = maliki_school
 		mil = 2
 	}
 }
-
-1440.1.1 = {
-	heir = {
+1440.1.1 = { 
+	heir = { 
 		name = "Ahmed"
 		monarch_name = "Ahmed I"
 		dynasty = "Mokrani"
@@ -32,9 +30,8 @@ religious_school = maliki_school
 		mil = 1
 	}
 }
-
-1500.1.1 = {
-	monarch = {
+1500.1.1 = { 
+	monarch = { 
 		name = "Ahmed I"
 		dynasty = "Mokrani"
 		adm = 1
@@ -42,9 +39,8 @@ religious_school = maliki_school
 		mil = 1
 	}
 }
-
-1500.1.1 = {
-	heir = {
+1500.1.1 = { 
+	heir = { 
 		name = "Abdelaziz"
 		monarch_name = "Abdelaziz"
 		dynasty = "Mokrani"
@@ -56,9 +52,8 @@ religious_school = maliki_school
 		mil = 3
 	}
 }
-
-1510.1.1 = {
-	monarch = {
+1510.1.1 = { 
+	monarch = { 
 		name = "Abdelaziz"
 		dynasty = "Mokrani"
 		adm = 3
@@ -66,9 +61,8 @@ religious_school = maliki_school
 		mil = 3
 	}
 }
-
-1520.1.1 = {
-	heir = {
+1520.1.1 = { 
+	heir = { 
 		name = "Ahmed"
 		monarch_name = "Ahmed II"
 		dynasty = "Mokrani"
@@ -80,9 +74,8 @@ religious_school = maliki_school
 		mil = 3
 	}
 }
-
-1559.1.1 = {
-	monarch = {
+1559.1.1 = { 
+	monarch = { 
 		name = "Ahmed I"
 		dynasty = "Mokrani"
 		adm = 3
@@ -90,9 +83,8 @@ religious_school = maliki_school
 		mil = 3
 	}
 }
-
-1559.1.1 = {
-	heir = {
+1559.1.1 = { 
+	heir = { 
 		name = "Sidi"
 		monarch_name = "Sidi Naceur"
 		dynasty = "Mokrani"
@@ -104,9 +96,8 @@ religious_school = maliki_school
 		mil = 0
 	}
 }
-
-1600.1.1 = {
-	monarch = {
+1600.1.1 = { 
+	monarch = { 
 		name = "Sidi Naceur"
 		dynasty = "Mokrani"
 		adm = 0
@@ -114,9 +105,8 @@ religious_school = maliki_school
 		mil = 0
 	}
 }
-
-1600.6.1 = {
-	monarch = {
+1600.6.1 = { 
+	monarch = { 
 		name = "Betka"
 		dynasty = "Mokrani"
 		adm = 4
@@ -124,9 +114,8 @@ religious_school = maliki_school
 		mil = 4
 	}
 }
-
-1650.1.1 = {
-	heir = {
+1650.1.1 = { 
+	heir = { 
 		name = "Bouzid"
 		monarch_name = "Bouzid"
 		dynasty = "Mokrani"
@@ -138,9 +127,8 @@ religious_school = maliki_school
 		mil = 3
 	}
 }
-
-1680.1.1 = {
-	monarch = {
+1680.1.1 = { 
+	monarch = { 
 		name = "Bouzid"
 		dynasty = "Mokrani"
 		adm = 2
@@ -148,9 +136,8 @@ religious_school = maliki_school
 		mil = 3
 	}
 }
-
-1690.1.1 = {
-	heir = {
+1690.1.1 = { 
+	heir = { 
 		name = "Bouzid"
 		monarch_name = "Bouzid II"
 		dynasty = "Mokrani"
@@ -162,9 +149,8 @@ religious_school = maliki_school
 		mil = 2
 	}
 }
-
-1735.1.1 = {
-	monarch = {
+1735.1.1 = { 
+	monarch = { 
 		name = "Bouzid II"
 		dynasty = "Mokrani"
 		adm = 2
@@ -172,9 +158,8 @@ religious_school = maliki_school
 		mil = 2
 	}
 }
-
-1735.1.1 = {
-	heir = {
+1735.1.1 = { 
+	heir = { 
 		name = "Abdesselem"
 		monarch_name = "Abdesselem"
 		dynasty = "Mokrani"
@@ -186,9 +171,8 @@ religious_school = maliki_school
 		mil = 1
 	}
 }
-
-1783.1.1 = {
-	monarch = {
+1783.1.1 = { 
+	monarch = { 
 		name = "Abdesselem"
 		dynasty = "Mokrani"
 		adm = 1
@@ -196,9 +180,8 @@ religious_school = maliki_school
 		mil = 1
 	}
 }
-
-1783.1.1 = {
-	heir = {
+1783.1.1 = { 
+	heir = { 
 		name = "Bouzid"
 		monarch_name = "Bouzid III"
 		dynasty = "Mokrani"
@@ -210,9 +193,8 @@ religious_school = maliki_school
 		mil = 1
 	}
 }
-
-1784.1.1 = {
-	monarch = {
+1784.1.1 = { 
+	monarch = { 
 		name = "Bouzid III"
 		dynasty = "Mokrani"
 		adm = 1
@@ -220,9 +202,8 @@ religious_school = maliki_school
 		mil = 1
 	}
 }
-
-1784.1.1 = {
-	heir = {
+1784.1.1 = { 
+	heir = { 
 		name = "Abdallah"
 		monarch_name = "Abdallah"
 		dynasty = "Mokrani"
@@ -234,9 +215,8 @@ religious_school = maliki_school
 		mil = 2
 	}
 }
-
-1800.1.1 = {
-	monarch = {
+1800.1.1 = { 
+	monarch = { 
 		name = "Abdallah"
 		dynasty = "Mokrani"
 		adm = 2
@@ -244,9 +224,8 @@ religious_school = maliki_school
 		mil = 2
 	}
 }
-
-1800.1.1 = {
-	heir = {
+1800.1.1 = { 
+	heir = { 
 		name = "Abdesslam"
 		monarch_name = "Abdesslam"
 		dynasty = "Mokrani"

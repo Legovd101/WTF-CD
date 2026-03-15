@@ -1,15 +1,14 @@
 #379 - Judea
-owner = MAM
-controller = MAM
-culture = al_suryah_arabic
-religion = sunni
+owner = KOJ
+controller = KOJ
+culture = east_vandalian
+religion = catholic
 capital = "Al Quds"
 trade_goods = grain
 base_tax = 5
 base_production = 5
 base_manpower = 3
 is_city = yes
-add_core = MAM
 discovered_by = muslim
 discovered_by = ottoman
 discovered_by = eastern
@@ -19,3 +18,4 @@ discovered_by = indian
 discovered_by = east_african
 add_province_triggered_modifier = jerusalem_held
 add_province_triggered_modifier = promised_land_modifier
+add_core = KOJ

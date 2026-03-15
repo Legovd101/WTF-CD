@@ -2,7 +2,7 @@
 owner = GRE
 controller = GRE
 culture = stelenian
-religion = sunni
+religion = catholic
 capital = "Cebta"
 trade_goods = fish
 base_tax = 3

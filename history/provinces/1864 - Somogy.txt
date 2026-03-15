@@ -2,9 +2,9 @@
 latent_trade_goods = { 
 	coal 
 }
-owner = PNN
-controller = PNN
-culture = pannonian
+owner = NGU
+controller = NGU
+culture = han
 religion = catholic
 capital = "Kaposvár"
 trade_goods = livestock
@@ -21,4 +21,4 @@ discovered_by = western
 discovered_by = eastern
 discovered_by = muslim
 discovered_by = ottoman
-add_core = PNN
+add_core = NGU

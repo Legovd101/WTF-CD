@@ -1,0 +1,5 @@
+government = monarchy
+primary_culture = rikanian
+religion = alexandrian
+technology_group = western
+capital = 4316# Sharqiya/Pelusium

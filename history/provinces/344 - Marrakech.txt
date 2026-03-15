@@ -1,8 +1,8 @@
 #344 - Marrakech
 owner = GRE
 controller = GRE
-culture = moroccan
-religion = sunni
+culture = mauri
+religion = animism
 capital = "Marrakech"
 trade_goods = sugar
 base_tax = 5

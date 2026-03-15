@@ -6,3 +6,12 @@ religion = catholic
 technology_group = western
 capital = 126 #Malta
 
+1438.6.8 = { 
+	monarch = { 
+		name = "Giovanni"
+		dynasty = "Marconi"
+		adm = 4
+		dip = 3
+		mil = 6
+	}
+}

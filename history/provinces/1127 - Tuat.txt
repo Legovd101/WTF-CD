@@ -1,7 +1,7 @@
 #1127 - Tuat
-culture = tuareg
+culture = gaetulian
 capital = "Tawat"
-religion = sunni
+religion = animism
 trade_goods = unknown
 base_tax = 1
 base_production = 1

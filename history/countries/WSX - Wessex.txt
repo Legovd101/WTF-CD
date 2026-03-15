@@ -5,3 +5,12 @@ primary_culture = west_saxon
 government_rank = 2
 government = monarchy
 add_government_reform = feudalism_reform
+1438.6.8 = { 
+	monarch = { 
+		name = "Cynrigs II"
+		dynasty = "Morwic"
+		adm = 2
+		dip = 4
+		mil = 2
+	}
+}

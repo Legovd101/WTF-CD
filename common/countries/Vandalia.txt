@@ -1,0 +1,79 @@
+#Country Name: Please see filename.
+graphical_culture = westerngfx
+color = { 62 51 101 }
+historical_council = concilatory
+revolutionary_colors = { 15 0 16 }
+historical_score = 6700
+historical_idea_groups = { 
+	economic_ideas
+	offensive_ideas
+	exploration_ideas
+	defensive_ideas
+	administrative_ideas
+	maritime_ideas
+	quality_ideas
+	innovativeness_ideas
+}
+historical_units = { 
+	western_medieval_infantry
+	chevauchee
+	western_men_at_arms
+	swiss_landsknechten
+	dutch_maurician
+	french_caracolle
+	anglofrench_line
+	french_dragoon
+	french_bluecoat
+	french_cuirassier
+	french_impulse
+	mixed_order_infantry
+	open_order_cavalry
+	napoleonic_square
+	napoleonic_lancers
+}
+monarch_names = { 
+	"Gunthamund #10" = 160
+	"Thrasamund #5" = 80
+	"Hilderic #1" = 60
+	"Gelimair #0" = 40
+	"Raginair #6" = 10
+	"Thideric #2" = 10
+	"Aldaric #0" = 10
+	"Gundamair #0" = 10
+	"Raginolfe #0" = 5
+	"Sigivair #0" = 5
+	"Branomair #0" = 5
+	"Manno #0" = 5
+	"Alaric #2" = 1
+	"Robert #1" = 1
+	"Sivarne #1" = 1
+	"Alexander #0" = 0
+	"Elainore #0" = -10
+	"Elodia #0" = -1
+	"Etainna #0" = -1
+	"Adail #0" = -10
+	"Adalmode #0" = -10
+	"Adelaid #0" = -10
+}
+leader_names = { 
+	Belamair Calivair Robermain Robermanne Galenor Maurit Vandorel Orvalen Lotharel Marvail
+	Brenor Alberoi Clodomair Elmarin Zerain Gundmair Arelain Felix Sylvain Armand
+	Filibert Gaspar Eloi Adrian Domnic Florent Albain
+	Octaive
+	Victor
+	Alexander Thibalto Paul Fraidric Gairardo Iosef Romain Gabrial Mateon Aimel
+}
+ship_names = { 
+	Gunthamund Thrasamund Hilderic Gelimair Raginair Thideric Aldaric Gundamair Raginolfe Sigivair
+	Branomair Manno Alaric Robert Sivarne Belamair Calivair Robermain Robermanne Galenor
+	Maurit Vandorel Orvalen Lotharel Marvail Brenor Alberoi Clodomair Elmarin Zerain
+	Gundmair Arelain Felix Sylvain Armand Filibert Gaspar Eloi Adrian Domnic
+	Florent Albain Octaive Victor Alexander Thibalto Paul Fraidric Gairardo Iosef
+	Romain Gabrial Mateon Aimel 
+}
+army_names = { 
+    "Armai de $PROVINCE$" 
+}
+fleet_names = { 
+    "Iscaidria de $PROVINCE$"
+}

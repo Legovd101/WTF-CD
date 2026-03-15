@@ -14,7 +14,7 @@ change_estate_land_share = {
 }
 1439.10.27 = {
 	monarch = {
-		name = "Albrech I"
+		name = "Albrecht I"
 		dynasty = "von Luxemburg"
 		adm = 2
 		dip = 2

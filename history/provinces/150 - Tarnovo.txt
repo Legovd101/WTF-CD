@@ -1,6 +1,6 @@
 #150 - Bulgaria
-owner = BUL
-controller = BUL
+owner = BYZ
+controller = BYZ
 culture = bulgarian
 religion = orthodox
 capital = "Nikopol"
@@ -9,7 +9,6 @@ base_tax = 2
 base_production = 4
 base_manpower = 2
 is_city = yes
-add_core = BUL
 discovered_by = western
 discovered_by = eastern
 discovered_by = muslim
@@ -17,3 +16,4 @@ discovered_by = ottoman
 discovered_by = nomad_group
 #Country breaks
 #1402.1.1 = { revolt = { type = pretender_rebels size = 0 } controller = REB } # Interregnum
+add_core = BYZ

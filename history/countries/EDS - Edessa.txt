@@ -1,0 +1,11 @@
+government = monarchy
+add_government_reform = feudalism_reform
+government_rank = 1
+technology_group = western
+religion = catholic
+primary_culture = romagnan
+capital = 2308 # Ferrara
+
+add_historical_friend = KOJ
+add_historical_friend = LEB
+add_historical_friend = NTI

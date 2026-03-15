@@ -1,0 +1,16 @@
+government = monarchy
+add_government_reform = mamluk_government
+primary_culture = lower_egyptian
+religion = alexandrian
+technology_group = western
+capital = 358# Alexandria
+1438.6.8 = { 
+	monarch = { 
+		name = "Sivarne"
+		dynasty = "Moncarmela"
+		adm = 4
+		dip = 3
+		mil = 6
+	}
+}
+government_rank = 3

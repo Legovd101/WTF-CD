@@ -1,15 +1,14 @@
 #4316 - Mansura
-owner = MAM
-controller = MAM
-culture = al_misr_arabic
-religion = sunni
+owner = RIK
+controller = RIK
+culture = rikanian
+religion = alexandrian
 capital = "Mansura"
 trade_goods = grain
 base_tax = 5
 base_production = 5
 base_manpower = 3
 is_city = yes
-add_core = MAM
 discovered_by = western
 discovered_by = muslim
 discovered_by = ottoman
@@ -22,3 +21,4 @@ add_permanent_province_modifier = {
 	name = granary_of_the_mediterranean
 	duration = -1
 }
+add_core = RIK

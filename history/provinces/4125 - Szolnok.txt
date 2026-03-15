@@ -1,7 +1,7 @@
 #1953 - Szabolcs
-owner = PNN
-controller = PNN
-culture = pannonian
+owner = NGU
+controller = NGU
+culture = han
 religion = catholic
 capital = "Szolnok"
 trade_goods = livestock
@@ -18,4 +18,4 @@ discovered_by = CRI
 discovered_by = GOL
 discovered_by = AST
 discovered_by = QAS
-add_core = PNN
+add_core = NGU

@@ -4,4 +4,14 @@ technology_group = eastern
 primary_culture = bulgarian
 religion = catholic
 capital = 1939# Sofia
-government_rank = 1
+1438.6.8 = { 
+	monarch = { 
+		name = "Ivan"
+		dynasty = "Henrik"
+		adm = 5
+		dip = 1
+		mil = 6
+	}
+}
+
+government_rank = 3

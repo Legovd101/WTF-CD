@@ -2,7 +2,7 @@
 owner = GRE
 controller = GRE
 culture = stelenian
-religion = sunni
+religion = animism
 capital = "Safi"
 trade_goods = sugar
 base_tax = 1

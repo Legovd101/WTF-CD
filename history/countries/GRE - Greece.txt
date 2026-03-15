@@ -5,3 +5,12 @@ primary_culture = cappadocian_greek
 religion = catholic
 capital = 1751# Athens
 government_rank = 1
+1438.6.8 = { 
+	monarch = { 
+		name = "Ioannis VI"
+		dynasty = "Palaiologos"
+		adm = 4
+		dip = 3
+		mil = 6
+	}
+}

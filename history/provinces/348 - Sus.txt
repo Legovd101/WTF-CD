@@ -1,8 +1,8 @@
 #348 - Sus
 owner = MOR
 controller = MOR
-culture = berber
-religion = sunni
+culture = mauri
+religion = animism
 capital = "Taroudant"
 trade_goods = sugar
 base_tax = 5

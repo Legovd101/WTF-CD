@@ -1,8 +1,8 @@
 #2470 - Haha
 owner = MOR
 controller = MOR
-culture = berber
-religion = sunni
+culture = mauri
+religion = animism
 capital = "Mogador"
 trade_goods = grain
 base_tax = 2

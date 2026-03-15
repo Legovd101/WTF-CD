@@ -1,7 +1,7 @@
 #158 - Maros
-owner = AVR
-controller = AVR
-culture = transylvanian#Szeklers
+owner = NGU
+controller = NGU
+culture = han#Szeklers
 religion = catholic
 capital = "Targu Mures"
 trade_goods = wool
@@ -18,4 +18,4 @@ discovered_by = western
 discovered_by = eastern
 discovered_by = muslim
 discovered_by = ottoman
-add_core = AVR
+add_core = NGU

@@ -1,8 +1,8 @@
 # - Tadla
 owner = GRE
 controller = GRE
-culture = moroccan
-religion = sunni
+culture = mauri
+religion = animism
 capital = "Tadla"
 trade_goods = copper
 base_tax = 3

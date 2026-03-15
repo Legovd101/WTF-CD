@@ -1,9 +1,13 @@
 government = monarchy
 add_government_reform = feudalism_reform
 
-primary_culture = cosmopolitan_french
+primary_culture = hemeroskopine
 religion = catholic
 technology_group = eastern
 capital = 379	# Jerusalem
 
+government_rank = 2
 
+add_historical_friend = EDS
+add_historical_friend = LEB
+add_historical_friend = NTI

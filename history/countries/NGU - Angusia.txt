@@ -1,0 +1,16 @@
+government = monarchy
+add_government_reform = korean_monarchy
+primary_culture = han
+religion = orthodox
+technology_group = eastern
+capital = 153	# Pest
+
+1393.1.1 = {
+	monarch = {
+		name = "Pauru V" #Paul
+		dynasty = "Peranid"
+		adm = 5
+		dip = 4
+		mil = 5
+	}
+}

@@ -1,0 +1,95 @@
+#Country Name: Please see filename.
+graphical_culture = westerngfx
+color = { 146 16 26 }
+historical_council = concilatory
+revolutionary_colors = { 15 0 16 }
+historical_score = 6700
+historical_idea_groups = { 
+	economic_ideas
+	offensive_ideas
+	exploration_ideas
+	defensive_ideas
+	administrative_ideas
+	maritime_ideas
+	quality_ideas
+	innovativeness_ideas
+}
+historical_units = { 
+	western_medieval_infantry
+	chevauchee
+	western_men_at_arms
+	swiss_landsknechten
+	dutch_maurician
+	french_caracolle
+	anglofrench_line
+	french_dragoon
+	french_bluecoat
+	french_cuirassier
+	french_impulse
+	mixed_order_infantry
+	open_order_cavalry
+	napoleonic_square
+	napoleonic_lancers
+}
+monarch_names = { 
+	"Adalberto #10" = 160
+	"Agui #5" = 80
+	"Agmundo #1" = 60
+	"Agnaro #0" = 40
+	"Aco #6" = 10
+	"Odrio #2" = 10
+	"Bago #0" = 10
+	"Bardo #0" = 10
+	"Birger #0" = 5
+	"Biarni #0" = 5
+	"Berto #0" = 5
+	"Biorn #0" = 5
+	"Brando #2" = 1
+	"Brodero #1" = 1
+	"Briniaro #1" = 1
+	"Bui #0" = 0
+	"Alida #0" = -10
+	"Alof #0" = -1
+	"Arnbiorga #0" = -1
+	"Asa #0" = -10
+	"Asdis #0" = -10
+	"Asilda #0" = -10
+}
+leader_names = { 
+	Dagfino Dago Danno Egilo Eleifero Ainar Endridio Erico Erlender Erlinno
+	Esten Evindo Felago Fino Flamenco Folco Fridtio Frodo Gauto Gautestavo
+	Gerro Gormo Gudbardo Gudfredo Gudino Gudleifero Gudmundo Gulbardo Gunar Guni
+	Gunvaldo Hacon Halfdano Halbiorn Hali Haro Halsten Haltoro Halvardo Haraldo
+	Havardo Helgo Heminn Herleif Hildinno Hialmaro Holgero Raven Hredaro Roaldo
+	Roaro Rodgero Rodolfo Rodvaldo Rolfo Rorico Hugleico Inno Innmar Innolf
+	Ivaro Iarlo Iosteno Calfo Cari Cetilo Canuto Cori Leif Magno
+	Mundo Nial Odor Oddo Oddvaro Olvir Radulfo Ragnaro Ragvaldo Randulfo
+	Runi Sigfredo Sigmundo Sigsteno Sigurdo Sindrio Snorri Stalio Steinar Steinnrim
+	Esteino Stigandro Stigo Sumarlido Sundrio Suni Svantepolco Sveno Sverro Torarin
+	Torbiorn Torfasto Torfredo Torgeiro Torgisel Torgnir Torio Torketil Torleif Torleico
+	Tormodo Torsteno Torvaldo Trondo Tofi Toco Trigo Ulfo Uni Baldemaro
+	Begardo Betrildo Bigio Bikinno Bragio Innvar 
+}
+ship_names = { 
+	Adalberto Agui Agmundo Agnaro Aco Odrio Bago Bardo Birger Biarni
+	Berto Biorn Brando Brodero Briniaro Bui Dagfino Dago Danno Egilo
+	Eleifero Ainar Endridio Erico Erlender Erlinno Esten Evindo Felago Fino
+	Flamenco Folco Fridtio Frodo Gauto Gautestavo Gerro Gormo Gudbardo Gudfredo
+	Gudino Gudleifero Gudmundo Gulbardo Gunar Guni Gunvaldo Hacon Halfdano Halbiorn
+	Hali Haro Halsten Haltoro Halvardo Haraldo Havardo Helgo Heminn Herleif
+	Hildinno Hialmaro Holgero Raven Hredaro Roaldo Roaro Rodgero Rodolfo Rodvaldo
+	Rolfo Rorico Hugleico Inno Innmar Innolf Ivaro Iarlo Iosteno Calfo
+	Cari Cetilo Canuto Cori Leif Magno Mundo Nial Odor Oddo
+	Oddvaro Olvir Radulfo Ragnaro Ragvaldo Randulfo Runi Sigfredo Sigmundo Sigsteno
+	Sigurdo Sindrio Snorri Stalio Steinar Steinnrim Esteino Stigandro Stigo Sumarlido
+	Sundrio Suni Svantepolco Sveno Sverro Torarin Torbiorn Torfasto Torfredo Torgeiro
+	Torgisel Torgnir Torio Torketil Torleif Torleico Tormodo Torsteno Torvaldo Trondo
+	Tofi Toco Trigo Ulfo Uni Baldemaro Begardo Betrildo Bigio Bikinno
+	Bragio Innvar 
+}
+army_names = { 
+	"Armi de $PROVINCE$" 
+}
+fleet_names = { 
+	"Iscaidria de $PROVINCE$" 
+}

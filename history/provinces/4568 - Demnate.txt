@@ -2,8 +2,8 @@
 owner = MOR
 controller = MOR
 add_core = MOR
-culture = moroccan
-religion = sunni
+culture = mauri
+religion = animism
 capital = "Demnate"
 trade_goods = wool
 base_tax = 2

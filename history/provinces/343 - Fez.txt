@@ -1,8 +1,8 @@
 #343 - Fez
 owner = GRE
 controller = GRE
-culture = moroccan
-religion = sunni
+culture = mauritanian
+religion = alexandrian
 capital = "Fez"
 trade_goods = cloth
 base_tax = 5

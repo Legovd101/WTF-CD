@@ -2,7 +2,7 @@
 owner = GRE
 controller = GRE
 culture = stelenian
-religion = sunni
+religion = catholic
 capital = "Tangier"
 trade_goods = cloth
 base_tax = 3

@@ -8,3 +8,12 @@
  zecieri_rebels_name: "$RELIGION$ Zealots"
  zecieri_rebels_title: "Religious"
  zecieri_religion_desc: "The old beliefs of the people in Svanari. Venerating the mountains and the sun, the kings and queens are seen as representatives of the divine on earth. They believe that the sun is an arbiter of the natural order."
+
+ alexandrian: "Alexandrian"
+ alexandrian_rebels_army: "$RELIGION$ Army"
+ alexandrian_rebels_demand: "Convert $COUNTRYNAME$"
+ alexandrian_rebels_demand_desc: "The religious rebels fight for the $RELIGION$ religion. They demand that we recognize its supremacy or at the very least cease our efforts to convert them and let them worship in peace."
+ alexandrian_rebels_desc: "Religious fanatics tend to rise up in provinces controlled by nations of a different faith. They seek to spread their faith and smite all unbelievers."
+ alexandrian_rebels_name: "$RELIGION$ Zealots"
+ alexandrian_rebels_title: "Religious"
+ alexandrian_religion_desc: "Born from the blending of eastern and western traditions with Vandalic Arianism, the Ecumenical Church of Alexandria serves as the third major axis of Christianity and spreads from Mauritania to Marathus."

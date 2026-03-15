@@ -1,7 +1,7 @@
 #1318 - Spiš
-owner = SLO
-controller = SLO
-culture = slovak
+owner = NGU
+controller = NGU
+culture = han
 religion = catholic
 capital = "Spiš"
 trade_goods = copper
@@ -9,7 +9,6 @@ base_tax = 3
 base_production = 4
 base_manpower = 2
 is_city = yes
-add_core = SLO
 discovered_by = western
 discovered_by = eastern
 discovered_by = muslim
@@ -19,3 +18,4 @@ discovered_by = CRI
 discovered_by = GOL
 discovered_by = AST
 discovered_by = QAS
+add_core = NGU

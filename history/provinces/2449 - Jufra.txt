@@ -1,8 +1,8 @@
 #2449 - Jufra
 owner = FZA
 controller = FZA
-culture = tunisian
-religion = sunni
+culture = garamantian
+religion = animism
 capital = "Hun"
 trade_goods = livestock
 base_tax = 1

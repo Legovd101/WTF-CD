@@ -2,9 +2,9 @@
 latent_trade_goods = { 
 	coal 
 }
-owner = AVR
-controller = AVR
-culture = transylvanian
+owner = NGU
+controller = NGU
+culture = han
 religion = orthodox
 capital = "Alba Iulia"
 trade_goods = iron
@@ -21,4 +21,4 @@ discovered_by = western
 discovered_by = eastern
 discovered_by = muslim
 discovered_by = ottoman
-add_core = AVR
+add_core = NGU

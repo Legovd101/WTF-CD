@@ -1,8 +1,8 @@
 #1110 - Agadir
 owner = MOR
 controller = MOR
-culture = berber
-religion = sunni
+culture = mauri
+religion = animism
 capital = "Agadir"
 trade_goods = sugar
 base_tax = 3

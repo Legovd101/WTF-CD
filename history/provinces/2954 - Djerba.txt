@@ -1,8 +1,8 @@
 #2954 - Djerba
 owner = KNI
 controller = KNI
-culture = tunisian
-religion = ibadi
+culture = zeugitani
+religion = catholic
 capital = "Djerba"
 trade_goods = grain
 base_tax = 1

@@ -1,5 +1,5 @@
 # Do not change tags in here without changing every other reference to them.
-# If adding new groups or cultures, make sure they are unique.
+# If adding new groups or cultures make sure they are unique.
 #
 # Union tags do not suffer from the 'same_culture_group' tax penalty.
 # Primary tags are the first choice for rebel factions seeking cultural independence.
@@ -231,22 +231,6 @@ germanic = {
 			"Gabelkofen" "von und zu Goldegg und Lindenburg" "von Haunsperger" "von Pranckh" "von Rohr" "von Aichen" "Enenkel" "Geymann" "von Eggendorf" "von Albrechtsburg"
 			"von Thürheim" "von Thurn und Taxis" "von Tippelskirch" "von Falkenberg" "von Polheim"
 			"von Wagrain" "von Tollet" "Fieger" "Ennenkel" "Hayden von Dorff" Volkenstorfer "von Tannberg" Hätzenberg Moser "von Felsach" "von Daun" "von Unverzagt"
-		}
-	}
-	vandal = {
-		male_names = {
-			Gaiseric Huneric Gunthamund Thrasamund Hilderic Gelimer
-			Geilamir Godagis Gunderic Beremud Stilicho
-		}
-
-		female_names = {
-			Amalafrida Radegundis Godeliva Hildigardis Gundeberga
-		}
-
-		dynasty_names = {
-			Amalingi Gaisericingi Hunericingi Gundericingi
-			Gelimeringi Godagisingi Beremudingi
-			Hasdingi Silingi
 		}
 	}
 	dutch = {
@@ -6848,33 +6832,37 @@ korean_g = {
 	
 	korean = {
 		primary = KOR
-		dynasty_names = { 
-			Yi Wang Kim Pak Shin Song Chae Gang Jeong Jang Yun Han Hong Yu Ki Choi Ga Gye Go Na Noh Woo Do Du Ban Ma Min Mun
-			Seo Son Sim An Yang O Jeon Cho Jin Ha Hong Heo Kwak Lim Won Kwon Hwang Bae Seok Bang Dae Gyeong Nam Sung Baek
+	}
+	
+	han = {
+		primary = NGU
+	}
+	dynasty_names = { 
+		Yi Wang Kim Pak Shin Song Chae Gang Jeong Jang Yun Han Hong Yu Ki Choi Ga Gye Go Na Noh Woo Do Du Ban Ma Min Mun
+		Seo Son Sim An Yang O Jeon Cho Jin Ha Hong Heo Kwak Lim Won Kwon Hwang Bae Seok Bang Dae Gyeong Nam Sung Baek
 
 
-		}
-		male_names = {
-			Hongwi Yu Gwang Hyeol Yung Yeok Ho Hwan Yeon Hon Jong Sun Yun Geum San Gong Byeon Myeongbok Ha-eung Un Gu Seon Hyeon
-			Cho Yeong Bu Haeng Hwon Kang Ji Rip Jae-u Seong-ryong Yakyong Jongmu Se-young Hong-rip Deokgi Munsu Hee-woon Busik
-			Jiwon Gwangjo Sukju Hongdo Yong-bok Jong-un Chung-hee Yeong-sil Yun-ui Myung-shin Chae-ho Chwa-jin Honghi Byong-hi
-			Hwang Jae-sang Yu-sin Wonjong Jong-seo Jangchun Museon Sung-gyeom Seungman Sun-sin Chang-ho Dae-seung Jae-suk
-			Dae-yong Eok-gi Si-min Gam-chan Chung-heon U Tong-jeon In-seon Gwanghyeon Gyun Yul Wi Im Geon Jun Mok Il Tak
- 
-		}
-		female_names = {
-			Ae-jung Areum Bit-na Bo-young Bora Chae-won Chae-young Cho-hee Chun-hwa Chun-ja Da-hee Da-hyun Do-hee Eun-ah 
-			Eun-bi Eun-byul Eun-chae Eun-ha Eun-hee Eun-hye Eun-ji Eun-jin Eun-ju Eun-jung Eun-kyung Eun-mi Eun-sook Eun-suh 
-			Eun-young Ga-in Ga-young Gyuri Ha-eun Hana Hye-bin Hye-in Hye-ja Hye-jin Hye-jung Hye-kyung Hye-mi Hye-rim 
-			Hye-su Hye-won Hyo-joo Hyo-rin Hyun-a Hyun-kyung Hyun-mi Hyun-sook In-hye In-sook In-sun Ja-kyung Jae-eun 
-			Jang-geum Jang-mi Jeong-ja Ji-ae Ji-eun Ji-hye Ji-yeon Ji-young Jina Jin-yi Jung-ah Jung-sook Jung-soon Kyung-ah Kyung-hee 
-			Kyung-hwa Kyung-ja Kyung-ok Kyung-sook Mi-hee Mi-ja Mi-jung Mi-kyung Mi-ran Mi-sook Mi-yeon Mi-young Min-hee 
-			Min-ji Min-jung Min-seo Mina Myung-hwa Myung-ok Myung-sook Myung-soon Na-young Nana Nari Noo-ri Sang-mi  
-			Se-bin Seo-hyeon Seo-yeon Seo-yun Seol-hee Seon-ok Seong-ja Seung-ah Shin-hye Si-yeon So-hee So-hyun So-won So-yi 
-			So-young Soo-ah Soo-hee Sook-ja Soon-hee Soon-ja Sora Su-mi Sun-hee Sun-hwa Sun-mi Sun-ok Sung-mi Sung-sook 
-			Ye-eun Ye-ji Ye-jin Ye-rin Ye-seo Ye-won Yeo-jin Yeon-hee Yi-kyung Yoo-kyung Yoo-na Yoon-hee Yoon-sook Young-ae 
-			Young-hee Young-ja Young-mi Young-sook Yu-ri Yumi
-		}
+	}
+	male_names = {
+		Hongwi Yu Gwang Hyeol Yung Yeok Ho Hwan Yeon Hon Jong Sun Yun Geum San Gong Byeon Myeongbok Ha-eung Un Gu Seon Hyeon
+		Cho Yeong Bu Haeng Hwon Kang Ji Rip Jae-u Seong-ryong Yakyong Jongmu Se-young Hong-rip Deokgi Munsu Hee-woon Busik
+		Jiwon Gwangjo Sukju Hongdo Yong-bok Jong-un Chung-hee Yeong-sil Yun-ui Myung-shin Chae-ho Chwa-jin Honghi Byong-hi
+		Hwang Jae-sang Yu-sin Wonjong Jong-seo Jangchun Museon Sung-gyeom Seungman Sun-sin Chang-ho Dae-seung Jae-suk
+		Dae-yong Eok-gi Si-min Gam-chan Chung-heon U Tong-jeon In-seon Gwanghyeon Gyun Yul Wi Im Geon Jun Mok Il Tak
+
+	}
+	female_names = {
+		Ae-jung Areum Bit-na Bo-young Bora Chae-won Chae-young Cho-hee Chun-hwa Chun-ja Da-hee Da-hyun Do-hee Eun-ah 
+		Eun-bi Eun-byul Eun-chae Eun-ha Eun-hee Eun-hye Eun-ji Eun-jin Eun-ju Eun-jung Eun-kyung Eun-mi Eun-sook Eun-suh 
+		Eun-young Ga-in Ga-young Gyuri Ha-eun Hana Hye-bin Hye-in Hye-ja Hye-jin Hye-jung Hye-kyung Hye-mi Hye-rim 
+		Hye-su Hye-won Hyo-joo Hyo-rin Hyun-a Hyun-kyung Hyun-mi Hyun-sook In-hye In-sook In-sun Ja-kyung Jae-eun 
+		Jang-geum Jang-mi Jeong-ja Ji-ae Ji-eun Ji-hye Ji-yeon Ji-young Jina Jin-yi Jung-ah Jung-sook Jung-soon Kyung-ah Kyung-hee 
+		Kyung-hwa Kyung-ja Kyung-ok Kyung-sook Mi-hee Mi-ja Mi-jung Mi-kyung Mi-ran Mi-sook Mi-yeon Mi-young Min-hee 
+		Min-ji Min-jung Min-seo Mina Myung-hwa Myung-ok Myung-sook Myung-soon Na-young Nana Nari Noo-ri Sang-mi  
+		Se-bin Seo-hyeon Seo-yeon Seo-yun Seol-hee Seon-ok Seong-ja Seung-ah Shin-hye Si-yeon So-hee So-hyun So-won So-yi 
+		So-young Soo-ah Soo-hee Sook-ja Soon-hee Soon-ja Sora Su-mi Sun-hee Sun-hwa Sun-mi Sun-ok Sung-mi Sung-sook 
+		Ye-eun Ye-ji Ye-jin Ye-rin Ye-seo Ye-won Yeo-jin Yeon-hee Yi-kyung Yoo-kyung Yoo-na Yoon-hee Yoon-sook Young-ae 
+		Young-hee Young-ja Young-mi Young-sook Yu-ri Yumi
 	}
 }
 
@@ -9202,7 +9190,7 @@ southern_african = {
 	bemba = {
 		
 	}
-	khoisan = { #Unlike other members of this group these do not speak a Bantu Language. No tag, only exists in uncolonized provinces
+	khoisan = { #Unlike other members of this group these do not speak a Bantu Language. No tag only exists in uncolonized provinces
 		dynasty_names = { Herero Namaqua }
 		male_names = { Sekgoma Munjuku Tjamuaha Maharero  }
 		female_names = { Behati }
@@ -9387,7 +9375,7 @@ african = {	#Eastern Bantu Groups
 	bena = {
 		
 	}
-	bantu = { #Thagiicu, old tag kept to not break older saves.
+	bantu = { #Thagiicu old tag kept to not break older saves.
 		
 	}
 	swahili = {
@@ -10672,6 +10660,201 @@ anglosaxon = {
 		Wulfgyth Wulfhild Wulfrun Wulfthryth Wulfwaru Wulfwynn Wynnflæd Wærburg Æbba Ælfflæd Ælfgifu Ælfgyth Ælflæda_Ælflæda Ælfrida
 		Ælfswith Ælfthryth Ælfwynn Æthelburg Æthelflæd Æthelgifu Æthelhild Æthelræda_Æthelreda Æthelswith Æthelthryth
 		Æthelburh Seaxburh Wihtburh
+	}
+
+}
+
+vandalic = {
+	graphical_culture = westerngfx
+
+	vandal = {
+		male_names = {
+			Gaiseric Huneric Gunthamund Thrasamund Hilderic Gelimer
+			Geilamir Godagis Gunderic Beremud Stilicho
+		}
+
+		female_names = {
+			Amalafrida Radegundis Godeliva Hildigardis Gundeberga
+		}
+
+		dynasty_names = {
+			Amalingi Gaisericingi Hunericingi Gundericingi
+			Gelimeringi Godagisingi Beremudingi
+			Hasdingi Silingi
+		}
+	}
+
+	lower_egyptian = {
+		primary = VAN
+		male_names = {
+			Gunthamund Thrasamund Hilderic Gelimair Raginair Thideric Aldaric Gundamair Raginolfe Sigivair Branomair Manno
+			Alaric Robert Sivarne Belamair Calivair Robermain Robermanne Galenor Maurit Vandorel Orvalen Lotharel Marvail Brenor
+			Alberoi Clodomair Elmarin Zerain Gundmair Arelain Felix Sylvain Armand Filibert Gaspar Eloi Adrian Domnic Florent
+			Albain Octaive Victor Alexander Thibalto Paul Fraidric Gairardo Iosef Romain Gabrial Mateon Aimel
+		}
+
+		female_names = {
+			Elainore Elodia Etainna Adail Adalmode Adelaid Adelind Agnes Alarde Alice Alinor Agathe Alix Almodis Amalia Anne
+			Antainna Arsinde Aude Aurengarde Baitris Baitrix Belleassa Benoi Berengair Berthe Blanche Bonne Borgain Saicilia
+			Cathaira Sharlotte Constains Denais Douce Ashiva Eglantine 
+		}
+
+		dynasty_names = {
+			Asting Robertos Sivarnion Moncarmela Qedarion Mernoth Barencor Novaric Corvinio Balderic Serabel Nerathis Shimone Marsion Sorevain
+			Baralion Marabal Carmarion Okello Balathor Naverion Farion Damelion Roderic Dioneris Arelaith Balmon Balemer
+			Roshenco
+		}
+	}
+
+	east_vandalian = {
+		primary = VAN
+		male_names = {
+			Gunthamund Thrasamund Hilderic Gelimair Raginair Thideric Aldaric Gundamair Raginolfe Sigivair Branomair Manno
+			Alaric Robert Sivarne Belamair Calivair Robermain Robermanne Galenor Maurit Vandorel Orvalen Lotharel Marvail Brenor
+			Alberoi Clodomair Elmarin Zerain Gundmair Arelain Felix Sylvain Armand Filibert Gaspar Eloi Adrian Domnic Florent
+			Albain Octaive Victor Alexander Thibalto Paul Fraidric Gairardo Iosef Romain Gabrial Mateon Aimel
+		}
+
+		female_names = {
+			Elainore Elodia Etainna Adail Adalmode Adelaid Adelind Agnes Alarde Alice Alinor Agathe Alix Almodis Amalia Anne
+			Antainna Arsinde Aude Aurengarde Baitris Baitrix Belleassa Benoi Berengair Berthe Blanche Bonne Borgain Saicilia
+			Cathaira Sharlotte Constains Denais Douce Ashiva Eglantine 
+		}
+
+		dynasty_names = {
+			Asting Robertos Sivarnion Moncarmela Qedarion Mernoth Barencor Novaric Corvinio Balderic Serabel Nerathis Shimone Marsion Sorevain
+			Baralion Marabal Carmarion Okello Balathor Naverion Farion Damelion Roderic Dioneris Arelaith Balmon Balemer
+			Roshenco
+		}
+	}
+
+	upper_egyptian = {
+		primary = EGY
+		male_names = {
+			Shenoute Pachomius Macarius Paphnutius Bishoi Phoibammon Pisentius
+			Abraam Mercurius Philotheus Menas Cyriacus Dioscorus Theophistus
+			Psote Apollos Pambo Copres Pior Ammonius Isidore Hierax
+			Poemen Palamon Psenthaisios Hatres Aphou Pteleme Horus
+			Anoub Sourous Pathermouthis Serapion Psoios Epiphanius
+			Philemon Elias Zenobius Colluthus Paese Thecla Pshai
+			Onnophrius Cyrus Paphnute Severus Damian Theophilus Pesynthios
+		}
+
+		female_names = {
+			Rebekka Mariam Irini Thecla Synkletike Euphemia Anastasia
+			Theodora Febronia Hildita Dometia Mokouria Pisentie Tamav
+			Sarapion Tsiiout Hilaria Perpetua Kyranna Macrina Nonna
+			Matrona Pelagia Melania Syncletica Athanasia Bassa Cyra
+			Domnina Amma
+		}
+
+		dynasty_names = {
+			Shenoudi Makarios Boutros Philotheos Mercourios Kyrollos
+			Abraamios Pshenthaisios Pisentios Dioskoros Pachomios Phoibammon
+			Bishoui Menasios Copretios Zenobios Kollouthos Psoimos
+			Serapion Paisios Papnoutios Severios Damianios Theophilos
+			Eliadios Onnophrios Cyriacos Philemonos Hatresios Pshaios
+		}
+	}
+
+	zeugitani = {
+	}
+
+	tripolitanian = {
+	}
+
+	mauritanian = {
+	}
+
+	rikanian = {
+		primary = RIK
+		male_names = {
+			Adalberto Agui Agmundo Agnaro Aco Odrio Bago Bardo Birger Biarni Berto Biorn Brando Brodero
+			Briniaro Bui Dagfino Dago Danno Egilo Eleifero Ainar Endridio Erico Erlender Erlinno Esten Evindo Felago Fino Flamenco Folco Fridtio Frodo Gauto Gautestavo Gerro Gormo Gudbardo Gudfredo Gudino
+			Gudleifero Gudmundo Gulbardo Gunar Guni Gunvaldo Hacon Halfdano Halbiorn Hali Haro Halsten Haltoro Halvardo Haraldo Havardo Helgo Heminn Herleif Hildinno Hialmaro Holgero Raven Hredaro Roaldo
+			Roaro Rodgero Rodolfo Rodvaldo Rolfo Rorico Hugleico Inno Innmar Innolf Ivaro Iarlo Iosteno Calfo Cari Cetilo Canuto Cori Leif Magno Mundo Nial Odor Oddo Oddvaro Olvir Radulfo Ragnaro Ragvaldo
+			Randulfo Runi Sigfredo Sigmundo Sigsteno Sigurdo Sindrio Snorri Stalio Steinar Steinnrim Esteino Stigandro Stigo Sumarlido Sundrio Suni Svantepolco Sveno Sverro Torarin Torbiorn Torfasto Torfredo Torgeiro
+			Torgisel Torgnir Torio Torketil Torleif Torleico Tormodo Torsteno Torvaldo Trondo Tofi Toco Trigo Ulfo Uni Baldemaro Begardo Betrildo Bigio Bikinno Bragio Innvar
+		}
+		female_names = {
+			Alida Alof Arnbiorga Asa Asdis Asilda Aslauga Asta Astrida Odria Odrilda Bergliota Biorga Borghilda Botilda Brunilda Brinia Dagmara Dagni Dagruna Edda Eidisa Frida Grimhilda Gudlauga Gudleifa Gudrida Gudruna Gulla
+			Guna Gunbiorga Gunnilda Gunvora Gyda Halthora Helga Hilda Hiordisa Hlif Ravenilda Hreiduna Iduna Inna Innibiorga Innigerda Innrida Innunda Innbilda Iorunna Catla Cetilrida Mannilda Myrgiol Olauga Ragna Ragnbiorga
+			Ragnfrida Ranneid Rannilda Runa Saldisa Signi Sigrida Sigruna Solveiga Steinunna Svannilda Zona Tora Torbiorga Tordisa Torfrida Torhilda Torny Torunna Tolveiga Torvi Truda Trudra Tyria Tova Unna Baldisa Bigdisa
+			Innvilda
+		}
+		dynasty_names = {
+			Aslauguis Astridaz Asvaldis Endridios Eriquis Gormis Hacones Haraldinis Lodbrogo Munso Ragnarez Sigurdez Skioldún Snorrez Torgilez Torsteinez Torvaldez Triggvaso Bolsunno
+			Wemúndis Ailifinn Ainnlinn Rikemon
+		}
+	}
+	
+	dynasty_names = {
+		Emili Antonia Atili Atia Aufidia Aureli Kekili Kalpurnia Kassia Klaudia
+		Klodia Korneli Domitia Fabia Flavia Fulvia Furia Gabinia Galeria Horatia Juli
+		Junia Likinia Livia Lukia Mamili Manli Maria Memmia Nigidia Oktavia Papiria Plinia 
+		Postumia Pompeia Rabiria Quinktia Salvia Skribonia Sempronia Sertori Sili Titia
+		Tulli Ulpia Valeria Vesuvia Vinikia Viridi Vitelli
+	}
+	male_names = {
+		Appyu Aulu Kelu Dekimu Dekyu Drusu Faustu Gayu Gneu Lukyu Mamerku Manyu Marku Mettyu Numeryu Publyu Quintu Sekundu Septimu Servyu Sextu Spuryu Tertyu Titu Tiberyu Titus
+		Albinu Albu Agrikola Agrippa Aratu Asina Auspex Balbu Barbatu Bibulu Brutu Bubo Buteo 
+		Kesar Kalvu Kalvinu Kato Katulu Kethegu Kikero Kinna Kotta Krispian Kurio Dama Damasu Dentatu Dives Dolabella Donatu Drako
+		Emeritu Eugenyu Euphemyu Falko Falx Felix Fimbria Flakku Floru Fronto 
+		Gala Galeru Gemellu Gorgonyu Grakkhu Grakilis Habitu Herma Hilaryu Horazu
+		Ignatyu Iuba Labeo Lenas Lepidu Leptis Lentulu Libo Longinu Longu Lukan Lukullu Lupyu
+		Makro Martialis Marullu Maximu Memmyu Merkator Messalla Montanu Murena Mu Nasika Okeanu Oktavianu Opis
+		Optatu Otho Penula Pantera Pavo Peregrinu Pertinax Petronax Piktor Pilatu Polu Priska Primu Prokyon Pulkher 
+		Quarto Quiriku Regillu Remu Romanu Romulu Rufu Ruso Sabinu Salinator Skevola Skipio Skrofa Seneka Senna 
+		Severu Sorex Statyu Strabo Super Superbu Takitu Tertulu Trebonyu Tibullu Tullyu Ursinu Ursu Valens Varro Varu 
+		Vergilyu Viator Viktor Vindex Virilis Vitalis Vitu Zeno Zoilu Zosimus
+	}
+	female_names = {
+		Prima Sekunda Tertia Quarta Quinta Septa Septima Oktava Nona Dekima Undekima Duodekima
+	}
+
+
+}
+
+
+amazigh = {
+	graphical_culture = westerngfx
+
+	babarian = {
+		primary = TLC
+	}
+	mauri = {
+		primary = MOR
+	}
+	gaetulian = {
+		primary = TFL
+	}
+	numidian = {
+		primary = KBA
+	}
+	garamantian = {
+		primary = FZA
+	}
+
+	male_names = {
+		Massinissa Micipsa Jugurtha Juba Iferhane Ifni Aksil
+		Takfarinas Abizar Mazigh Iddir Ferhat Me?yan
+		Adherbal Naravas Gala Syphax Ziri Yuba
+		Asfel Asif Amastan Agdil Awzal Amnay
+		Tabrat Tansa Amanar Uksil Werfen Aytmen
+	}
+
+	female_names = {
+		"Tin-Hinan" Takama Tazri Kahina Dihya Tislit Thiziri
+	}
+
+	dynasty_names = {
+		Massinissid Micipsid Jughurtenid Jubenid
+		Aksilid Ziritid Takfarinid Syphaxid
+		Iferhanid Mazighid Ifnid Amastanid
+		Awraghid Imedyazen Iddirid Agellid
+		Tinhinanid Dihyahid Tazrid Tislitid
+		Tazaghid Aytmenid Asfelid Werfenid
+		Amanarid Tabratid Amnayid Uksilid
 	}
 
 }

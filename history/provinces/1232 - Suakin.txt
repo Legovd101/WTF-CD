@@ -1,10 +1,9 @@
 #1232 - Suakin
-owner = MAM
-controller = MAM
-add_core = MAM
+owner = BEJ
+controller = BEJ
 add_core = BEJ
 culture = beja
-religion = sunni
+religion = coptic
 capital = "Suakin"
 is_city = yes
 base_manpower = 1

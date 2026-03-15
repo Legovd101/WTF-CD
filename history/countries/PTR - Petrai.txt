@@ -1,0 +1,15 @@
+government = monarchy
+primary_culture = rikanian
+religion = alexandrian
+technology_group = western
+capital = 365 # Sinai
+# 1438.6.8 = { 
+# 	monarch = { 
+# 		name = "Sivarne"
+# 		dynasty = "Moncarmela"
+# 		adm = 4
+# 		dip = 3
+# 		mil = 6
+# 	}
+# }
+government_rank = 1

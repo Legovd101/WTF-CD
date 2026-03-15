@@ -8,5 +8,5 @@ native_size = 5
 native_ferocity = 1
 native_hostileness = 0
 religion = animism
-culture = berber
+culture = mauri
 is_city = no

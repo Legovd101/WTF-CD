@@ -1,8 +1,8 @@
 #2448 - Fezzan
 owner = FZA
 controller = FZA
-culture = tunisian
-religion = sunni
+culture = garamantian
+religion = animism
 capital = "Murzuk"
 trade_goods = ivory
 base_tax = 1

@@ -1,5 +1,5 @@
 #366 - The Canarias
-culture = berber
+culture = mauri
 religion = animism
 capital = "Las Palmas"
 trade_goods = unknown

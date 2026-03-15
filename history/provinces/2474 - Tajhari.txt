@@ -1,6 +1,6 @@
 # - Tajhari (Idehan Murzuq)
-culture = tuareg
-religion = sunni
+culture = garamantian
+religion = animism
 capital = "Tajhari"
 trade_goods = unknown
 base_tax = 1

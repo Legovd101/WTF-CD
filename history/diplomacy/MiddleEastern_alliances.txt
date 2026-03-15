@@ -1,3 +1,28 @@
+dependency = {
+	subject_type = "tributary_state"
+	first = KOJ
+	second = LEB
+	start_date = 1444.1.1
+	end_date = 1644.4.22
+}
+
+dependency = {
+	subject_type = "tributary_state"
+	first = KOJ
+	second = NTI
+	start_date = 1444.1.1
+	end_date = 1644.4.22
+}
+
+dependency = {
+	subject_type = "tributary_state"
+	first = KOJ
+	second = EDS
+	start_date = 1444.1.1
+	end_date = 1644.4.22
+}
+
+
 #Shah Rokhs Empire
 
 #Ulugh Begh
@@ -268,14 +293,6 @@ vassal = {
 	start_date = 1510.1.1
 	end_date = 1537.1.1 #Annexed by Safavids
 } 
-
-# Cyprus, a Mamluk tributary
-guarantee = {
-	first = MAM
-	second = CYP
-	start_date = 1444.1.1
-	end_date = 1489.1.1
-}
 
 vassal = { #Viceroy of the Hejaz
 	first = MAM

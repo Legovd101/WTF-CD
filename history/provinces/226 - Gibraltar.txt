@@ -2,7 +2,7 @@
 owner = GRE# Mustapha Sa'd King of Granada
 controller = GRE
 culture = stelenian
-religion = sunni
+religion = catholic
 base_tax = 1
 base_production = 1
 trade_goods = fish
