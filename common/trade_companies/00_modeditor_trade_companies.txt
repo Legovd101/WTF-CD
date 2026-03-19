@@ -1,0 +1,55 @@
+trade_company_constantinople = { 
+	color = { 
+		126 203 120 
+	}
+	provinces = { 
+		149 151 1764 328 2304 150 159 1765 2746 2750
+		1846 2300 4314 4315 316 317 2296 322 1848 4308
+		4311 318 319 2297 2298 4309 326 4313 164 320
+		2348 3003 4700 4703 4704 4705 4706 4779 329 3110
+		3108 3109 3095 325 3094 3092 3093 2299 3091 3088
+		3087 4312 3107 3098 3090 3089 3085 3086 3084 3097
+		3083 3081 3082 
+	}
+	names = { 
+		name = TRADE_COMPANY_CONSTANTINOPLE_Root_Culture_GetName
+	}
+	names = { 
+		name = TRADE_COMPANY_CONSTANTINOPLE_European_Trade_Company
+	}
+}
+trade_company_crimea = { 
+	color = { 
+		59 158 125 
+	}
+	provinces = { 
+		462 1856 463 2201 2195 2197 282 1974 2406 286
+		287 2413 2414 284 285 2410 2447 283 2411 2412
+		331 2305 422 268 1756 2405 423 2203 4301 2196
+		2204 4303 4529 4530 330 3096 
+	}
+	names = { 
+		name = TRADE_COMPANY_CRIMEA_Root_Culture_GetName
+	}
+	names = { 
+		name = TRADE_COMPANY_CRIMEA_European_Trade_Company
+	}
+}
+trade_company_aleppo = { 
+	color = { 
+		202 150 172 
+	}
+	provinces = { 
+		418 2306 2307 4295 4296 377 1849 2313 4298 378
+		382 1855 4297 407 411 2309 2314 4292 2308 4310
+		405 4270 4271 321 327 2302 323 324 2301 4307
+		2303 3111 332 3106 3105 3104 3103 3099 3102 3101
+		3113 
+	}
+	names = { 
+		name = TRADE_COMPANY_ALEPPO_Root_Culture_GetName
+	}
+	names = { 
+		name = TRADE_COMPANY_ALEPPO_Near_East_Trade_Company
+	}
+}

@@ -1,6 +1,6 @@
 #334 - Tangiers
-owner = GRE
-controller = GRE
+owner = HSP
+controller = HSP
 culture = stelenian
 religion = catholic
 capital = "Tangier"
@@ -15,5 +15,5 @@ discovered_by = ottoman
 discovered_by = eastern
 extra_cost = 16
 center_of_trade = 2
-add_core = GRE
+add_core = HSP
 fort_15th = yes

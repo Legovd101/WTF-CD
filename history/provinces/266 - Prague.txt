@@ -7,6 +7,7 @@ culture = boii
 religion = hussite
 trade_goods = cloth
 hre = yes
+add_core = GLG
 base_tax = 8
 base_production = 8
 base_manpower = 6

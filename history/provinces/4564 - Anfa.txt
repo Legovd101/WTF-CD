@@ -1,7 +1,7 @@
 # - Anfa
-owner = GRE
-controller = GRE
-culture = stelenian
+owner = HSP
+controller = HSP
+culture = maurlandic
 religion = animism
 capital = "Anfa"
 trade_goods = grain
@@ -13,4 +13,5 @@ discovered_by = western
 discovered_by = eastern
 discovered_by = muslim
 discovered_by = ottoman
-add_core = GRE
+add_core = HSP
+add_core = MRT

@@ -1,0 +1,85 @@
+#Country Name: Please seefilename.
+graphical_culture = muslimgfx
+color = { 230 202 25 }
+#color = { 38 100 70 }
+revolutionary_colors = { 5 5 5 }
+historical_idea_groups = { 
+	religious_ideas
+	offensive_ideas
+	economic_ideas
+	diplomatic_ideas
+	trade_ideas
+	maritime_ideas
+	defensive_ideas
+	administrative_ideas
+}
+historical_units = { 
+	african_spearmen
+	bantu_tribal_warfare
+	african_hill_warfare
+	adal_gunpowder_warfare
+	westernized_adal
+	adal_guerilla_warfare
+	african_somali_cavalry
+	african_abyssinian_cavalry
+	african_abyssinian_light_cavalry
+	african_hussar
+	african_dragoon
+}
+monarch_names = { 
+	"Arliqo #1" = 60
+	"Sarjelle #0" = 60
+	"Fadumo #0" = 40
+	"Noxtes #0" = 40
+	"Looxes #0" = 20
+	"Atoor #0" = 20
+	"Xesaar #0" = 20
+	"Gawriil #0" = 20
+	"Xalas #0" = 20
+	"Xoolen #0" = 20
+	"Makiisimo #0" = 20
+	"Xamliqar #0" = 10
+	"Bomliqar #0" = 10
+	"Boshtar #0" = 10
+	"Xanibaal #0" = 10
+	"Xano #0" = 10
+	"Diido #0" = 10
+	"Xisko #0" = 10
+	"Xadrobaal #0" = 10
+	"Mago #0" = 10
+	"Biriima #0" = -1
+	"Aasxunda #0" = -1
+	"Tiirita #0" = -1
+	"Karta #0" = -1
+	"Sofoniba #0" = -1
+}
+leader_names = { 
+	Arliqo
+	Sarjelle
+	Fadumo
+	Noxtes
+	Looxes
+	Atoor
+	Ghedi
+	Xesaar
+	Gawriil
+	Xalas
+	Xoolen
+	Makiisimo
+	Xamliqar
+	Bomliqar
+	Boshtar
+	Xanibaal
+	Xano
+	Diido
+}
+ship_names = { 
+	Afgooye Awash Baraawe Berahle Boocame Dallol Dooloow Dubti Dulecha Elidar
+	Ewa Geedo Gewane Gobolka Hawo Jubbada Marka Semera Simurobi Yalo
+}
+army_names = { 
+	"Askar $PROVINCE$ida" 
+}
+fleet_names = { 
+	"Floot $PROVINCE$ida" 
+}

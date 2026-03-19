@@ -1,5 +1,5 @@
 religion = zecieri
-capital = 928
+capital = 2533
 primary_culture = dalmuri
 government_rank = 1
 government = republic

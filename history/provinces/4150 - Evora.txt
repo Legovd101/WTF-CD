@@ -1,6 +1,6 @@
 #4150 - Alto Alentejo
-owner = GRE
-controller = GRE
+owner = HSP
+controller = HSP
 culture = thalassian
 religion = catholic
 capital = "Évora"
@@ -13,5 +13,5 @@ discovered_by = western
 discovered_by = muslim
 discovered_by = ottoman
 discovered_by = eastern
-add_core = GRE
+add_core = HSP
 fort_15th = yes

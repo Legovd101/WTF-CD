@@ -35,90 +35,66 @@ historical_units = {
 	napoleonic_lancers
 }
 
-monarch_names = {
-	"Henri #2" = 60
-	"Edouard #4" = 10
-	"Guillaume #10" = 5
-	"Richard #2" = 5
-	"Jean #1" = 5
-	"Edmond #0" = 5
-	"Humphrey #0" = 5
-	"Armand #0" = 0
-	"Arnaud #0" = 0
-	"Aymeric #0" = 0
-	"Bartomiu #0" = 0
-	"Benedit #0" = 0
-	"Bernat #0" = 0
-	"Bertran #0" = 0
-	"Brun #0" = 0
-	"Carles #0" = 0	
-	"Eneco #0" = 0
-	"Enric #0" = 0
-	"Estève #0" = 0
-	"Folquet #0" = 0
-	"Frances #0" = 0
-	"Frédol #0" = 0
-	"MONARCH_NAME_GASTO" = 0
-	"Gaufré #0" = 0
-	"Guilhem #0" = 0
-	"Hug #0" = 0
-	"Jacme #0" = 0
-	"Jordan #0" = 0
-	"Loys #0" = 0
-	"Matheu #0" = 0
-	"Miqueu #0" = 0
-	"Nicolau #0" = 0
-	"Per #0" = 0
-	"Pol #0" = 0
-	"Pons #0" = 0
-	"Thomas #0" = 10
-	"Vicentz #0" = 0
-	"Vivian #0" = 0
-	"Xavier #0" = 0
-	
-	"Olivie #0" = -1
-	"Ninette #0" = -1
-	"Rosalie #0" = -1
+monarch_names = { 
+	"Stefan #2" = 60
+	"Lazar #1" = 20
+	"Djorde #0" = 20
+	"Djuradj #0" = 20
+	"Milosh #0" = 20
+	"Djordje #0" = 20
+	"Alexa #0" = 15
+	"Grgur #0" = 15
+	"Petrija #0" = 15
+	"Todor #0" = 15
+	"Aleksandar #0" = 10
+	"Mihailo #0" = 10
+	"Milan #0" = 10
+	"Bogdan #0" = 0
+	"Branko #0" = 0
+	"Bratislav #0" = 0
+	"Darko #0" = 0
+	"Dragan #0" = 0
+	"Dubravko #0" = 0
+	"Dusan #0" = 0
+	"Filip #0" = 0
+	"Goran #0" = 0
+	"Ivan #0" = 0
+	"Josif #0" = 0
+	"Konstantin #0" = 0
+	"Luka #0" = 0
+	"Marko #0" = 0
+	"Mateja #0" = 0
+	"Miroslav #0" = 0
+	"Mladen #0" = 0
+	"Nebojsa #0" = 0
+	"Nemanja #0" = 0
+	"Nenad #0" = 0
+	"Nikola #0" = 0
+	"Pedrag #0" = 0
+	"Stanko #0" = 0
+	"Toma #0" = 0
+	"Vinko #0" = 0
+	"Vjekoslav #0" = 0
+	"Zdravko #0" = 0
+	"Zvonimir #0" = 0
+	"Branka #0" = -1
+	"Jagoda #0" = -1
+	"Mirna #0" = -1
+	"Jelena #0" = -1
+	"Ljubica #0" = -1
 }
-
-leader_names = {
-	Aller
-	Detmold
-	Hamelm Hildesheim
-	Kapp
-	Minden
-	Oldenburg
-	Salzgitter
-	Werden Wernigerode
+leader_names = { 
+	Bojovic
+	Drascovic
+	Gingic
+	Hracovec Jovanovic Lazarevic Marcovic Obilic Obrenovic Pertrovic Postek Putnik 
 }
-
-ship_names = {
-	Adour Africain Aigle "Aigle d'Or" "Aimable Nanon"
-	"Aimable Marthe" "Aimable Rose" Alexandre "Ste Anne de Bordeaux" Amitié
-	Angélique Américain Amphitrite "Arc en Ciel" Bayonnaise 
-	"Belle Poule" Bienfaisant Biscayenne Bizarre "Bonnes Amies" 
-	Bordelais Brillant Caroline Castor Catiche
-	Charente "Charmante Manon" "Charmante Nancy" "Charmante Rachel" "Château de Bayonne"
-	Chézine "Commerce de Bordeaux" "Comte de Toulouse" Content Débonnaire
-	Dédaigneuse "Deux Frères" Diamant Diligente "Duc d'Aquitaine"
-	Elisabeth Entreprenante Espérance Extravagante Favori
-	Fendant Flamand Gaillard Galant Godichon
-	"Grand Coureur" "Grand Sirius" "Gros Ventre" Hercule Hermine 
-	Impérieuse Indien Intrépide Jolie Joseph
-	Labourt Laurence Légère Licorne Lion
-	Machault Marchand Mars Mascarin Maure
-	Mégère Mélampe Mignon Neptune "Nouvelle Victoire"
-	Oiseau Opale Pélican Phénix Pollux
-	"Quatre Frères" Rameau "Reine Marie" Renommée Rostan
-	"Royal Daim" "Saint Jacques" "Saint Pierre" Sirène "Soleil Royal"
-	Swinton Tamponne "Toison d'Or" Tourterelle Trinité
-	Triton Utile Valeur Vénus "Ville de Bayonne"
-}
-
-army_names = {
-	"Armée d'Aquitaine" "Armée du Bordelais" "Armée du Blayais"
-	"Armée du Pays de Buch" "Armée du Bazadais" "Armée du Queyran"
-	"Armée du Fronsadais" "Armée du Libournais" "Armée de Castillon" 
-	"Armée d'Albret" "Armée de la Garonne" "Armée de l'Agenais"
-	"Armée de $PROVINCE$" 
+ship_names = { 
+	Raska
+	Bosnia
+	Duklja
+	Zahumlje
+	Travunia
+	Pagania
+	"Stefan Nemanja" "Stefan Prvovencani" "Stefan Dusan" Milutin 
 }

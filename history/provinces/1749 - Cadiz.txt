@@ -1,6 +1,6 @@
 #1749 - Cadiz
-owner = GRE#Enrique III of Castille
-controller = GRE
+owner = HSP#Enrique III of Castille
+controller = HSP
 culture = stelenian
 religion = catholic
 base_tax = 5
@@ -15,4 +15,4 @@ discovered_by = ottoman
 discovered_by = eastern
 extra_cost = 8
 center_of_trade = 1
-add_core = GRE
+add_core = HSP

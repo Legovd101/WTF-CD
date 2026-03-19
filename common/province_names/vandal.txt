@@ -1,0 +1,24 @@
+# Format: ID = { "Province" "Capital" } # Origin
+
+## ITALY
+
+# Eastern Sicily
+126 = { "Milta" "Miltaholm" }
+
+## MAGHREB
+
+# Tunisia
+341 = { "Karthagaburg" "Karthagaburg" }
+2454 = { "Thevastaburg" "Thevastaburg" }
+2473 = { "Hadrumunds" "Hadrumunds" }
+4566 = { "Kairwigsstad" "Kairwigsstad" }
+
+# Kabylia
+1882 = { "Hipabaurgs" "Hipabaurgs" }
+
+# North Sahara
+352 = { "Kapsheim" "Kapsheim" }
+
+# Djerba
+353 = { "Sairagards" "Sairagards" }
+2453 = { "Safagards" "Safagards" }

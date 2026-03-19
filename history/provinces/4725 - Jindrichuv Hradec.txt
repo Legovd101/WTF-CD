@@ -5,6 +5,7 @@ capital = "Jindrichuv Hradec"
 culture = boii
 religion = catholic
 trade_goods = grain
+add_core = GLG
 hre = yes
 base_tax = 3
 base_production = 2

@@ -1,6 +1,6 @@
 owner = CRO
 controller = CRO
-culture = helvetian
+culture = croatian
 religion = catholic
 capital = "Geneva"
 trade_goods = cloth

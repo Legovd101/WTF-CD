@@ -1,8 +1,8 @@
 #345 - Safi
-owner = GRE
-controller = GRE
-culture = stelenian
-religion = animism
+owner = HSP
+controller = HSP
+culture = maurlandic
+religion = catholic
 capital = "Safi"
 trade_goods = sugar
 base_tax = 1
@@ -13,4 +13,5 @@ discovered_by = western
 discovered_by = eastern
 discovered_by = muslim
 discovered_by = ottoman
-add_core = GRE
+add_core = HSP
+add_core = MRT

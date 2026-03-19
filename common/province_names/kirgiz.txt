@@ -2,6 +2,7 @@
 # ai/ay/ae -> ay
 # -ia/-eia -> -ïye
 # -ion -> -en
+# -ium -> -im
 # -opolis -> -óplis
 # -kleia -> -kël
 # p/ph -> f/b
@@ -16,7 +17,22 @@
 ## BALKANS
 
 # Silistria
+159 = { "Bilisqa" "Bilisqa" }
+4704 = { "Barslaq" "Barslaq" }
 4706 = { "Qostankala" "Qostankala" } # Constanta
+
+# Bulgaria
+1765 = { "Süratkye" "Süratkye" } # Sardica
+2746 = { "Bidïn" "Bidïn" } # Vidin
+
+# Serbia
+3000 = { "Yol-Qala" "Yol-Qala" }
+
+# Macedonia
+4780 = { "Oghrid" "Oghrid" } # Ohrid
+
+# Albania
+4174 = { "Dürrekim" "Dürrekim" } # Dyrrachium
 
 ## CARPATHIA
 
@@ -28,13 +44,20 @@
 4532 = { "Vilçakent" "Vilçakent" } # Valcea
 
 # Moldavia
+268 = { "Suçavaq" "Suçavaq" } # Suceava
 1756 = { "Balyk" "Balyk" }
 2405 = { "Kishnäk" "Kishnäk" }
-4530 = { "Basluq" "Basluq" }
 4529 = { "Yashkala" "Yashkala" } # Iasi
-268 = { "Suçavaq" "Suçavaq" } # Suceava
+4530 = { "Basluq" "Basluq" }
 
-## BULGARIA
+# Southern Transylvania
+4128 = { "Devlik" "Devlik" }
+
+# Northern Transylvania
+157 = { "Napoka" "Napoka" }
+158 = { "Merkurya" "Merkurya" }
+
+## BULGARIA/POLAND
 
 # Halicz
 261 = { "Çarnasuq" "Çarnasuq" }

@@ -38,11 +38,13 @@ NRK = "countries/Narikhevi.txt"
 KRG = "countries/Khargisad.txt"
 SVL = "countries/Svelarchi.txt"
 ARV = "countries/Arvani.txt"
+SKT = "countries/Sakartvelo.txt"
 
 # Hokun
 IWA = "countries/Iwasaki.txt"
 ISE = "countries/Isenaga.txt"
 HOK = "countries/Hokun.txt"
+VAE = "countries/Varangia.txt"
 
 # Chirgisia
 CRG = "countries/Chirgisia.txt"
@@ -71,3 +73,19 @@ RIK = "countries/Rikania.txt"
 PTR = "countries/Petrai.txt"
 NTI = "countries/Antiocia.txt"
 EDS = "countries/Edessa.txt"
+
+# Hesperia
+HSP = "countries/Hesperia.txt"
+SKR = "countries/Sakarduelo.txt"
+SLU = "countries/Solunicia.txt"
+
+# Rusija
+SJR = "countries/Sjorike.txt"
+
+# Sumalica
+NXT = "countries/Noxtes.txt"
+XFS = "countries/Xafsidiinta.txt"
+MRT = "countries/Moritan.txt"
+
+# Magary
+HOG = "countries/Hoogland.txt"

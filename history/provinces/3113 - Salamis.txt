@@ -1,6 +1,6 @@
 #3113 - PROV3982
-owner = ICE
-controller = ICE
+owner = VAE
+controller = VAE
 culture = greek
 religion = orthodox
 capital = "PROV3982"
@@ -16,4 +16,4 @@ discovered_by = ottoman
 discovered_by = nomad_group
 extra_cost = 8
 center_of_trade = 1
-add_core = ICE
+add_core = VAE

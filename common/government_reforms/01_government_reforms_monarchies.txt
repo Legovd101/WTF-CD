@@ -237,7 +237,7 @@ shogunate = {
 		OR = {
 			AND = {
 				capital_scope = {
-					province_id = 1020
+					province_id = 3108
 				}
 				culture_group = japanese_g
 				NOT = { exists = JAP }
@@ -254,7 +254,7 @@ shogunate = {
 		culture_group = japanese_g
 		technology_group = chinese
 		capital_scope = { region = japan_region }
-		owns = 1020
+		owns = 3108
 	}
 	legacy_equivalent = shogunate_legacy
 	fixed_rank = 2
@@ -2464,6 +2464,7 @@ principality = {
 		OR = {
 			culture_group = east_slavic
 			culture_group = slavic
+			culture_group = anglosaxon
 			AND = {
 				is_playing_custom_nation = yes
 				have_had_reform = principality
@@ -2512,12 +2513,13 @@ tsardom = {
 		OR = {
 			culture_group = east_slavic
 			culture_group = slavic
+			culture_group = anglosaxon
 		}
 		NOT = { primary_culture = ruthenian }
 		NOT = { primary_culture = byelorussian }
 		OR = {
 			AND = {
-				tag = RUS
+				tag = ENG
 				NOT = { map_setup = map_setup_random }
 			}
 			AND = {

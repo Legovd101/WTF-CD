@@ -1,0 +1,24 @@
+# Format: ID = { "Province" "Capital" } # Origin
+
+## BALKANS
+
+# Morea
+145 = { "Móri" "Spartar" }
+1773 = { "Akéyjuborg" "Ólifuborg" }
+4701 = { "Kortborg" "Kortborg" }
+163 = { "Krýta" "Herakleborg" }
+
+# Thrace
+149 = { "Adrianaborg" "Adrianaborg" }
+151 = { "Miklagarðr" "Miklagarðr" }
+4779 = { "Ráðstaðr" "Ráðstaðr" }
+2296 = { "Steinsund" "Steinsund" }
+
+## HOKUN/ANATOLIA
+
+# Aegean Archipelago
+320 = { "Ródi" "Sólborg" }
+
+# Çukurova
+321 = { "Freyjuborg" "Freyjuborg" }
+3113 = { "Ledragarðr" "Ledragarðr" }

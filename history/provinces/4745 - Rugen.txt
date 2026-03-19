@@ -1,9 +1,8 @@
 # 4745 - Rügen
-owner = WOL
-controller = WOL
+owner = SJR
+controller = SJR
 add_core = RUG
-add_core = WOL
-culture = pommeranian
+culture = gutish
 religion = catholic
 hre = yes
 base_tax = 2
@@ -17,3 +16,4 @@ discovered_by = eastern
 discovered_by = western
 discovered_by = muslim
 discovered_by = ottoman
+add_core = SJR

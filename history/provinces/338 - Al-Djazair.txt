@@ -1,7 +1,7 @@
 #338 - Al-Djazair
-owner = KBA
-controller = KBA
-culture = numidian
+owner = NXT
+controller = NXT
+culture = sumalican
 religion = alexandrian
 capital = "Al-Djazair"
 trade_goods = grain
@@ -16,4 +16,4 @@ discovered_by = ottoman
 discovered_by = eastern
 extra_cost = 8
 center_of_trade = 1
-add_core = KBA
+add_core = NXT

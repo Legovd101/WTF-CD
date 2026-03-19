@@ -1,0 +1,95 @@
+# Format: ID = { "Province" "Capital" } # Origin
+
+## MAGARY/ITALY
+
+# Liguria
+101 = { "Zsenua" "Zsenua" }
+102 = { "Nikavár" "Nikavár" }
+
+# Piedmont
+103 = { "Turuvár" "Turuvár" }
+
+# Lombard
+104 = { "Milánó" "Milánó" }
+2979 = { "Újvára" "Újvára" }
+
+# Emilia-Romagna
+105 = { "Párma" "Párma" }
+114 = { "Révona" "Révona" }
+4730 = { "Balonya" "Balonya" }
+
+# Venetia
+112 = { "Velence" "Velence" }
+
+# Tuscany
+116 = { "Virene" "Virene" }
+117 = { "Senvár" "Senvár" }
+
+# Lazio-Umbria
+118 = { "Róma" "Róma" }
+4731 = { "Sasvár" "Sasvár" }
+
+# Marche-Abruzzo
+119 = { "Ankona" "Ankona" }
+120 = { "Peskaró" "Peskaró" }
+
+# Campania
+121 = { "Nápoly" "Nápoly" }
+2983 = { "Szalernó" "Szalernó" }
+
+# Apulia
+122 = { "Lecsa" "Lecsa" }
+1933 = { "Barya" "Barya" }
+2985 = { "Fodzsa" "Fodzsa" }
+
+# Calabria
+123 = { "Rekavár" "Rekavár" }
+2984 = { "Krovár" "Krovár" }
+
+# Eastern Sicily
+124 = { "Katona" "Katona" }
+126 = { "Málta" "Málta" }
+2982 = { "Rakvár" "Rakvár" }
+
+# Western Sicily
+4736 = { "Marosszállás" "Marosszállás" }
+
+# Corsica-Sardinia
+127 = { "Szászavár" "Szászavár" }
+1247 = { "Kórszika" "Básztia" }
+
+## SOUTH GERMANY
+
+# Carniola
+129 = { "Krajna" "Krajna" }
+130 = { "Isztria" "Póla" }
+
+# Inner Austria
+132 = { "Stájerföld" "Stájerföld" }
+
+## BALKANS
+
+# Dalmatia
+136 = { "Sibény" "Sibény" }
+137 = { "Raguza" "Raguza" }
+
+# Morea
+145 = { "Mória" "Szelindomb" }
+163 = { "Krít" "Kánia" }
+
+## CRIMEA
+
+# Crimea
+284 = { "Krím" "Krím" }
+285 = { "Kaffa" "Kaffa" }
+
+# Azov
+287 = { "Kubán" "Kubán" }
+
+## EAST AFRICA
+
+# Madagascar Highlands
+1792 = { "Szemistvánváros" "Szemistvánváros" }
+
+# Betsimasaraka
+4025 = { "Tengerkirályfa" "Tengerkirályfa" }

@@ -1,0 +1,7 @@
+religion = catholic
+capital = 4745
+technology_group = western
+primary_culture = gutish
+government = republic
+add_government_reform = pirate_republic_reform
+government_rank = 1

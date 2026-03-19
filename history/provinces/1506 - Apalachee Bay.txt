@@ -1,3 +1,4 @@
 discovered_by = north_american
+discovered_by = kartveli
 discovered_by = CRE
 discovered_by = CHE

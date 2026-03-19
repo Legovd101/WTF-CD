@@ -1,6 +1,6 @@
 #220 - València
-owner = GRE#Alfons V of Aragon
-controller = GRE
+owner = HSP#Alfons V of Aragon
+controller = HSP
 add_core = VAL
 culture = hemeroskopine
 religion = catholic
@@ -16,5 +16,5 @@ discovered_by = muslim
 discovered_by = ottoman
 extra_cost = 16
 center_of_trade = 2
-add_core = GRE
+add_core = HSP
 fort_15th = yes

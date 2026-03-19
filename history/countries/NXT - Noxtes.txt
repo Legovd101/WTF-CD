@@ -1,0 +1,18 @@
+religion = alexandrian
+capital = 338
+technology_group = western
+primary_culture = sumalican
+government = monarchy
+government_rank = 1
+
+
+1438.6.8 = { 
+	monarch = { 
+		name = "Biriima"
+		dynasty = "Noxtes"
+		adm = 1
+		dip = 3
+		mil = 6
+		female = yes
+	}
+}

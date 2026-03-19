@@ -1,0 +1,85 @@
+# Format: ID = { "Province" "Capital" } # Origin
+
+## BRITAIN
+
+# Wessex
+234 = { "Zapanžanja" "Vintica" }
+4130 = { "Toplen" "Toplen" }
+
+# London
+235 = { "Ket'anja" "Dubrava" }
+236 = { "Lodingrad" "Lodingrad" }
+237 = { "Volijaz" "Volijaz" }
+4371 = { "Južanja" "Stenino" }
+
+# East Anglia
+238 = { "Vostožanja" "Lodingrad" }
+1860 = { "Polanja" "Polnogord" }
+
+# Northern England
+244 = { "Czarnostaw" "Blatogord" }
+246 = { "Branichja" "Belogord" }
+247 = { "Lugovo" "Lugovo" }
+4375 = { "Mamgord" "Mamgord" }
+
+# Yorkshire
+245 = { "Derava" "Wieprzogród" }
+4367 = { "Volovice" "Volovice" }
+
+# Lowlands
+248 = { "Eidyn" "Eidyn" }
+4362 = { "Kustogord" "Kustogord" }
+
+# East Midlands
+243 = { "Lipowa" "Blatogord" }
+
+# West Midlands
+4372 = { "Krajina" "Kamenica" }
+
+## FRANCE
+
+# Normandy
+167 = { "Rodomierz" "Rodomierz" }
+
+# Brittany
+170 = { "Brzesc" "Brzesc" }
+171 = { "Wschodnik" "Wschodnik" }
+172 = { "Neczany" "Neczany" }
+4384 = { "Kolowo" "Kolowo" }
+
+# Guyenne
+174 = { "Borodnowa" "Borodnowa" }
+198 = { "Brzewin" "Brzewin" }
+4112 = { "Jezyn" "Jezyn" }
+
+# Loire Valley
+177 = { "Meczyn" "Meczyn" }
+4389 = { "Turogród" "Turogród" }
+
+# Poitou
+180 = { "Pistawice" "Pistawice" }
+4111 = { "Skalica" "Skalica" }
+
+# Île-de-France
+183 = { "Paryz" "Paryz" }
+
+# Orléannais
+184 = { "Orlianów" "Orlianów" }
+
+# Auvergne
+190 = { "Borowice" "Borowice" }
+195 = { "Lemogród" "Lemogród" }
+199 = { "Wieslaw" "Wieslaw" }
+4777 = { "Vicin" "Vicin" }
+
+# Languedoc
+196 = { "Tolezyn" "Tolezyn" }
+200 = { "Gorpelír" "Gorpelír" }
+2753 = { "Bezurow" "Bezurow" }
+
+# Savoy
+203 = { "Rónin" "Rónin" }
+
+# Provence
+4696 = { "Túlachin" "Túlachin" }
+

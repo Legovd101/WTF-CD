@@ -1,0 +1,15 @@
+government = republic
+primary_culture = varangian
+religion = orthodox
+technology_group = western
+capital = 3113 # Salamis
+government_rank = 1
+1438.6.8 = { 
+	monarch = { 
+		name = "Olafr Sanudor II"
+		dynasty = "Dandalo"
+		adm = 4
+		dip = 5
+		mil = 6
+	}
+}

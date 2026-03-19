@@ -1,6 +1,6 @@
 #1750 - Alàcant
-owner = GRE#Martí I of Aragon
-controller = GRE
+owner = HSP#Martí I of Aragon
+controller = HSP
 add_core = VAL
 culture = hemeroskopine
 religion = catholic
@@ -14,4 +14,4 @@ discovered_by = western
 discovered_by = eastern
 discovered_by = muslim
 discovered_by = ottoman
-add_core = GRE
+add_core = HSP

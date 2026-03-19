@@ -1,0 +1,20 @@
+# Format: ID = { "Province" "Capital" } # Origin
+
+## NORTH GERMANY
+
+# Erzebirge
+267 = { "Treabairn" "Treabairn" }
+1771 = { "Eochruach" "Eochruach" }
+
+# Bohemia
+263 = { "Dairneach" "Dairneach" }
+4724 = { "Maguarán" "Maguarán" }
+2970 = { "Dúnbrannach" "Dúnbrannach" }
+266 = { "Boioduron" "Boioduron" }
+2968 = { "Druimfháil" "Druimfháil" }
+4724 = { "Nára" "Nára" }
+
+# Moravia
+265 = { "Sleibhe" "Sleibhe" }
+4237 = { "Trevalor" "Trevalor" }
+4726 = { "Dúneitri" "Dúneitri" }

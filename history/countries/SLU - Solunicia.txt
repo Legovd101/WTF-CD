@@ -1,0 +1,7 @@
+government = monarchy
+add_government_reform = sharifate_reform
+government_rank = 1
+technology_group = muslim
+religion = catholic
+primary_culture = boranian
+capital = 231 # Porto/Nov Solun

@@ -73,6 +73,9 @@
  SVL_ADJ: "Svelarchieli"
  ARV: "Arvani"
  ARV_ADJ: "Arvaneli"
+ SKT: "Sakartvelo"
+ SKT_ADJ: "Kartvelebi"
+
 
  IWA: "Iwasaki"
  IWA_ADJ: "Iwasakino"
@@ -82,6 +85,8 @@
  HOK_ADJ: "Hokuno"
  KAR: "Karasato"
  KAR_ADJ: "Karasatono"
+ VAE: "Væringjaríki"
+ VAE_ADJ: "Væringjarsk"
 
  CRG: "Chirgisia"
  CRG_ADJ: "Chirgisian"
@@ -98,6 +103,8 @@
  NAP_ADJ: "Po-Magyar"
  HUN: "Magaria"
  HUN_ADJ: "Magáriai"
+ HOG: "Hoogland"
+ HOG_ADJ: "Hooglander"
 
  LMP: "Limapait"
  LMP_ADJ: "Limapait"
@@ -122,6 +129,8 @@
  ANG_ADJ: "Anglian"
  SMU: "Sum"
  SMU_ADJ: "Sumian"
+ ENG: "Englonde"
+ ENG_ADJ: "Englisc"
 
  NGU: "Hangom"
  NGU_ADJ: "Hangom"
@@ -152,3 +161,25 @@
  LEB_ADJ: "Tripólian"
  KOJ: "Hierosolýma"
  KOJ_ADJ: "Hierosolýman"
+
+ NAV: "Abaskia"
+ NAV_ADJ: "Baski"
+ HSP: "Hespería"
+ HSP_ADJ: "Hesperíoi"
+ SKR: "Sakarduelo"
+ SKR_ADJ: "Kardulebi"
+ SLU: "Solunisija"
+ SLU_ADJ: "Solunski"
+
+ SJR: "Sjörike"
+ SJR_ADJ: "Sjörskar"
+
+ NXT: "Noxtes"
+ NXT_ADJ: "Noxtida"
+ XFS: "Xafsidiinta"
+ XFS_ADJ: "Xafsidida"
+ MRT: "Moritan"
+ MRT_ADJ: "Moritana"
+
+ HED: "Mekka"
+ HED_ADJ: "Mekka"

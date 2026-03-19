@@ -9,7 +9,6 @@ controller = RAM
 base_tax = 3
 base_production = 3
 base_manpower = 4
-center_of_trade = 1
 trade_goods = cotton
 extra_cost = 8
 capital = "Brankata"

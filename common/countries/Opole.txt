@@ -33,59 +33,76 @@ historical_units = {
 }
 
 monarch_names = {
-	"Fryderyk #0" = 80
-	"Jan #0" = 40
-	"Henryk #8" = 40
-	"Ludwik #2" = 20
-	"Jan Krystian #0" = 20
-	"Jerzy #0" = 20
-	"Jerzy Rudolf #0" = 20
-	"Jerzy Wilhelm #0" = 20
-	"Joachim Fryderyk #0" = 20
-	"Krystian #0" = 20
-	"Ruprecht #1" = 20
-	"Jan Jerzy #0" = 15
-	"Jerzy Ernest #0" = 15
-	"August #0" = 10
-	"Ernest #0" = 10
-	"Krystian Ludwik #0" = 10
-	"Rudolf #0" = 10
-	"Wladislaw #1" = 5
-	"Albert #0" = 0
-	"Aleksander #0" = 0
-	"Andel #0" = 0
-	"Branko #0" = 0
-	"Bruno #0" = 0
-	"Cezar #0" = 0
-	"Dietrich #0" = 0
-	"Eugeniusz #0" = 0
-	"Filip #0" = 0
-	"Hermann #0" = 0
-	"Joachim #0" = 10
-	"Krzysztof #0" = 0
-	"Lech #0" = 0
-	"Libor #0" = 0
-	"Markus #0" = 0
-	"Maurycy #0" = 0
-	"Radomir #0" = 0
-	"Siegfried #0" = 0
-	"Tomás #0" = 0
-	"Václav #0" = 0
-	"Wilhelm #0" = 0
+	"Toirdhealbhach #0" = 10
+	"Maghnus #0" = 10
+	"Tadhg #0" = 40
+	"Domhnall #0" = 40
+	"Ruaidhrí #0" = 40
+	"Feidhlimidh #0" = 10
+	"Donnchadh #0" = 5
+	"An Calbhach #0" = 5
+	"Aindriú #0" = 0
+	"Alaois #0" = 0
+	"Alastar #0" = 0
+	"Alonghus #0" = 0
+	"Berach #0" = 0
+	"Bradáin #0" = 0
+	"Brennan #0" = 0
+	"Brody #0" = 0
+	"MONARCH_NAME_BRONACH" = 0
+	"Calbhach #0" = 0
+	"Caolan #0" = 0
+	"Carroll #0" = 0
+	"Ceallach #0" = 0
+	"Caerbhall #0" = 0
+	"Cian #0" = 0
+	"Conan #0" = 0
+	"Connor #0" = 0
+	"Diarmaid #0" = 0
+	"Dubhghall #0" = 0
+	"Éamonn #0" = 0
+	"Eoghan #0" = 0
+	"Fearchar #0" = 0
+	"Fearghas #0" = 0
+	"Fionnlagh #0" = 0
+	"Flann #0" = 0
+	"Gallchobhair #0" = 0
+	"Gobán #0" = 0
+	"Grádaigh #0" = 0
+	"Lommán #0" = 0
+	"Maeleachlain #0" = 0
+	"Murchadha #0" = 0
+	"Naomhán #0" = 0
+	"Niall #0" = 0
 	
-	"Heinrike #0" = -1
-	"Ilona #0" = -1
-	"Andrea #0" = -1
+	"Bébinn #0" = -1
+	"Fionola #0" = -1
+	"Norene #0" = -1
 }
 
-leader_names = { 
-	Schwarz Hergesell Heintzel Hoppe
-	Kahl Tilch Greve Abeln Liegnitz
-	Jauernik Wiehle Gronau Sterner
+leader_names = {
+	"Mac Branain" "Mac Conraoi" "Mac Cuille" "Mac Diarmada"
+	"Mac Donnchadha" "Mac Eochaidh" "Mac Maghnais"
+	"Ó Birn" "Ó Breislein" "Ó Cadhla" "Ó Caithniadh"
+	"Ó Cathail" "Ó Cearbhaill" "Ó Céirín" "Ó Cléirigh"
+	"Ó Coigligh" "Ó Concheannain" "Ó Conghailaigh" "Ó Cuana"
+	"Ó Doibhilin" "Ó Domhnalláin" "Ó Dorchaidhe" "Ó Diubháin"
+	"Ó Dúnadhaigh" "Ó Fionn" "Ó Fionnachta" "Ó Fionnagáin"
+	"Ó Fionnáin" "Ó Flaithbheartach" "Ó Gadhra" "Ó hAllmhuráin"
+	"Ó hEaghra" "Ó hUigín" "Ó Leannain" "Ó Maoldúin" "Ó Manachain"
+	"Ó Mughráin" "Ó Reachtagáin" "Ó Seachnasaigh" "Ó Tarpaigh"
+	"Ó Tighearnaigh"
 }
 
 ship_names = {
-	Teschen Falkenberg "Cosel-Beuthen" Oppeln Ratibor
-	Breslau Sagan Oels Steinau "Liegnitz-Brieg" Glogau
-	Münsterberg "Neisse-Ottmachau" "Schweidnitz-Jauer"
+	Athlone
+	Ballina
+	Ballinrobe
+	Ballyhaunis
+	Boyle
+	Castlebar
+	Galway
+	Connemara
+	Mayo
+	Roscommon	
 }

@@ -1,6 +1,5 @@
 ﻿l_english:
- egypt_region: "Ash-Shardhu"
- # From Akkadian "Širtanu" (Striped) relating to the steel used by the Bantu in the Late Bronze Age
+ egypt_region: "Vandalia"
  anatolia_region: "Hokun"
  poland_region: "Bulgariya"
  iberia_region: "Hesperia"
@@ -9,3 +8,5 @@
  france_region: "Zapadoslavija"
  central_asia_region: "Zimbabwe"
  japan_region: "Boronesia"
+ british_isles_region: "Polska"
+ carpathia_region: "Han"

@@ -1,0 +1,123 @@
+country_decisions = {
+
+	kartveli_nation = {
+		major = yes
+		potential = {
+			normal_or_historical_nations = yes
+			was_never_end_game_tag_trigger = yes
+			NOT = { has_country_flag = formed_sakartvelo_flag }
+			OR = {
+				ai = no
+				is_playing_custom_nation = no
+			}
+			OR = {
+				is_free_or_tributary_trigger = yes
+				ai = no
+			}
+			NOT = { tag = SKT }
+			OR = {
+				ai = no
+				AND = {
+					NOT = { exists = SKT }
+					num_of_cities = 3 #Carnage
+				}
+			}
+			NOT = { tag = HLR }
+			NOT = { tag = PAP }
+			culture_group = kartvelian
+			is_colonial_nation = no
+			OR = {
+				is_former_colonial_nation = no
+				AND = {
+					is_former_colonial_nation = yes
+					ai = no
+				}
+			}
+		}
+		provinces_to_highlight = {
+			OR = {
+				province_id = 929	# Pharnava
+				province_id = 2533	# Dalmuri
+				province_id = 931	# Svanari
+				AND = {
+                    province_id = 2534
+                    ROOT = { NOT = { owns_core_province = 2543 } }
+                    ROOT = { NOT = { owns_core_province = 2531 } }
+                }
+				AND = {
+                    province_id = 2543
+                    ROOT = { NOT = { owns_core_province = 2534 } }
+                    ROOT = { NOT = { owns_core_province = 2531 } }
+                }
+				AND = {
+                    province_id = 2531
+                    ROOT = { NOT = { owns_core_province = 2543 } }
+                    ROOT = { NOT = { owns_core_province = 2534 } }
+                }
+			}
+			OR = {
+				NOT = { owned_by = ROOT }
+				NOT = { is_core = ROOT }
+			}
+		}
+		allow = {
+			NOT = { exists = SKT }
+			is_at_war = no
+			is_free_or_tributary_trigger = yes
+			is_nomad = no
+			owns_core_province = 929	# Pharnava
+			owns_core_province = 2533	# Dalmuri
+			owns_core_province = 931	# Svanari
+			OR = {
+				owns_core_province = 2534 #Mingrelia
+				owns_core_province = 2543 #Guria
+				owns_core_province = 2531 #Tao
+			}
+		}
+		effect = {
+			change_tag = SKT
+			remove_non_electors_emperors_from_empire_effect = yes
+			if = {
+				limit = { NOT = { government_rank = 2 } }
+				set_government_rank = 2
+			}
+			southeast_america_region = {
+				limit = {
+					NOT = { owned_by = ROOT }
+					NOT = { is_core = ROOT }
+				}
+				add_permanent_claim = SKT
+			}
+			mississippi_region = {
+				limit = {
+					NOT = { owned_by = ROOT }
+					NOT = { is_core = ROOT }
+				}
+				add_permanent_claim = SKT
+			}
+			add_country_modifier = {
+				name = "centralization_modifier"
+				duration = 7300
+			}
+			add_prestige = 25
+			if = {
+				limit = {
+					has_custom_ideas = no
+					NOT = { has_idea_group = GEO_ideas }
+				}
+				country_event = { id = ideagroups.1 } #Swap Ideas
+			}
+			set_country_flag = formed_sakartvelo_flag
+			if = {
+				limit = { has_dlc = "King of Kings" }
+				swap_non_generic_missions = yes
+			}
+			on_change_tag_effect = yes
+		}
+		ai_will_do = {
+			factor = 1
+		}
+		ai_importance = 400 #
+	}
+	
+}

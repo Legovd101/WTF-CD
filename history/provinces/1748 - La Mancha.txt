@@ -1,6 +1,6 @@
 #1748 - La Mancha
-owner = GRE#Enrique III of Castille
-controller = GRE
+owner = HSP#Enrique III of Castille
+controller = HSP
 culture = napadonian
 religion = catholic
 base_tax = 3
@@ -13,4 +13,4 @@ discovered_by = western
 discovered_by = eastern
 discovered_by = muslim
 discovered_by = ottoman
-add_core = GRE
+add_core = HSP
