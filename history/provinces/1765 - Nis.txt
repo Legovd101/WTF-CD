@@ -1,7 +1,7 @@
 #1765 - Sofia
 owner = BYZ
 controller = BYZ
-culture = bulgarian
+culture = greek
 religion = orthodox
 capital = "Sofia"
 trade_goods = iron

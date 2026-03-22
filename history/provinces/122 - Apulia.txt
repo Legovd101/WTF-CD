@@ -1,7 +1,7 @@
 #122 - Apulia
 owner = NAP
 controller = NAP
-culture = napolyek
+culture = griko
 religion = catholic
 base_tax = 3
 base_production = 3

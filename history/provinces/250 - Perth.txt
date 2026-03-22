@@ -12,6 +12,7 @@ base_production = 3
 base_manpower = 4
 trade_goods = livestock
 culture = fillai
+add_core = MND
 religion = catholic
 capital = "Perth"
 is_city = yes

@@ -2,7 +2,7 @@ government = monarchy
 add_government_reform = serbian_despotate_reform
 primary_culture = serbian
 religion = catholic
-technology_group = eastern
+technology_group = western
 capital = 183# Krusevac
 historical_friend = BOS
 government_rank = 1
@@ -18,4 +18,31 @@ government_rank = 1
 	clear_scripted_personalities = yes
 	add_ruler_personality = charismatic_negotiator_personality
 	add_ruler_personality = well_connected_personality
+	leader = {
+		name = "Henrik od Skalica"
+		type = general
+
+		fire = 5
+		shock = 5
+		manuever = 5
+		siege = 5
+		death_date = 1470.7.5
+		personality = siege_specialist_personality
+	}
+}
+change_estate_land_share = {
+	estate = estate_nobles
+	share = 10
+}
+change_estate_land_share = {
+	estate = estate_church
+	share = -5
+}
+change_estate_land_share = {
+	estate = estate_burghers
+	share = -5
+}
+
+1444.10.1 = {
+	set_estate_privilege = estate_nobles_french_strong_duchies
 }

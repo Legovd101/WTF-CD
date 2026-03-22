@@ -10,7 +10,6 @@ trade_goods = livestock
 base_manpower = 4
 capital = "Parma"
 is_city = yes# Estimated 
-add_core = PAR
 discovered_by = western
 discovered_by = eastern
 discovered_by = muslim

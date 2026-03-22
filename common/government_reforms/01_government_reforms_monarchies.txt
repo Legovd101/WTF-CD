@@ -319,7 +319,7 @@ feudal_france_reform = {
 	potential = {
 		has_dlc = "Domination" 
 		OR = {
-			tag = FRA
+			tag = SER
 			AND = {
 				is_playing_custom_nation = yes
 				have_had_reform = feudal_france_reform
@@ -371,7 +371,7 @@ absolutist_france_reform = {
 		has_dlc = "Domination" 
 		OR = {
 			AND = { 
-				tag = FRA 
+				tag = SER 
 				OR = {
 					has_reform = absolutist_france_reform
 					have_had_reform = absolutist_france_reform
@@ -388,7 +388,7 @@ absolutist_france_reform = {
 	trigger = {
 		OR = {
 			AND = { 
-				tag = FRA 
+				tag = SER 
 				OR = {
 					has_reform = absolutist_france_reform
 					have_had_reform = absolutist_france_reform
@@ -403,7 +403,7 @@ absolutist_france_reform = {
 	valid_for_nation_designer = yes
 	nation_designer_cost = 50
 	nation_designer_trigger = {
-		culture_group = french
+		culture_group = gallo_slavic
 		technology_group = western
 		capital_scope = { region = france_region }
 	}
@@ -804,8 +804,8 @@ english_monarchy = {
 	potential = {
 		OR = {
 			have_had_reform = english_monarchy
-			tag = ENG
-			was_tag = ENG
+			tag = POL
+			was_tag = POL
 			tag = GBR
 		}
 	}

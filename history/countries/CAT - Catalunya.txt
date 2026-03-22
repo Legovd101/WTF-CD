@@ -3,6 +3,6 @@ government = monarchy
 add_government_reform = feudalism_reform
 
 religion = catholic
-primary_culture = catalan
+primary_culture = emporian
 technology_group = western
 capital = 213	# Barcelona

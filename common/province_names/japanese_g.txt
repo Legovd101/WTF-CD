@@ -1,4 +1,4 @@
-## Hokun
+## HOKUN/ANATOLIA
 
 # Hudavendigar
 3088 = { "Kawashiro" "Kawashiro" }
@@ -26,3 +26,7 @@
 3094 = { "Sakitsu" "Sakitsu" }
 328 = { "Yakato" "Yakato" }
 2304 = { "Iwatomo" "Iwatomo" }
+
+# Karadeniz
+3103 = { "Anemuri" "Anemuri" }
+3104 = { "Tasho" "Tasho" }

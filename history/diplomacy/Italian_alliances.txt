@@ -9,7 +9,7 @@ vassal = {
 # Montferrat and Savoy
 vassal = {
 	first = NAP
-	second = ICE
+	second = VAE
 	start_date = 1444.1.1
 	end_date = 1445.3.12
 }
@@ -24,6 +24,13 @@ vassal = {
 vassal = {
 	first = NAP
 	second = PTR
+	start_date = 1444.1.1
+	end_date = 1445.3.12
+}
+
+alliance = {
+	first = NAP
+	second = NTI
 	start_date = 1444.1.1
 	end_date = 1445.3.12
 }

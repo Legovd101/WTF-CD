@@ -12,6 +12,7 @@ base_production = 2
 base_manpower = 3
 trade_goods = wool
 culture = fillai
+add_core = MND
 religion = catholic
 capital = "Inverness"
 is_city = yes

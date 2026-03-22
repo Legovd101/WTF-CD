@@ -11,6 +11,7 @@ base_production = 3
 base_manpower = 3
 trade_goods = fish
 culture = fillai
+add_core = MND
 religion = catholic
 capital = "Aberdeen"
 is_city = yes

@@ -1,0 +1,37 @@
+# Format: ID = { "Province" "Capital" } # Origin
+
+## SOUTHEAST
+
+# South Carolina
+932 = { "Rioneti" "Rioneti" }
+2542 = { "Batara" "Batara" }
+2543 = { "Khevani" "Khevani" }
+
+# Georgia
+929 = { "Pharnava" "Pharnava" }
+2537 = { "Mtskani" "Mtskani" }
+2539 = { "Zekvani" "Zekvani" }
+
+# East Florida
+927 = { "Gelmuri" "Gelmuri" }
+928 = { "Mtskhuri" "Mtskhuri" }
+
+# Upper Georgia
+930 = { "Narikhevi" "Narikhevi" }
+931 = { "Svanari" "Svanari" }
+
+## MISSISSIPPI
+
+# West Florida
+922 = { "Lamariauri" "Lamariauri" }
+923 = { "Khargisad" "Khargisad" }
+2530 = { "Svelarchi" "Svelarchi" }
+2533 = { "Dalmuri" "Dalmuri" }
+
+# Alabama
+2531 = { "Armazoba" "Armazoba" }
+2532 = { "Didi-Tsikhe" "Didi-Tsikhe" }
+4883 = { "Arvani" "Arvani" }
+
+# Louisiana
+2014 = { "Natchesi" "Natchesi" }

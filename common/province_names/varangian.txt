@@ -4,21 +4,32 @@
 
 # Morea
 145 = { "Móri" "Spartar" }
+146 = { "Atíka" "Aþeny" }
+163 = { "Krýta" "Herakleborg" }
 1773 = { "Akéyjuborg" "Ólifuborg" }
 4701 = { "Kortborg" "Kortborg" }
-163 = { "Krýta" "Herakleborg" }
 
 # Thrace
 149 = { "Adrianaborg" "Adrianaborg" }
 151 = { "Miklagarðr" "Miklagarðr" }
+1764 = { "Borga" "Borga" }
+4705 = { "Kómoðíni" "Kómoðíni" }
 4779 = { "Ráðstaðr" "Ráðstaðr" }
-2296 = { "Steinsund" "Steinsund" }
 
 ## HOKUN/ANATOLIA
 
 # Aegean Archipelago
-320 = { "Ródi" "Sólborg" }
+164 = { "Nákso" "Nákso" }
+320 = { "Róði" "Sólborg" }
+2348 = { "Kiey" "Kiey" }
+3003 = { "Eyvjar" "Eyvjar" }
+4700 = { "Leisfo" "Mýliðin" }
 
 # Çukurova
+316 = { "Hálkiþ" "Hálkiþ" }
+317 = { "Nikay" "Nikay" }
 321 = { "Freyjuborg" "Freyjuborg" }
+2296 = { "Steinsund" "Steinsund" }
+3081 = { "Hirseborg" "Hirseborg" }
+3082 = { "Kiðna" "Kiðna" }
 3113 = { "Ledragarðr" "Ledragarðr" }

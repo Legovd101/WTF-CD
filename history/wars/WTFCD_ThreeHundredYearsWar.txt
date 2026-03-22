@@ -1,0 +1,40 @@
+# name = "Three Hundred Years War"
+# war_goal = {
+# 	type = take_capital_throne
+# 	casus_belli = cb_claim_throne
+# 	tag = SER
+# }
+
+
+
+# # Truce falls apart.
+# 1444.1.22 = {
+# 	add_attacker = SVN
+# 	add_defender = SER
+# 	add_attacker = POL
+# 	add_attacker = BOS
+# 	add_defender = BRI
+# 	add_defender = TRV
+# 	add_defender = LMV
+# 	add_defender = GUY
+# 	add_defender = AMG
+# 	add_defender = DRD
+# 	add_defender = LOR
+# 	add_defender = GJN
+# 	add_defender = CRO
+# }
+# 1446.7.18 = {
+# 	rem_attacker = SVN
+# 	rem_attacker = POL
+# 	rem_attacker = BOS
+# 	rem_defender = SER
+# 	rem_defender = BRI
+# 	rem_defender = TRV
+# 	rem_defender = LMV
+# 	rem_defender = GUY
+# 	rem_defender = AMG
+# 	rem_defender = DRD
+# 	rem_defender = LOR
+# 	rem_defender = GJN
+# 	rem_defender = CRO
+# }

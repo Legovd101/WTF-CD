@@ -1,7 +1,6 @@
 # - Urgell
-owner = HSP#Alfons V of Aragon
+owner = HSP
 controller = HSP
-add_core = CAT
 culture = khaldi
 religion = catholic
 base_tax = 3

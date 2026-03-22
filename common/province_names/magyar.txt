@@ -5,45 +5,72 @@
 # Liguria
 101 = { "Zsenua" "Zsenua" }
 102 = { "Nikavár" "Nikavár" }
+2992 = { "Lebénya" "Lebénya" }
 
 # Piedmont
 103 = { "Turuvár" "Turuvár" }
+1875 = { "Grófa" "Grófa" }
+2981 = { "Unfrojvár" "Unfrojvár" }
+4727 = { "Szalüt" "Szalüt" }
 
-# Lombard
+# Lombardy
 104 = { "Milánó" "Milánó" }
+1862 = { "Karmónya" "Karmónya" }
 2979 = { "Újvára" "Újvára" }
+4728 = { "Pávi" "Pávi" }
+4740 = { "Kóm" "Kóm" }
 
 # Emilia-Romagna
 105 = { "Párma" "Párma" }
+106 = { "Múdin" "Múdin" }
+113 = { "Vára" "Vára" }
 114 = { "Révona" "Révona" }
 4730 = { "Balonya" "Balonya" }
 
 # Venetia
+108 = { "Varon" "Varon" }
+111 = { "Forúli" "Forúli" }
 112 = { "Velence" "Velence" }
+1774 = { "Tarünszo" "Tarünszo" }
+4729 = { "Padov" "Padov" }
 
 # Tuscany
+115 = { "Písza" "Písza" }
 116 = { "Virene" "Virene" }
 117 = { "Senvár" "Senvár" }
+2978 = { "Arédzsim" "Arédzsim" }
+2980 = { "Lika" "Lika" }
 
 # Lazio-Umbria
 118 = { "Róma" "Róma" }
+2976 = { "Perügya" "Perügya" }
 4731 = { "Sasvár" "Sasvár" }
+4732 = { "Trákina" "Trákina" }
 
 # Marche-Abruzzo
 119 = { "Ankona" "Ankona" }
 120 = { "Peskaró" "Peskaró" }
+2977 = { "Matáreszvár" "Matáreszvár" }
+
+# Po Valley
+107 = { "Brikszár" "Brikszár" }
+109 = { "Montova" "Montova" }
+4739 = { "Pégyam" "Pégyam" }
 
 # Campania
 121 = { "Nápoly" "Nápoly" }
 2983 = { "Szalernó" "Szalernó" }
+4734 = { "Lívár" "Lívár" }
 
 # Apulia
 122 = { "Lecsa" "Lecsa" }
 1933 = { "Barya" "Barya" }
 2985 = { "Fodzsa" "Fodzsa" }
+4733 = { "Molísza" "Molísza" }
 
 # Calabria
 123 = { "Rekavár" "Rekavár" }
+1934 = { "Lükanyá" "Lükanyá" }
 2984 = { "Krovár" "Krovár" }
 
 # Eastern Sicily
@@ -52,36 +79,49 @@
 2982 = { "Rakvár" "Rakvár" }
 
 # Western Sicily
+125 = { "Penór" "Penór" }
 4736 = { "Marosszállás" "Marosszállás" }
+4737 = { "Akri" "Akri" }
 
 # Corsica-Sardinia
 127 = { "Szászavár" "Szászavár" }
 1247 = { "Kórszika" "Básztia" }
+2986 = { "Karálya" "Karálya" }
+4735 = { "Atyáro" "Atyáro" }
 
 ## SOUTH GERMANY
 
 # Carniola
 129 = { "Krajna" "Krajna" }
 130 = { "Isztria" "Póla" }
+1769 = { "Górzsar" "Górzsar" }
+4738 = { "Trieszt" "Trieszt" }
+4751 = { "Szelya" "Szelya" }
 
 # Inner Austria
+128 = { "Klagyföld" "Klagyföld" }
 132 = { "Stájerföld" "Stájerföld" }
+1863 = { "Gradze" "Gradze" }
+4759 = { "Vilak" "Vilak" }
 
 ## BALKANS
 
 # Dalmatia
 136 = { "Sibény" "Sibény" }
 137 = { "Raguza" "Raguza" }
+4753 = { "Zsadár" "Zsadár" }
 
 # Morea
-145 = { "Mória" "Szelindomb" }
+145 = { "Moria" "Szelindomb" }
+146 = { "Atyen" "Atyen" }
 163 = { "Krít" "Kánia" }
+4701 = { "Korinthosz" "Korinthosz" }
 
 ## CRIMEA
 
 # Crimea
 284 = { "Krím" "Krím" }
-285 = { "Kaffa" "Kaffa" }
+285 = { "Kafa" "Kafa" }
 
 # Azov
 287 = { "Kubán" "Kubán" }

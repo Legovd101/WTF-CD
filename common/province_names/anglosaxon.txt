@@ -1,0 +1,67 @@
+# Format: ID = { "Province" "Capital" } # Origin
+
+## SEXLONDE/RUTHENIA
+
+# Pripyat
+4545 = { "Beorctun" "Beorctun" }
+
+# West Dniepr
+280 = { "Ciesburh" "Ciesburh" }
+4247 = { "Laceah" "Laceah" }
+
+# East Dniepr
+2407 = { "Æthelredstun" "Æthelredstun" }
+4542 = { "Saccatun" "Saccatun" }
+
+# Chernigov
+289 = { "Hornleah" "Hornleah" }
+
+# Smolensk
+4244 = { "Deorford" "Deorford" }
+
+# Minsk
+276 = { "Maltstow" "Maltstow" }
+4115 = { "Mæstun" "Mæstun" }
+4242 = { "Hammburh" "Hammburh" }
+4544 = { "Æscford" "Æscford" }
+
+# Sloboda Ukraine
+299 = { "Eastfæsten" "Eastfæsten" }
+291 = { "Saccatun" "Saccatun" }
+2408 = { "Stanburh" "Stanburh" }
+
+## RUSSIA
+
+# Pskov
+274 = { "Balstad" "Balstad" }
+275 = { "Fiferea" "Fiferea" }
+1960 = { "Hundstow" "Hundstow" }
+
+# South Karelia
+1961 = { "Ælfwinesham" "Ælfwinesham" }
+
+# Pomorye
+4258 = { "Colfæsten" "Colfæsten" }
+
+# Novgorod
+310 = { "Niwewic" "Niwewic" }
+311 = { "Ealdreot" "Ealdreot" }
+4260 = { "Burhtun" "Burhtun" }
+
+# Tver
+4243 = { "Rygham" "Rygham" }
+
+# Moscow
+295 = { "Morwic" "Morwic" }
+4252 = { "Hringfleet" "Hringfleet" }
+
+# Vladimir
+307 = { "Fenstow" "Fenstow" }
+4253 = { "Leodcean" "Leodcean" }
+
+# Suzdal
+1754 = { "Portwic" "Portwic" }
+
+# Oka
+296 = { "Ceapwic" "Ceapwic" }
+300 = { "Fifereoh" "Fifereoh" }

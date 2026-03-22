@@ -13,7 +13,6 @@ trade_goods = cotton
 extra_cost = 8
 religion = alexandrian
 capital = "Sision"
-hre = yes
 is_city = yes
 discovered_by = western
 discovered_by = eastern

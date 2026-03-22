@@ -1,7 +1,7 @@
 #2746 - Vidin
 owner = BYZ
 controller = BYZ
-culture = bulgarian
+culture = greek
 religion = orthodox
 capital = "Vidin"
 trade_goods = grain

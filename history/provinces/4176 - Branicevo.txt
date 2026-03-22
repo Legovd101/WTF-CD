@@ -1,7 +1,7 @@
 #4176 - Branicevo
 owner = BYZ
 controller = BYZ
-culture = bulgarian
+culture = greek
 religion = orthodox
 capital = "Kruševac"
 trade_goods = livestock

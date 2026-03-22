@@ -1,7 +1,7 @@
 #Scotland-Isles
 vassal = {
-	first = NDT
-	second = LOI
+	first = POL
+	second = WLS
 	start_date = 1444.1.1
 	end_date = 1493.1.1
 }
@@ -9,6 +9,20 @@ vassal = {
 vassal = {
 	first = POL
 	second = NDT
+	start_date = 1444.1.1
+	end_date = 1493.1.1
+}
+
+vassal = {
+	first = POL
+	second = CRN
+	start_date = 1444.1.1
+	end_date = 1493.1.1
+}
+
+vassal = {
+	first = POL
+	second = BSK
 	start_date = 1444.1.1
 	end_date = 1493.1.1
 }

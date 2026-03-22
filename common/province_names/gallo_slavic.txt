@@ -1,0 +1,130 @@
+# RULES
+# -icum/-ikon -> -iko
+# Format: ID = { "Province" "Capital" } # Origin
+
+## FRANCE
+
+# Normandy
+167 = { "Rotograd" "Rotograd" }
+168 = { "Avgudor" "Avgudor" }
+1879 = { "Lankoni" "Lankoni" }
+4385 = { "Kosatin" "Kosatin" }
+
+# Guyenne
+174 = { "Bordov" "Bordov" }
+194 = { "Vesunj" "Vesunj" }
+198 = { "Rudniž" "Rudniž" }
+4112 = { "Divna" "Divna" }
+
+# Gascony
+173 = { "Aljapord" "Aljapord" }
+175 = { "Ažin" "Ažin" }
+176 = { "Beaograd" "Beaograd" }
+4694 = { "Foksi" "Foksi" }
+
+# Brittany
+169 = { "Avori" "Avori" }
+170 = { "Gorje" "Gorje" }
+171 = { "Morsko Selo" "Morsko Selo" }
+172 = { "Namet" "Namet" }
+4384 = { "Redžona" "Redžona" }
+
+# Loire Valley
+177 = { "Kemajna" "Kemajna" }
+178 = { "Julovgrad" "Julovgrad" }
+4389 = { "Turovi" "Turovi" }
+
+# Poitou
+180 = { "Lemovci" "Lemovci" }
+4111 = { "Skalica" "Skalica" }
+4386 = { "Petavje" "Petavje" }
+4387 = { "Medlogor" "Medlogor" }
+
+# Île-de-France
+182 = { "Valic" "Valic" }
+183 = { "Pariž" "Pariž" }
+185 = { "Zdenac" "Zdenac" }
+4388 = { "Karnota" "Karnota" }
+
+# Western Burgundy
+191 = { "Novigrad" "Novigrad" }
+1877 = { "Karolje" "Karolje" }
+4392 = { "Avgustin" "Avgustin" }
+
+# Eastern Burgundy
+192 = { "Divinopolje" "Divinopolje" }
+193 = { "Slobodže" "Slobodže" }
+4764 = { "Solinje" "Solinje" }
+
+# Orléannais
+179 = { "Brigin" "Brigin" }
+184 = { "Orljan" "Orljan" }
+4776 = { "Bležo" "Bležo" }
+
+# Auvergne
+190 = { "Topliv" "Topliv" }
+195 = { "Limogor" "Limogor" }
+199 = { "Gajin" "Gajin" }
+4697 = { "Marka" "Marka" }
+4777 = { "Foris" "Foris" }
+
+# Lorraine
+187 = { "Dermin" "Dermin" }
+188 = { "Medžon" "Medžon" }
+189 = { "Tulingrad" "Tulingrad" }
+4766 = { "Vrdin" "Vrdin" }
+
+# Picardy
+87 = { "Gesobor" "Gesobor" }
+88 = { "Trujek" "Trujek" }
+89 = { "Samarja" "Samarja" }
+1743 = { "Kamrak" "Kamrak" }
+
+# Champagne
+181 = { "Bagm" "Bagm" }
+186 = { "Sosingrad" "Sosingrad" }
+4390 = { "Drugrad" "Drugrad" }
+
+# Languedoc
+196 = { "Toloža" "Toloža" }
+200 = { "Targogora" "Targogora" }
+2753 = { "Narbograd" "Narbograd" }
+4391 = { "Vjena" "Vjena" }
+4695 = { "Karkadžo" "Karkadžo" }
+
+# Savoy
+203 = { "Lugdin" "Lugdin" }
+204 = { "Garnobor" "Garnobor" }
+205 = { "Cambarjako" "Cambarjako" }
+4719 = { "Briko" "Briko" }
+
+# Romandie
+165 = { "Berna" "Berna" }
+1867 = { "Viško" "Viško" }
+1871 = { "Valis" "Žedun" }
+4720 = { "Ženjava" "Ženjava" }
+4721 = { "Aventiko" "Aventiko" }
+
+# Provence
+201 = { "Toplicgrad" "Toplicgrad" }
+202 = { "Avenjo" "Avenjo" }
+2991 = { "Fokaograd" "Fokaograd" }
+4696 = { "Telonbor" "Túlachin" }
+
+## MAGARY/ITALY
+
+# Liguria
+102 = { "Nikagrad" "Nikagrad" }
+101 = { "Ženova" "Ženova" }
+
+# Lombardy
+104 = { "Milangrad" "Milangrad" }
+
+## HESPERIA/IBERIA
+
+# Catalonia
+197 = { "Ruskinograd" "Ruskinograd" }
+212 = { "Ajeron" "Ajeron" }
+213 = { "Barselobor" "Barselobor" }
+2987 = { "Ogeo" "Tarego" }
+2988 = { "Taragon" "Taragon" }

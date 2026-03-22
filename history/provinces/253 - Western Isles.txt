@@ -17,6 +17,7 @@ base_manpower = 1
 trade_goods = grain
 
 culture = fillai
+add_core = MND
 religion = catholic
 capital = "Stornoway"
 

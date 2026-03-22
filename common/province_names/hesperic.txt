@@ -1,0 +1,110 @@
+# Format: ID = { "Province" "Capital" } # Origin
+
+## HESPERIA/IBERIA
+
+# Catalonia
+212 = { "Empórion" "Empórion" }
+213 = { "Nauseon" "Nauseon" }
+2987 = { "Ilitríta" "Ilitríta" }
+2988 = { "Tarrapolis" "Tarrapolis" }
+
+# Valencia
+220 = { "Tiberímon" "Tiberímon" }
+1750 = { "Hemeroskopeíon" "Hemeroskopeíon" }
+4549 = { "Pelmória" "Pelmória" }
+4550 = { "Neápolis" "Neápolis" }
+
+# Toledo
+219 = { "Tolíton" "Tolíton" }
+221 = { "Mástaleia" "Mástaleia" }
+2751 = { "Arriáka" "Arriáka" }
+2754 = { "Linária" "Linária" }
+4547 = { "Dryópis" "Dryópis" }
+
+# Aragon
+211 = {"Óska" "Óska"}
+214 = { "Kaísaragósteion" "Kaísaragósteion" }
+2990 = {"Túrboléton" "Túrboléton"}
+4557 = {"Bilbílion" "Bilbílion"}
+
+# Upper Andalucia
+222 = { "Kárpe" "Kárpe" }
+223 = { "Oúrkis" "Oúrkis" }
+226 = { "Heráklion" "Heráklion" }
+4546 = { "Halíke" "Halíke" }
+
+# Upper Andalucia
+224 = { "Spále" "Spále" }
+225 = { "Eúpolis" "Eúpolis" }
+1748 = { "Chalkídra" "Chalkídra" }
+1749 = { "Gádeira" "Gádeira" }
+4548 = { "Halyónos" "Halyónos" }
+
+# Alentejo
+227 = { "Olísipo" "Olísipo" }
+229 = { "Páxa" "Páxa" }
+230 = { "Megálolímen" "Megálolímen" }
+4150 = { "Skallábis" "Skallábis" }
+4787 = { "Télolímen" "Télolímen" }
+
+# Extremadura
+218 = { "Phylákion" "Phylákion" }
+1747 = {"Kaisáreia" "Kaisáreia"}
+4788 = {"Ambrósia" "Ambrósia"}
+
+# Beiras
+231 = { "Brakára" "Brakára" }
+232 = {"Bregánike" "Bregánike"}
+228 = {"Oúisseia" "Oúisseia"}
+1851 = {"Aemínion" "Aemínion"}
+4556 = {"Aberion" "Aberion"}
+
+# Galicia
+206 = { "Phláouion" "Phláouion" }
+4554 = {"Loúkenses" "Loúkenses"}
+4555 = {"Pons Ouétera" "Pons Ouétera"}
+4558 = {"Boúrgas" "Boúrgas"}
+
+# Baleares
+333 = { "Maiórka" "Rodíon" }
+4559 = { "Minórka" "Magon" }
+4560 = { "Pityoússai" "Aibóssa" }
+
+# Vasconia
+2989 = {"Rígon" "Rígon"}
+210 = {"Pompeíopolis" "Pompeíopolis"}
+209 = {"Oskónia" "Oskónia"}
+
+# South Castile
+4551 = {"Abéla" "Abéla"}
+217 = {"Miákon" "Miákon"}
+4789 = {"Segóbriga" "Segóbriga"}
+2755 = {"Oúria" "Oúria"}
+
+# North Castile
+1745 = {"Kantábria" "Kantábria"}
+1746 = {"Pýrgos" "Pýrgos"}
+4552 = {"Pallántia" "Pallántia"}
+215 = {"Oúallis Tolíton" "Oúallis Tolíton"}
+
+
+## AFRICA/MAGHREB
+
+# Central Morocco
+343 = {"Nea Olympia" "Nea Olympia"}
+344 = {"Méntina" "Méntina"}
+2468 = {"Sétton" "Sétton"}
+2467 = {"Olubíli" "Olubíli"}
+
+# North Morocco
+334 = { "Tígge" "Tígge" }
+335 = {"Russadeíron" "Russadeíron"}
+1751 = { "Stélenai" "Stélenai" }
+4561 = { "Petraíon" "Petraíon" }
+4563 = {"Sála" "Sála"}
+
+# Gharb
+342 = { "Akrápolis" "Akrápolis" }
+345 = { "Asphénsis" "Asphénsis" }
+4564 = {"Anphós" "Anphós"}
+2469 = {"Asáma" "Asáma"}

@@ -5,3 +5,13 @@ primary_culture = severnian
 government = monarchy
 add_government_reform = feudalism_reform
 government_rank = 1
+
+1443.1.1 = {
+	monarch = {
+		name = "Jadranko II"
+		dynasty = "Severnovic"
+		adm = 2
+		dip = 5
+		mil = 6
+	}
+}

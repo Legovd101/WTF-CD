@@ -1,7 +1,7 @@
 #150 - Bulgaria
 owner = BYZ
 controller = BYZ
-culture = bulgarian
+culture = greek
 religion = orthodox
 capital = "Nikopol"
 trade_goods = grain

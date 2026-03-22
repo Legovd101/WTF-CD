@@ -1,7 +1,7 @@
 #114 - Romagna
 owner = RMN # Ravenna was seized by Venice in 1441
 controller = RMN
-culture = romagnan
+culture = romanyak
 religion = catholic
 base_tax = 4
 base_production = 5

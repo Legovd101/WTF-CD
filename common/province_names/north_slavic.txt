@@ -1,10 +1,14 @@
+# All names here are either directly taken from the Poland in Great Britain video or reconstructed etymologically
 # Format: ID = { "Province" "Capital" } # Origin
 
 ## BRITAIN
 
 # Wessex
+233 = { "Kornik" "Penjaryn" } # "Cornovi slaves"
 234 = { "Zapanžanja" "Vintica" }
 4130 = { "Toplen" "Toplen" }
+4374 = { "Durnlud" "Vejusta" } # "Durnovaria people", "Wey's mouth"
+4373 = { "Dewna" "Sliwsta" } # "Plum's mouth"
 
 # London
 235 = { "Ket'anja" "Dubrava" }
@@ -15,6 +19,7 @@
 # East Anglia
 238 = { "Vostožanja" "Lodingrad" }
 1860 = { "Polanja" "Polnogord" }
+4370 = { "Bedprodrabia" "Granmost" } # "Beda's ford", "Granta bridge"
 
 # Northern England
 244 = { "Czarnostaw" "Blatogord" }
@@ -25,16 +30,32 @@
 # Yorkshire
 245 = { "Derava" "Wieprzogród" }
 4367 = { "Volovice" "Volovice" }
+4368 = { "Skarawnia" "Skarawnia" } # "Skarthi's fort"
+4785 = { "Granicawies" "Granicawies" } # "Countryside's boundary"
+
+# Highlands
+250 = { "Janimiast" "Janimiast" } # "St. John's Town"
+252 = { "Inwirinjes" "Inwirinjes" }
+369 = { "Orknja" "Orknja" } # "Seal Islands"
+4110 = { "Sudralen" "Sudralen" } # "South Land"
+4363 = { "Ajrgil" "Ajrgil" }
 
 # Lowlands
 248 = { "Eidyn" "Eidyn" }
+249 = { "Ajrabia" "Ajr" } # "Ayr county"
+251 = { "Dunsta" "Dunsta" } # "Don's mouth"
+4361 = { "Gawrojasny" "Gawrojasny" } # "Rook/Crow fort"
 4362 = { "Kustogord" "Kustogord" }
 
 # East Midlands
 243 = { "Lipowa" "Blatogord" }
+4376 = { "Lijorabia" "Lijor" } # "Ligore castle"
+1861 = { "Jelenwies" "Jelenwies" } # "Deer village"
 
 # West Midlands
 4372 = { "Krajina" "Kamenica" }
+239 = { "Karjasny" "Miejmost" } # "Bright fort", "Bridge place"
+240 = { "Skrownia" "Skrownia" } # "Scrobb's fort"
 
 ## FRANCE
 

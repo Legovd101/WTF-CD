@@ -1,0 +1,14 @@
+bookmark =
+{
+	name = "REBEL_YELL"
+	desc = "REBEL_YELL_DESC"
+	date = 1444.11.11
+	
+	center = 183
+	default = yes
+	
+	country = POL
+	country = SER
+	country = SVN
+	country = CRO
+}

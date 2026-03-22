@@ -11,3 +11,4 @@ government_rank = 2
 add_historical_friend = EDS
 add_historical_friend = LEB
 add_historical_friend = NTI
+add_historical_rival = VAN

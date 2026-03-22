@@ -1,0 +1,68 @@
+# RULES
+# ai/ay/ae -> ay
+# -ia/-eia -> -a
+# e -> ai
+# -ium -> -om
+# -polis -> -pole
+# Format: ID = { "Province" "Capital" } # Origin
+
+## VANDALIA/EGYPT
+
+# Delta
+362 = { "Cabasa" "Cabasa" }
+363 = { "Dospole" "Dospole" }
+358 = { "Laixindra" "Laixindra" }
+
+# Cyrenaica
+356 = { "Bevenica" "Bevenica" }
+357 = { "Cirabrig" "Cirabrig" }
+2325 = { "Praitinom" "Praitinom" }
+2326 = { "Atbatmo" "Atbatmo" }
+
+# Bahari
+361 = { "Bubo" "Bubo" }
+2316 = { "Dunaba" "Dunaba" }
+4316 = { "Pelsom" "Pelsom" }
+4317 = { "Clopatrais" "Clopatrais" }
+
+# Vostani
+359 = { "Gizo" "Gizo" }
+2317 = { "Dashcarno" "Dashcarno" }
+4318 = { "Mempair" "Mempair" }
+
+# al-Wahat
+1233 = { "Medon" "Medon" }
+2318 = { "Hairmopole" "Hairmopole" }
+4323 = { "Murosaba" "Murosaba" }
+
+# Said
+360 = { "Danu" "Danu" }
+1231 = { "Siene" "Siene" }
+2319 = { "Aubo" "Aubo" }
+4319 = { "Rigaborga" "Rigaborga" }
+4320 = { "Tolemis" "Tolemis" }
+
+# Red Sea Hills
+365 = { "Angelas" "Angelas" }
+2315 = { "Celisma" "Celisma" }
+2320 = { "Miogorma" "Miogorma" }
+2321 = { "Kauno" "Kauno" }
+
+## MASHRIQ
+
+# Palestine
+364 = { "Gazo" "Gazo" }
+379 = { "Durosalen" "Durosalen" }
+1854 = { "Iapa" "Iapa" }
+
+# Syria
+378 = { "Tripole" "Tripole" }
+382 = { "Damabriga" "Damabriga" }
+1855 = { "Sidos" "Sidos" }
+4297 = { "Amesa" "Amesa" }
+
+# Aleppo
+377 = { "Pamenia" "Pamenia" }
+1849 = { "Ladicea" "Ladicea" }
+2313 = { "Antiocia" "Antiocia" }
+4298 = { "Gindaro" "Gindaro" }

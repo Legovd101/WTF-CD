@@ -1,0 +1,13 @@
+on_battle_won_unit = {
+	if = {
+		limit = {
+			general_with_name = "Henrik od Skalica"
+		}
+		unit_owner = {
+			change_variable = {
+				which = henry_of_skalitz_battles_won 
+				value = 1
+			}
+		}
+	}
+}
