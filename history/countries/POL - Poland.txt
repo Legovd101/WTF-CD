@@ -3,6 +3,7 @@ add_government_reform = polish_great_sejm
 primary_culture = polish
 religion = catholic
 technology_group = western
+government_rank = 2
 capital = 236 # London
 1444.1.1 = { 
 	monarch = { 

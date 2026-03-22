@@ -197,8 +197,8 @@
 
  CRN: "Kernow"
  CRN_ADJ: "Kernowek"
- CRN: "Cymru"
- CRN_ADJ: "Cymraeg"
+ WLS: "Cymru"
+ WLS_ADJ: "Cymraeg"
  AVE: "Radogostid Kingdom"
  AVE_ADJ: "Radogostid"
  AV0: "Radogostid Republic"
