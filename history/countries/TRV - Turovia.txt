@@ -3,5 +3,5 @@ capital = 4389
 technology_group = western
 primary_culture = serbian
 government = monarchy
-add_government_reform = feudalism_reform
+add_government_reform = appanage_reform
 government_rank = 1

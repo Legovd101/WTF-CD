@@ -1,0 +1,52 @@
+trained_sailors = {
+	movement_speed_onto_off_boat_modifier = 0.25
+	naval_maintenance_modifier = -0.1
+}
+
+second_hundred_years_war = {
+	naval_maintenance_modifier = -0.05
+	naval_tradition_from_battle = 0.5
+	heavy_ship_power = 0.1
+	light_ship_power = 0.1
+}
+
+port_of_carthago = {
+	local_development_cost_modifier = -0.25
+	local_build_cost = -0.15
+}
+
+defenders_of_holy_land = {
+	fort_maintenance_modifier = -0.1
+	global_missionary_strength = 0.03
+	development_cost_modifier = -0.1
+}
+
+prosperous_holy_land = {
+	local_production_efficiency = 0.2
+	trade_value_modifier = 0.25
+}
+
+educated_advisors = {
+	advisor_cost = -0.15
+	technology_cost = -0.1
+}
+
+spreading_the_faith = {
+	global_unrest = -2
+	core_creation = -0.1
+}
+
+african_inroads = {
+	may_establish_frontier = yes
+	may_explore = yes
+}
+
+cushitic_conquest = {
+	ae_impact = -0.1
+	trade_steering = 0.05
+}
+
+source_of_the_nile = {
+	production_efficiency = 0.05
+	global_ship_trade_power = 0.05
+}

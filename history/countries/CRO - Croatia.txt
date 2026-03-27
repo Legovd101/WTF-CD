@@ -1,5 +1,5 @@
 government = monarchy
-add_government_reform = feudalism_reform
+add_government_reform = appanage_reform
 primary_culture = croatian
 religion = catholic
 add_accepted_culture = dalmatian

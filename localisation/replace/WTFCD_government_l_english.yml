@@ -1,6 +1,10 @@
 ﻿l_english:
  tsardom: "Kaysererice"
  tsardom_desc: "This state is the upholder of the Imperial Roman legacy and the Orthodox Church. As Kaysere of all the Anglo-saxons our ruler is the true overlord of the Englisc Peoples."
+ feudal_france_reform: "Serbian Feudalism"
+ feudal_france_reform_desc: "Feudalism has a tight grip on the Serbian court affairs. Powerful nobles and autonomous, decentralized subjects have unprecedented amount of freedom and say in our internal administration."
+ vandal_empire_reform: "Vandal Empire"
+ vandal_empire_reform_desc: "The Vandal Empire in its current form dates back to the 5th century with the establishment of the Vandal Kingdom of Aegyptus, and has since become the bulwark of the Romance world in the East. Alexandria serves as a major center of learning for the Mediterranean, where Greek, Latin, Arabic, and Persian worlds collide."
 
  TSARDOM: "Kaysererice"
  TSAR: "Kaysere"

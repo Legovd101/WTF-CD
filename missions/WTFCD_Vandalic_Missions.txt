@@ -1,0 +1,1054 @@
+VAN_1 = {
+	slot = 1
+	generic = no
+	ai = yes
+	has_country_shield = yes
+	potential = { tag = VAN } 
+
+	VAN_italian_blockade = {
+		icon = fight_bosnian_heresies
+		position = 3
+		required_missions = { VAN_invasion_fleet } 
+		provinces_to_highlight = { province_id = 123 } 
+
+		trigger = {
+			123 = { is_blockaded_by = ROOT } 
+			OR = {
+				1307 = { infantry_in_province = ROOT } 
+				1304 = { infantry_in_province = ROOT } 
+			}
+		}
+
+		effect = { 123 = { change_controller = ROOT }  } 
+	}
+
+	VAN_control_calabria = {
+		icon = arb_sicily
+		position = 4
+		required_missions = { VAN_italian_blockade } 
+		provinces_to_highlight = { area = calabria_area } 
+
+		trigger = {
+			calabria_area = {
+				type = all
+				controlled_by = ROOT
+			}
+		}
+
+		effect = {
+			calabria_area = {
+				remove_random_development = yes
+				remove_random_development = yes
+			}
+			add_treasury = 60
+		}
+	}
+
+	VAN_sacking_of_naples = {
+		icon = king_of_naples
+		position = 5
+		required_missions = { VAN_control_calabria } 
+		provinces_to_highlight = { area = naples_area } 
+
+		trigger = {
+			naples_area = {
+				type = all
+				controlled_by = ROOT
+			}
+		}
+
+		effect = {
+			naples_area = {
+				remove_random_development = yes
+				remove_random_development = yes
+				remove_random_development = yes
+				remove_random_development = yes
+			}
+			add_treasury = 200
+		}
+	}
+
+	VAN_expand_capital = {
+		icon = develop_our_capital
+		position = 7
+		provinces_to_highlight = { is_capital_of = ROOT } 
+
+		trigger = { capital_scope = { development = 30 }  } 
+
+		effect = {
+			capital_scope = {
+				add_province_modifier = {
+					name = "capital_boom"
+					duration = 36500
+				}
+			}
+		}
+	}
+
+	VAN_ethiopian_conquest = {
+		icon = mission_envoy_to_ethiopia
+		position = 10
+		required_missions = { VAN_follow_nile } 
+		provinces_to_highlight = {  } 
+
+		trigger = {
+			central_ethiopia_area = {
+				type = all
+				country_or_non_sovereign_subject_holds = ROOT
+			}
+			damot_area = {
+				type = all
+				country_or_non_sovereign_subject_holds = ROOT
+			}
+			southern_ethiopia_area = {
+				type = all
+				country_or_non_sovereign_subject_holds = ROOT
+			}
+			shewa_area = {
+				type = all
+				country_or_non_sovereign_subject_holds = ROOT
+			}
+			hadiya_area = {
+				type = all
+				country_or_non_sovereign_subject_holds = ROOT
+			}
+		}
+
+		effect = {
+			add_country_modifier = {
+				name = "cushitic_conquest"
+				duration = -1
+			}
+		}
+	}
+
+	VAN_memphis_to_macrobia = {
+		icon = mission_arabian_thalassocracy
+		position = 11
+		required_missions = {
+			VAN_azanian_emporiae
+			VAN_ethiopian_conquest
+		}
+		provinces_to_highlight = {  } 
+
+		trigger = {
+			horn_of_africa_region = {
+				type = all
+				country_or_non_sovereign_subject_holds = ROOT
+			}
+		}
+
+		effect = {
+			add_country_modifier = {
+				name = "source_of_the_nile"
+				duration = -1
+			}
+			east_africa_region = { add_permanent_claim = ROOT } 
+		}
+	}
+
+	VAN_protectors_of_africa = {
+		icon = mission_kon_protector_of_africa
+		position = 12
+		required_missions = { VAN_memphis_to_macrobia } 
+		provinces_to_highlight = {  } 
+
+		trigger = {
+			east_africa_region = {
+				type = all
+				OR = {
+					country_or_non_sovereign_subject_holds = ROOT
+					is_empty = yes
+				}
+			}
+		}
+
+		effect = {
+			africa_superregion = { add_permanent_claim = ROOT } 
+			add_country_modifier = {
+				name = "kon_defender_of_africa"
+				duration = -1
+			}
+		}
+	}
+}
+VAN_2 = {
+	slot = 2
+	generic = no
+	ai = yes
+	has_country_shield = yes
+	potential = { tag = VAN } 
+
+	VAN_long_time_enemy = {
+		icon = union_with_naples
+		position = 1
+		provinces_to_highlight = { is_capital_of = NAP } 
+
+		trigger = {
+			NAP = {
+				has_opinion_modifier = {
+					who = THIS
+					modifier = scornfully_insulted
+				}
+			}
+		}
+
+		effect = {
+			add_casus_belli = {
+				type = cb_vassalize_mission
+				target = NAP
+				months = 240
+			}
+		}
+	}
+
+	VAN_invasion_fleet = {
+		icon = crusader_fleet
+		position = 2
+		required_missions = { VAN_long_time_enemy } 
+		provinces_to_highlight = {
+			has_port = yes
+			owned_by = ROOT
+		}
+
+		trigger = { navy_size_percentage = 1.0 } 
+
+		effect = {
+			add_country_modifier = {
+				name = "trained_sailors"
+				duration = 3650
+			}
+		}
+	}
+
+	VAN_control_apulia = {
+		icon = develop_naples
+		position = 4
+		required_missions = { VAN_italian_blockade } 
+		provinces_to_highlight = { area = apulia_area } 
+
+		trigger = {
+			apulia_area = {
+				type = all
+				controlled_by = ROOT
+			}
+		}
+
+		effect = {
+			apulia_area = {
+				remove_random_development = yes
+				remove_random_development = yes
+			}
+			add_treasury = 80
+		}
+	}
+
+	VAN_syrian_city = {
+		icon = mam_city_thousand_minarets
+		position = 6
+		required_missions = { VAN_holy_city } 
+		provinces_to_highlight = { province_id = 382 } 
+
+		trigger = {
+			382 = {
+				owned_by = ROOT
+				religion = owner
+			}
+		}
+
+		effect = {
+			add_country_modifier = {
+				name = "defenders_of_holy_land"
+				duration = -1
+			}
+		}
+	}
+
+	VAN_kemetic_construction = {
+		icon = mission_develop_nevas_port
+		position = 8
+		required_missions = { VAN_expand_capital } 
+		provinces_to_highlight = {  } 
+
+		trigger = {
+			num_of_owned_provinces_with = {
+				value = 10
+				culture = upper_egyptian
+				num_of_times_improved = 1
+			}
+		}
+
+		effect = {
+			lower_nubia_area = { add_permanent_claim = ROOT } 
+			dongola_area = { add_permanent_claim = ROOT } 
+			upper_nubia_area = { add_permanent_claim = ROOT } 
+			sennar_area = { add_permanent_claim = ROOT } 
+		}
+	}
+
+	VAN_follow_nile = {
+		icon = mission_advance_to_the_arabian_sea
+		position = 9
+		required_missions = { VAN_kemetic_construction } 
+		provinces_to_highlight = {  } 
+
+		trigger = {
+			lower_nubia_area = {
+				type = all
+				country_or_non_sovereign_subject_holds = ROOT
+			}
+			dongola_area = {
+				type = all
+				country_or_non_sovereign_subject_holds = ROOT
+			}
+			upper_nubia_area = {
+				type = all
+				country_or_non_sovereign_subject_holds = ROOT
+			}
+			sennar_area = {
+				type = all
+				OR = {
+					country_or_non_sovereign_subject_holds = ROOT
+					is_empty = yes
+				}
+			}
+		}
+
+		effect = {
+			horn_of_africa_region = { add_permanent_claim = ROOT } 
+			add_country_modifier = {
+				name = "african_inroads"
+				duration = -1
+			}
+		}
+	}
+
+	VAN_azanian_emporiae = {
+		icon = bavarian_netherlands
+		position = 10
+		required_missions = { VAN_follow_nile } 
+		provinces_to_highlight = {  } 
+
+		trigger = {
+			red_sea_coast_area = {
+				type = all
+				country_or_non_sovereign_subject_holds = ROOT
+			}
+			tigray_area = {
+				type = all
+				country_or_non_sovereign_subject_holds = ROOT
+			}
+			aussa_area = {
+				type = all
+				country_or_non_sovereign_subject_holds = ROOT
+			}
+			ifat_area = {
+				type = all
+				country_or_non_sovereign_subject_holds = ROOT
+			}
+		}
+
+		effect = {
+			add_casus_belli = {
+				type = cb_vassalize_mission
+				target = HED
+			}
+			tihama_al_yemen_area = { add_permanent_claim = ROOT } 
+			yemen_area = { add_permanent_claim = ROOT } 
+			upper_yemen_area = { add_permanent_claim = ROOT } 
+			asir_area = { add_permanent_claim = ROOT } 
+			mecca_area = { add_permanent_claim = ROOT } 
+			medina_area = { add_permanent_claim = ROOT } 
+			tabuk_area = { add_permanent_claim = ROOT } 
+		}
+	}
+
+	VAN_land_of_muhammad = {
+		icon = arb_unite_arabia
+		position = 11
+		required_missions = { VAN_azanian_emporiae } 
+		provinces_to_highlight = {  } 
+
+		trigger = {
+			tihama_al_yemen_area = {
+				type = all
+				country_or_non_sovereign_subject_holds = ROOT
+			}
+			yemen_area = {
+				type = all
+				country_or_non_sovereign_subject_holds = ROOT
+			}
+			upper_yemen_area = {
+				type = all
+				country_or_non_sovereign_subject_holds = ROOT
+			}
+			asir_area = {
+				type = all
+				country_or_non_sovereign_subject_holds = ROOT
+			}
+			mecca_area = {
+				type = all
+				country_or_non_sovereign_subject_holds = ROOT
+			}
+			medina_area = {
+				type = all
+				country_or_non_sovereign_subject_holds = ROOT
+			}
+			tabuk_area = {
+				type = all
+				country_or_non_sovereign_subject_holds = ROOT
+			}
+		}
+
+		effect = { arabia_region = { add_permanent_claim = ROOT }  } 
+	}
+
+	VAN_clerical_control = {
+		icon = mission_advance_to_kalyana
+		position = 14
+		provinces_to_highlight = {  } 
+
+		trigger = {
+			num_of_owned_provinces_with = {
+				value = 15
+				has_tax_building_trigger = yes
+			}
+		}
+
+		effect = {
+			add_country_modifier = {
+				name = "conversion_zeal"
+				duration = -1
+			}
+		}
+	}
+}
+VAN_3 = {
+	slot = 3
+	generic = no
+	ai = yes
+	has_country_shield = yes
+	potential = { tag = VAN } 
+
+	VAN_second_hundred_years_war = {
+		icon = mission_hundred_years_war
+		position = 2
+		required_missions = {
+			VAN_long_time_enemy
+			VAN_prepare_army
+		}
+		provinces_to_highlight = {  } 
+
+		trigger = { war_with = NAP } 
+
+		effect = {
+			add_country_modifier = {
+				name = "second_hundred_years_war"
+				duration = -1
+			}
+		}
+	}
+
+	VAN_solidifying_control = {
+		icon = mission_rb_control_the_hansa
+		position = 3
+		required_missions = { VAN_second_hundred_years_war } 
+		provinces_to_highlight = {
+			OR = {
+				area = delta_area
+				area = bahari_area
+				area = gulf_of_arabia_area
+			}
+			NOT = { controlled_by = ROOT } 
+		}
+
+		trigger = {
+			delta_area = {
+				type = all
+				controlled_by = ROOT
+			}
+			bahari_area = {
+				type = all
+				controlled_by = ROOT
+			}
+			gulf_of_arabia_area = {
+				type = all
+				controlled_by = ROOT
+			}
+		}
+
+		effect = {
+			vassalize = RIK
+			vassalize = PTR
+			white_peace = RIK
+			white_peace = PTR
+		}
+	}
+
+	VAN_eastern_bulwark = {
+		icon = mng_jing_hang_grand_canal
+		position = 4
+		required_missions = { VAN_solidifying_control } 
+		provinces_to_highlight = { province_id = 364 } 
+
+		trigger = { 364 = { has_fort_building_trigger = yes }  } 
+
+		effect = {
+			palestine_area = { add_permanent_claim = ROOT } 
+			trans_jordan_area = { add_permanent_claim = ROOT } 
+		}
+	}
+
+	VAN_holy_city = {
+		icon = jerusalem
+		position = 5
+		required_missions = { VAN_eastern_bulwark } 
+		provinces_to_highlight = { province_id = 379 } 
+
+		trigger = { owns = 379 } 
+
+		effect = {
+			syrian_desert_area = { add_permanent_claim = ROOT } 
+			syria_area = { add_permanent_claim = ROOT } 
+			aleppo_area = { add_permanent_claim = ROOT } 
+		}
+	}
+
+	VAN_holy_land = {
+		icon = mission_central_asian_city
+		position = 6
+		required_missions = { VAN_holy_city } 
+		provinces_to_highlight = {  } 
+
+		trigger = {
+			palestine_area = {
+				type = all
+				country_or_non_sovereign_subject_holds = ROOT
+				development = 10
+			}
+			trans_jordan_area = {
+				type = all
+				country_or_non_sovereign_subject_holds = ROOT
+				development = 10
+			}
+			syria_area = {
+				type = all
+				country_or_non_sovereign_subject_holds = ROOT
+				development = 15
+			}
+			aleppo_area = {
+				type = all
+				country_or_non_sovereign_subject_holds = ROOT
+				development = 15
+			}
+		}
+
+		effect = {
+			anatolia_region = { add_permanent_claim = ROOT } 
+			palestine_area = {
+				add_province_modifier = {
+					name = "prosperous_holy_land"
+					duration = -1
+				}
+			}
+		}
+	}
+
+	VAN_subdue_hokun = {
+		icon = anatolian_frontier
+		position = 8
+		required_missions = {
+			VAN_holy_land
+			VAN_land_wars_in_asia
+		}
+		provinces_to_highlight = {  } 
+
+		trigger = {
+			num_of_provinces_owned_or_owned_by_non_sovereign_subjects_with = {
+				value = 30
+				region = anatolia_region
+			}
+		}
+
+		effect = {
+			add_country_modifier = {
+				name = "arm_new_anatolian_hegemon"
+				duration = -1
+			}
+			add_casus_belli = {
+				type = cb_vassalize_mission
+				target = BYZ
+			}
+		}
+	}
+
+	VAN_enter_interior_lake = {
+		icon = mission_mal_west_african_great_power
+		position = 10
+		required_missions = { VAN_follow_nile } 
+		provinces_to_highlight = {  } 
+
+		trigger = {
+			darfur_central_sahara_area = {
+				type = all
+				country_or_non_sovereign_subject_holds = ROOT
+			}
+			kanem_area = {
+				type = all
+				country_or_non_sovereign_subject_holds = ROOT
+			}
+			bornu_area = {
+				type = all
+				country_or_non_sovereign_subject_holds = ROOT
+			}
+		}
+
+		effect = {
+			sahel_region = { add_permanent_claim = ROOT } 
+			add_country_modifier = {
+				name = "wealth_of_africa_modifier"
+				duration = -1
+			}
+		}
+	}
+
+	VAN_full_house = {
+		icon = mission_swedish_military_advise
+		position = 13
+		provinces_to_highlight = {  } 
+
+		trigger = {
+			has_adm_advisor = yes
+			has_dip_advisor = yes
+			has_mil_advisor = yes
+		}
+
+		effect = {
+			add_country_modifier = {
+				name = "educated_advisors"
+				duration = 18250
+			}
+		}
+	}
+
+	VAN_spread_faith = {
+		icon = mission_interfaith_relations
+		position = 15
+		required_missions = {
+			VAN_clerical_control
+			VAN_full_house
+		}
+		provinces_to_highlight = {  } 
+
+		trigger = {
+			num_of_provinces_owned_or_owned_by_non_sovereign_subjects_with = {
+				value = 50
+				religion = alexandrian
+			}
+		}
+
+		effect = {
+			add_country_modifier = {
+				name = "spreading_the_faith"
+				duration = -1
+			}
+			custom_tooltip = gain_core_on_every_alexandrian_province
+			hidden_effect = {
+				every_province = {
+					limit = { religion = alexandrian } 
+					add_core = ROOT
+				}
+			}
+		}
+	}
+}
+VAN_4 = {
+	slot = 4
+	generic = no
+	ai = yes
+	has_country_shield = yes
+	potential = { tag = VAN } 
+
+	VAN_prepare_army = {
+		icon = mission_build_up_to_force_limit
+		position = 1
+		provinces_to_highlight = {  } 
+
+		trigger = { army_size_percentage = 1.0 } 
+
+		effect = {
+			add_country_modifier = {
+				name = "msi_prepared_for_war"
+				duration = 18250
+			}
+		}
+	}
+
+	VAN_defenders_of_jerusalem = {
+		icon = mission_found_the_city_of_agra
+		position = 6
+		required_missions = { VAN_holy_city } 
+		provinces_to_highlight = {  } 
+
+		trigger = {
+			num_of_provinces_owned_or_owned_by_non_sovereign_subjects_with = {
+				value = 2
+				area = palestine_area
+				has_fort_building_trigger = yes
+			}
+		}
+
+		effect = {
+			mashriq_region = { add_permanent_claim = ROOT } 
+			palestine_area = {
+				add_province_modifier = {
+					name = "boh_fortification_effort"
+					duration = -1
+				}
+			}
+		}
+	}
+
+	VAN_land_wars_in_asia = {
+		icon = levantine_missions
+		position = 7
+		required_missions = { VAN_defenders_of_jerusalem } 
+		provinces_to_highlight = {  } 
+
+		trigger = {
+			num_of_provinces_owned_or_owned_by_non_sovereign_subjects_with = {
+				value = 20
+				region = mashriq_region
+			}
+		}
+
+		effect = {
+			add_country_modifier = {
+				name = "conquest_of_the_levant"
+				duration = 36500
+			}
+		}
+	}
+
+	VAN_true_romans = {
+		icon = mission_fall_of_constantinople
+		position = 9
+		required_missions = { VAN_subdue_hokun } 
+		provinces_to_highlight = {  } 
+
+		trigger = { BYZ = { is_subject_of = ROOT }  } 
+
+		effect = { balkan_region = { add_permanent_claim = BYZ }  } 
+	}
+
+	VAN_nilotic_trade = {
+		icon = mission_west_african_ports
+		position = 12
+		provinces_to_highlight = {  } 
+
+		trigger = {
+			vostani_area = {
+				type = all
+				development = 10
+			}
+			said_area = {
+				type = all
+				development = 10
+			}
+		}
+
+		effect = {
+			vostani_area = {
+				add_province_modifier = {
+					name = "ara_nile_production_monopoly_modifier"
+					duration = -1
+				}
+			}
+			said_area = {
+				add_province_modifier = {
+					name = "ara_nile_production_monopoly_modifier"
+					duration = -1
+				}
+			}
+		}
+	}
+
+	VAN_centers_of_learning = {
+		icon = mission_early_modern_university
+		position = 14
+		required_missions = {
+			VAN_full_house
+			VAN_nilotic_trade
+		}
+		provinces_to_highlight = {  } 
+
+		trigger = {
+			num_of_owned_provinces_with = {
+				value = 3
+				development = 30
+				has_building = university
+			}
+		}
+
+		effect = {
+			361 = {
+				add_great_project_tier = {
+					type = al_azhar_university
+					tier = 1
+				}
+			}
+		}
+	}
+}
+VAN_5 = {
+	slot = 5
+	generic = no
+	ai = yes
+	has_country_shield = yes
+	potential = { tag = VAN } 
+
+	VAN_removal_of_autonomies = {
+		icon = mission_autocratic_rule
+		position = 2
+		required_missions = { VAN_prepare_army } 
+		provinces_to_highlight = {  } 
+
+		trigger = { KNI = { exists = no }  } 
+
+		effect = {
+			tunisia_area = {
+				add_province_modifier = {
+					name = "port_of_carthago"
+					duration = -1
+				}
+			}
+		}
+	}
+
+	VAN_port_of_carthago = {
+		icon = mission_conquer_tunisia
+		position = 3
+		required_missions = { VAN_removal_of_autonomies } 
+		provinces_to_highlight = {  } 
+
+		trigger = {
+			tunisia_area = {
+				type = all
+				num_of_times_improved_by_owner = 1
+			}
+		}
+
+		effect = {
+			kabylia_area = { add_permanent_claim = ROOT } 
+			north_saharan_area = { add_permanent_claim = ROOT } 
+			ouled_nail_area = { add_permanent_claim = ROOT } 
+			fezzan_area = { add_permanent_claim = ROOT } 
+		}
+	}
+
+	VAN_claim_numidia = {
+		icon = mission_control_the_barbary_coast
+		position = 4
+		required_missions = { VAN_port_of_carthago } 
+		provinces_to_highlight = {  } 
+
+		trigger = {
+			kabylia_area = {
+				type = all
+				country_or_non_sovereign_subject_holds = ROOT
+			}
+			ouled_nail_area = {
+				type = all
+				country_or_non_sovereign_subject_holds = ROOT
+			}
+		}
+
+		effect = {
+			maghreb_region = { add_permanent_claim = ROOT } 
+			add_country_modifier = {
+				name = "refoming_barbary_pirates"
+				duration = -1
+			}
+		}
+	}
+
+	VAN_supplant_mauritania = {
+		icon = mission_the_sultan_of_morocco
+		position = 5
+		required_missions = { VAN_claim_numidia } 
+		provinces_to_highlight = {  } 
+
+		trigger = {
+			maghreb_region = {
+				type = all
+				OR = {
+					country_or_non_sovereign_subject_holds = ROOT
+					is_empty = yes
+				}
+			}
+		}
+
+		effect = {
+			add_country_modifier = {
+				name = "ITA_conquest_of_africa_2"
+				duration = -1
+			}
+		}
+	}
+
+	VAN_holy_coast = {
+		icon = convert_the_holy_lands
+		position = 7
+		required_missions = {
+			VAN_defenders_of_jerusalem
+			VAN_supplant_mauritania
+		}
+		provinces_to_highlight = {  } 
+
+		trigger = {
+			num_of_owned_provinces_with = {
+				value = 5
+				has_dock_building_trigger = yes
+			}
+		}
+
+		effect = {
+			add_country_modifier = {
+				name = "eng_the_man_of_war"
+				duration = -1
+			}
+		}
+	}
+
+	VAN_local_collaboration = {
+		icon = mission_levantine_restoration
+		position = 8
+		required_missions = { VAN_land_wars_in_asia } 
+		provinces_to_highlight = {  } 
+
+		trigger = { accepted_culture = al_suryah_arabic } 
+
+		effect = { persia_region = { add_permanent_claim = ROOT }  } 
+	}
+
+	VAN_route_to_india = {
+		icon = mission_dominate_persian_gulf
+		position = 9
+		required_missions = { VAN_local_collaboration } 
+		provinces_to_highlight = {  } 
+
+		trigger = {
+			num_of_provinces_owned_or_owned_by_non_sovereign_subjects_with = {
+				value = 20
+				region = persia_region
+			}
+		}
+
+		effect = {
+			add_country_modifier = {
+				name = "conquest_of_persia"
+				duration = -1
+			}
+		}
+	}
+
+	VAN_breadbasket_of_mediterranean = {
+		icon = mission_clear_the_delta
+		position = 11
+		provinces_to_highlight = {  } 
+
+		trigger = {
+			num_of_owned_provinces_with = {
+				value = 1
+				area = delta_area
+				province_has_center_of_trade_of_level = 3
+			}
+			delta_area = {
+				type = all
+				has_trade_building_trigger = yes
+				province_has_center_of_trade_of_level = 2
+			}
+		}
+
+		effect = {
+			delta_area = {
+				add_province_modifier = {
+					name = "pol_breadbasket_europe_modifier"
+					duration = -1
+				}
+				add_prosperity = 50
+			}
+		}
+	}
+
+	VAN_old_ports = {
+		icon = mission_secure_hajj_ports
+		position = 12
+		required_missions = { VAN_breadbasket_of_mediterranean } 
+		provinces_to_highlight = {  } 
+
+		trigger = {
+			cyrenaica_area = {
+				type = all
+				num_of_times_improved = 3
+			}
+		}
+
+		effect = {
+			define_advisor = {
+				type = trader
+				cost_multiplier = 0.5
+				skill = 2
+				location = 357
+			}
+		}
+	}
+
+	VAN_triple_cities = {
+		icon = mission_portuguese_malacca
+		position = 13
+		required_missions = {
+			VAN_nilotic_trade
+			VAN_old_ports
+		}
+		provinces_to_highlight = {  } 
+
+		trigger = {
+			tripolitania_area = {
+				type = all
+				num_of_times_improved = 3
+			}
+		}
+
+		effect = {
+			add_years_of_trade_income = { years = 3 } 
+			add_adm_power = 100
+			add_dip_power = 100
+			add_mil_power = 100
+		}
+	}
+
+	VAN_beginnings_of_industry = {
+		icon = mission_industrialize_bengal
+		position = 15
+		required_missions = {
+			VAN_centers_of_learning
+			VAN_triple_cities
+		}
+		provinces_to_highlight = {  } 
+
+		trigger = {
+			num_of_owned_provinces_with = {
+				value = 10
+				has_manufactory_trigger = yes
+			}
+		}
+
+		effect = {
+			add_country_modifier = {
+				name = "qng_industrial_revolution_modifier"
+				duration = -1
+			}
+		}
+	}
+}

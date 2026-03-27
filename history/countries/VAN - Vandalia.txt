@@ -1,5 +1,5 @@
 government = monarchy
-add_government_reform = mamluk_government
+add_government_reform = vandal_empire_reform
 primary_culture = lower_egyptian
 religion = alexandrian
 technology_group = western
@@ -15,3 +15,4 @@ capital = 358# Alexandria
 }
 government_rank = 3
 add_historical_rival = KOJ
+add_historical_rival = NAP

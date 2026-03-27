@@ -1,0 +1,150 @@
+﻿l_english:
+ VAN_italian_blockade_title: "Italian Blockade"
+ VAN_italian_blockade_desc: ""
+
+ VAN_control_calabria_title: "Control Calabria"
+ VAN_control_calabria_desc: ""
+
+ VAN_sacking_of_naples_title: "The Sacking of Naples"
+ VAN_sacking_of_naples_desc: ""
+
+ VAN_expand_capital_title: "Expand the Capital"
+ VAN_expand_capital_desc: ""
+
+ VAN_ethiopian_conquest_title: "Ethiopian Conquest"
+ VAN_ethiopian_conquest_desc: ""
+
+ VAN_memphis_to_macrobia_title: "Memphis to Macrobia"
+ VAN_memphis_to_macrobia_desc: ""
+
+ VAN_protectors_of_africa_title: "Protector of Africa"
+ VAN_protectors_of_africa_desc: ""
+
+ VAN_long_time_enemy_title: "Long Time Enemy"
+ VAN_long_time_enemy_desc: ""
+
+ VAN_invasion_fleet_title: "Invasion Fleet"
+ VAN_invasion_fleet_desc: ""
+
+ VAN_control_apulia_title: "Control Apulia"
+ VAN_control_apulia_desc: ""
+
+ VAN_syrian_city_title: "The Syrian City"
+ VAN_syrian_city_desc: ""
+
+ VAN_kemetic_construction_title: "Kemetic Construction"
+ VAN_kemetic_construction_desc: ""
+
+ VAN_follow_nile_title: "Follow the Nile"
+ VAN_follow_nile_desc: ""
+
+ VAN_azanian_emporiae_title: "Azanian Emporiae"
+ VAN_azanian_emporiae_desc: ""
+
+ VAN_land_of_muhammad_title: "The Land of Muhammad"
+ VAN_land_of_muhammad_desc: ""
+
+ VAN_clerical_control_title: "Clerical Control"
+ VAN_clerical_control_desc: ""
+
+ VAN_second_hundred_years_war_title: "Second Hundred Years War"
+ VAN_second_hundred_years_war_desc: ""
+
+ VAN_solidifying_control_title: "Solidifying Control"
+ VAN_solidifying_control_desc: ""
+
+ VAN_eastern_bulwark_title: "Eastern Bulwark"
+ VAN_eastern_bulwark_desc: ""
+
+ VAN_holy_city_title: "The Holy City"
+ VAN_holy_city_desc: ""
+
+ VAN_holy_land_title: "The Holy Land"
+ VAN_holy_land_desc: ""
+
+ VAN_subdue_hokun_title: "Subdue Hokun"
+ VAN_subdue_hokun_desc: ""
+
+ VAN_enter_interior_lake_title: "Enter the Interior Lake"
+ VAN_enter_interior_lake_desc: ""
+
+ VAN_full_house_title: "A Full House"
+ VAN_full_house_desc: ""
+
+ VAN_spread_faith_title: "Spread the Faith"
+ VAN_spread_faith_desc: ""
+
+ VAN_prepare_army_title: "Prepare the Army"
+ VAN_prepare_army_desc: ""
+
+ VAN_defenders_of_jerusalem_title: "Defenders of Jerusalem"
+ VAN_defenders_of_jerusalem_desc: ""
+
+ VAN_land_wars_in_asia_title: "Land Wars in Asia"
+ VAN_land_wars_in_asia_desc: ""
+
+ VAN_true_romans_title: "True Romans"
+ VAN_true_romans_desc: ""
+
+ VAN_nilotic_trade_title: "The Nilotic Trade"
+ VAN_nilotic_trade_desc: ""
+
+ VAN_centers_of_learning_title: "Centers of Learning"
+ VAN_centers_of_learning_desc: ""
+
+ VAN_removal_of_autonomies_title: "The Removal of Autonomies"
+ VAN_removal_of_autonomies_desc: ""
+
+ VAN_port_of_carthago_title: "The Port of Carthago"
+ VAN_port_of_carthago_desc: ""
+
+ VAN_claim_numidia_title: "Claim Numidia"
+ VAN_claim_numidia_desc: ""
+
+ VAN_supplant_mauritania_title: "Suppland Mauritania"
+ VAN_supplant_mauritania_desc: ""
+
+ VAN_holy_coast_title: "The Holy Coast"
+ VAN_holy_coast_desc: ""
+
+ VAN_local_collaboration_title: "Local Collaboration"
+ VAN_local_collaboration_desc: ""
+
+ VAN_route_to_india_title: "A Route to India"
+ VAN_route_to_india_desc: ""
+
+ VAN_breadbasket_of_mediterranean_title: "Mediterranean Breadbasket"
+ VAN_breadbasket_of_mediterranean_desc: ""
+
+ VAN_old_ports_title: "Old Ports"
+ VAN_old_ports_desc: ""
+
+ VAN_triple_cities_title: "The Triple Cities"
+ VAN_triple_cities_desc: ""
+
+ VAN_beginnings_of_industry_title: "Beginnings of Industry"
+ VAN_beginnings_of_industry_desc: ""
+
+# Modifiers
+ cushitic_conquest: "Cushitic Conquest"
+ desc_cushitic_conquest: ""
+ desc_source_of_the_nile: ""
+ trained_sailors: "Trained Sailors"
+ desc_trained_sailors: ""
+ defenders_of_holy_land: "Defenders of the Holy Land"
+ desc_defenders_of_holy_land: ""
+ african_inroads: "African Inroads"
+ desc_african_inroads: ""
+ second_hundred_years_war: "The Second Hundred Years War"
+ desc_second_hundred_years_war: ""
+ prosperous_holy_land: "Prosperous Holy Land"
+ desc_prosperous_holy_land: ""
+ educated_advisors: "Educated Advisors"
+ desc_educated_advisors: ""
+ spreading_the_faith: "Spreading the Faith"
+ desc_spreading_the_faith: ""
+ port_of_carthago: "Port of Carthago"
+ desc_port_of_carthago: ""
+
+# Tooltips
+ gain_core_on_every_alexandrian_province: "Gain a core on every §YAlexandrian§! province in the world"

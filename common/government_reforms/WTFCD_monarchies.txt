@@ -1,0 +1,39 @@
+
+vandal_empire_reform = {
+	icon = "king"
+	lock_level_when_selected = yes
+	allow_normal_conversion = yes
+	potential = {
+		OR = {
+			has_reform = vandal_empire_reform
+			have_had_reform = vandal_empire_reform
+		}
+	}
+	trigger = {
+		primary_culture = lower_egyptian
+	}
+	nation_designer_trigger = {
+		primary_culture = lower_egyptian
+	}
+	conditional = {
+		allow = { 
+			has_dlc = "Winds of Change" 
+			has_dlc = "Golden Century"
+		}
+		custom_attributes = {
+			order_of_the_dragon_unlocked = yes
+		}
+	}
+	valid_for_nation_designer = yes
+	nation_designer_cost = 15
+
+	modifiers = {
+		global_autonomy = -0.05
+		warscore_cost_vs_other_religion = -0.1
+		ae_impact = -0.1
+		advisor_pool = 2
+	}
+	ai = {
+		factor = 1
+	}
+}
